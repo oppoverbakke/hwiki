@@ -35,7 +35,10 @@ I use the Micro Four Thirds-system for most of my photography. This is light and
     </tr>
     <tr>
       <td style="text-align:left">Polaroid</td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <p>Z340</p>
+        <p>Snap</p>
+      </td>
     </tr>
   </tbody>
 </table>
