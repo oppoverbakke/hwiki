@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is my personal wiki. Available to the public for everyone to read.
+This is my personal wiki. Available for everyone to read.
 
 ### What can I find here?
 
