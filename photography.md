@@ -4,6 +4,8 @@ I like cameras and using them to take pictures. You can see some of the pictures
 
 I use the Micro Four Thirds-system for most of my photography. This is light and compact, and at the same time fulfill my quality requirements.
 
+#### Cameras
+
 <table>
   <thead>
     <tr>
@@ -41,7 +43,13 @@ I use the Micro Four Thirds-system for most of my photography. This is light and
       </td>
     </tr>
   </tbody>
-</table>### External content:
+</table>#### Other hardware
+
+| Name | Description |
+| :--- | :--- |
+| [Loupedeck+](https://loupedeck.com/) | Editing keyboard for Lightroom |
+
+### External content:
 
 <table>
   <thead>
@@ -72,5 +80,5 @@ I use the Micro Four Thirds-system for most of my photography. This is light and
       </td>
     </tr>
   </tbody>
-</table> 
+</table>
 

@@ -13,10 +13,11 @@ description: Software I enjoy and use (and maybe not known to you already).
 
 ### Mac OS applications
 
-| Name | Description | More information |
-| :--- | :--- | :--- |
-| Bartender | Hide menu bar items. | [https://www.macbartender.com/](https://www.macbartender.com/) |
-| LibreOffice | Open-source text software. | [https://www.libreoffice.org/](https://www.libreoffice.org/) |
+| Name | Description |
+| :--- | :--- |
+| [Bartender](https://www.macbartender.com/) | Hide menu bar items. |
+| [LibreOffice](https://www.libreoffice.org/) | Open-source text software. |
+| [Boom](https://www.globaldelight.com/boom/index.php) | Volume booster and equalizer. |
 
 _Most of these are also available on other platforms._
 

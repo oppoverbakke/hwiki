@@ -70,3 +70,14 @@ Her er en oversikt over noen av podkastene jeg lytter til sortert etter de ulike
 * The Tim Ferriss Show
 * VG — Skartveit
 
+## Stats
+
+{% hint style="info" %}
+* 97 podcasts currently subsribed to
+* Listening since 21.02.2017:
+  * 70 days listened
+  * 56 days saved \(using variable speed etc.\)
+
+_\(Last updated 14.04.2019\)_
+{% endhint %}
+
