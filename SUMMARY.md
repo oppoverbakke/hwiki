@@ -9,3 +9,8 @@
 * [Leisure](leisure.md)
 * [Productivity](productivity.md)
 
+## Podcasts
+
+* [Podcasts \(norwegian\)](podcasts-1/podcasts-norwegian.md)
+* [Podcasts \(eng\)](podcasts-1/podcasts-eng.md)
+
