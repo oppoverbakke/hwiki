@@ -6,20 +6,25 @@
 >
 > _Source:_ [_How social media took us from Tahrir Square to Donald Trump_](https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/)\_\_
 
+### Resources
+
+| Name and link | Description |
+| :--- | :--- |
+| [Privacy respecting](https://github.com/nikitavoloboev/privacy-respecting#readme) | Curated List of Privacy Respecting Services and Software |
+
 ### Websites
 
-| Purpose | Name and link |
+| Name and link | Purpose |
 | :--- | :--- |
-| Search | [DuckDuckGo](https://duck.com) |
+| [DuckDuckGo](https://duck.com) | Search |
 
 ### _Software_
 
-| Purpose | Name and link |
+| Name and link | Purpose |
 | :--- | :--- |
-| Browser | Firefox and Firefoc Focus |
-| Browser | Brave |
-
- __
+| [Firefox](https://www.mozilla.org) and Firefox Focus | Browser \(Quantum\) |
+| [Brave](https://brave.com/) | Browser \(Chromium\) |
+| [Jottacloud](https://www.jottacloud.com/) | Backup |
 
 {% hint style="info" %}
 _See also the previous page:_
