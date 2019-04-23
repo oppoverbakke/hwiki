@@ -6,27 +6,27 @@ description: (Norwegian content)
 
 Her er en oversikt over noen av podkastene jeg lytter til sortert etter de ulike spillelistene mine. Mest laget for min egen del når jeg oppdaterer spillelistene, men kanskje oppdager du noen her som du også vil like.
 
-**Prioritert \(24\)**
+**Prioritert \(19\)**
 
 * Dialogisk
-* Freakonomics Radio
-* Why’d You Push That Button?
+* Forklart
+* The Vergecast
 
-**Teknologi \(41\)**
+**Teknologi \(42\)**
 
 * Reply All
 * Note to Self
-* IRL: Online Life Is Real Life
+* Decrypted
 
 **Samfunn \(27\)**
 
 * Aftenpodden
 * Forklart
-* Planet Money
+* Gievær og gjengen - VG
 
-**Norsk \(83\)**
+**Norsk \(90\)**
 
-* Hva er greia med?
+* Må på behandling
 * Konspirasjonspodden
 * NRK — P3 Dokumentar
 
