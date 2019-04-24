@@ -24,21 +24,21 @@ Her er en oversikt over noen av podkastene jeg lytter til sortert etter de ulike
 * Forklart
 * Gievær og gjengen - VG
 
-**Norsk \(90\)**
+**Norsk \(91\)**
 
-* Må på behandling
-* Konspirasjonspodden
+* Teknologimagasinet Aftenposten
+* LØRN.TECH
 * NRK — P3 Dokumentar
 
-**Underholdning \(21\)**
+**Underholdning \(23\)**
 
 * Kvinneguidens venner
-* Tore Sagens podkast
+* Må på behandling - Med Morten Ramm
 * Ukentlig — med BMI
 
-**Serier \(N/A\)**
+**Serier \(6\)**
 
-* Dirty John
+* The Dropout
 * Hos Peder
 * S-Town
 
@@ -48,23 +48,23 @@ Her er en oversikt over noen av podkastene jeg lytter til sortert etter de ulike
 * Hele historien
 * Pessimists Archive Podcast
 
-**Vitenskap \(19\)**
+**Vitenskap \(24\)**
 
 * The Infinite Monkey Cage
 * Psykologlunsj
 * LØRN.TECH
 
-**Kort \(4\)**
+**Kort \(6\)**
 
 * Ekko
-* Sysla Podsnap
+* Mandagsmøtet
 * Nasjonal Sikkerhetsmyndighet \(NSM\)
 
 **Video \(1\)**
 
 * TEDTalks Technology
 
-**Intervju \(11\)**
+**Intervju \(12\)**
 
 * Rekommandert
 * The Tim Ferriss Show
@@ -73,11 +73,11 @@ Her er en oversikt over noen av podkastene jeg lytter til sortert etter de ulike
 ## Stats
 
 {% hint style="info" %}
-* 97 podcasts currently subsribed to
+* 99 podcasts currently subsribed to
 * Listening since 21.02.2017:
-  * 70 days listened
-  * 56 days saved \(using variable speed etc.\)
+  * 71 days listened
+  * 57 days saved \(using variable speed etc.\)
 
-_\(Last updated 14.04.2019\)_
+_\(Last updated 24.04.2019\)_
 {% endhint %}
 
