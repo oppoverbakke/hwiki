@@ -6,10 +6,10 @@ description: Software I enjoy and use (and maybe not known to you already).
 
 ### Cross-platform applications
 
-| Name | Description | More information |
-| :--- | :--- | :--- |
-| 1Password | Manage passwords. | [https://1password.com/](https://1password.com/) |
-| Jottacloud | Online automatic backup. | [https://www.jottacloud.com](https://www.jottacloud.com/nb/) |
+| Name | Description |
+| :--- | :--- |
+| [1Password](https://1password.com/) | Manage passwords. |
+| [Jottacloud](https://www.jottacloud.com/) | Online automatic backup. |
 
 ### Mac OS applications
 
@@ -25,23 +25,17 @@ _Most of these are also available on other platforms._
 
 | Name | Description |
 | :--- | :--- |
-| Pocket Casts | Play and discover [podcasts](podcasts.md). |
-| Firefox and Firefox Focus | Internet browsers |
-| Bratt | _\(Norwegian\)_ Indikerer grafisk på kart hvor bratt terrenget er. |
-| Google Trips | Good organisation of trips. |
-| Geocaching | Outdoor recreational activity using GPS. |
-
-### iOS Shortcuts
-
-| Name | Description | Download |
-| :--- | :--- | :--- |
-|  |  |  |
+| [Pocket Casts](https://www.pocketcasts.com/) | Play and discover [podcasts](podcasts.md). |
+| [Firefox](https://firefox.com/) and [Firefox Focus](https://www.mozilla.org/en-US/firefox/mobile/) | Internet browsers |
+| [Bratt](https://itunes.apple.com/no/app/bratt/id1121510874) | _\(Norwegian\)_ Indikerer grafisk på kart hvor bratt terrenget er. |
+| [Google Trips](https://get.google.com/trips/) | Good organisation of trips. |
+| [Geocaching](https://www.geocaching.com/play/search) | Outdoor recreational activity using GPS. |
 
 ### Websites
 
 | Name | Description |
 | :--- | :--- |
-| [Brain.fm](https://brain.fm) | Background music. \(Also available on iOS\) |
+| [Brain.fm](https://brain.fm) | Background music and meditation. \(Also available as App on iOS and Android\) |
 | [tomato.es](http://www.tomato.es/) | Pomodoro time tracker. |
 | [HaveIBeenPwned.com](https://haveibeenpwned.com/Passwords) | Check if you have an account that has been compromised in a data breach |
 

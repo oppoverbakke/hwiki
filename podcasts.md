@@ -8,76 +8,76 @@ Her er en oversikt over noen av podkastene jeg lytter til sortert etter de ulike
 
 **Prioritert \(19\)**
 
-* Dialogisk
-* Forklart
-* The Vergecast
+* [Dialogisk](https://www.modernemedia.no/dialogisk)
+* [Forklart](https://www.aftenposten.no/emne/Forklart)
+* [The Vergecast](https://www.theverge.com/the-vergecast)
 
 **Teknologi \(42\)**
 
-* Reply All
-* Note to Self
-* Decrypted
+* [Reply All](https://gimletmedia.com/shows/reply-all)
+* [Note to Self](https://www.wnycstudios.org/shows/notetoself)
+* [Decrypted](https://www.bloomberg.com/podcasts/decrypted)
 
 **Samfunn \(27\)**
 
-* Aftenpodden
-* Forklart
-* Gievær og gjengen - VG
+* [Aftenpodden](https://www.aftenposten.no/podkast#/aftenpodden)
+* [Stormkast med Valebrokk & Stordalen](https://podtail.com/no/podcast/stormkast-med-valebrokk-stordalen/)
+* [Gievær og gjengen - VG](https://www.vg.no/podcast/giaever-og-joffen/)
 
 **Norsk \(91\)**
 
-* Teknologimagasinet Aftenposten
-* LØRN.TECH
-* NRK — P3 Dokumentar
+* [Teknologimagasinet Aftenposten](https://www.aftenposten.no/tag/Teknologimagasinet)
+* [LØRN.TECH](https://lorn.tech/)
+* [NRK — P3 Dokumentar](https://p3.no/dokumentar/)
 
 **Underholdning \(23\)**
 
-* Kvinneguidens venner
-* Må på behandling - Med Morten Ramm
-* Ukentlig — med BMI
+* [Kvinneguidens venner](https://podtail.com/no/podcast/kvinneguidens-venner/)
+* [Må på behandling - Med Morten Ramm](https://podtail.com/no/podcast/ma-pa-behandling-med-morten-ramm/)
+* [Ukentlig — med BMI](https://podtail.com/podcast/ukentlig-med-bmi/)
 
 **Serier \(6\)**
 
-* The Dropout
-* Hos Peder
-* S-Town
+* [The Dropout](http://abcradio.com/podcasts/the-dropout/)
+* [Hos Peder](https://radio.nrk.no/podkast/hos_peder/nrkno-poddkast-25572-129444-10012018015400)
+* [S-Town](https://stownpodcast.org/)
 
 **Dokumentar \(13\)**
 
-* 99% Invisible
-* Hele historien
-* Pessimists Archive Podcast
+* [99% Invisible](https://99percentinvisible.org/)
+* [Hele historien](https://www.nrk.no/dokumentar/xl/hele-historien-1.13872591)
+* [Pessimists Archive Podcast](https://pessimists.co/)
 
 **Vitenskap \(24\)**
 
-* The Infinite Monkey Cage
-* Psykologlunsj
-* LØRN.TECH
+* [The Infinite Monkey Cage](https://www.bbc.co.uk/programmes/b00snr0w/episodes/downloads)
+* [Psykologlunsj](https://podtail.com/no/podcast/psykologlunsj/)
+* [LØRN.TECH](https://lorn.tech/)
 
 **Kort \(6\)**
 
-* Ekko
-* Mandagsmøtet
-* Nasjonal Sikkerhetsmyndighet \(NSM\)
+* [Ekko](https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram)
+* [Mandagsmøtet](https://www.dn.no/staticprojects/2019/01/mandagsmotet/)
+* [Nasjonal Sikkerhetsmyndighet \(NSM\)](https://www.nsm.stat.no/blogg/)
 
 **Video \(1\)**
 
-* TEDTalks Technology
+* [TEDTalks Technology](https://www.ted.com/topics/technology)
 
 **Intervju \(12\)**
 
-* Rekommandert
-* The Tim Ferriss Show
-* VG — Skartveit
+* [Rekommandert](http://www.rubicontv.no/radio/25/rekommandert)
+* [The Tim Ferriss Show](https://tim.blog/podcast/)
+* [VG — Skartveit](https://www.vg.no/podcast/skartveit/)
 
 ## Stats
 
 {% hint style="info" %}
-* 99 podcasts currently subsribed to
+* 100 podcasts currently subsribed to
 * Listening since 21.02.2017:
   * 71 days listened
   * 57 days saved \(using variable speed etc.\)
 
-_\(Last updated 24.04.2019\)_
+_\(Last updated 27.04.2019\)_
 {% endhint %}
 

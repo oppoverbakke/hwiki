@@ -22,7 +22,7 @@
 
 | Name and link | Purpose |
 | :--- | :--- |
-| [Firefox](https://www.mozilla.org) and Firefox Focus | Browser \(Quantum\) |
+| [Firefox](https://firefox.com/) and [Firefox Focus](https://www.mozilla.org/en-US/firefox/mobile/) | Browser \(Quantum\) |
 | [Brave](https://brave.com/) | Browser \(Chromium\) |
 | [Jottacloud](https://www.jottacloud.com/) | Backup |
 
