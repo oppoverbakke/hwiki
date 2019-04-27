@@ -10,7 +10,7 @@ This wiki is filled with content I'm interested in. Mostly somehow related to te
 
 ### How to use
 
-Use the search field on the top right or use the navigation menu to the left to browse topics.
+Use the navigation menu to the left to browse topics or the search field on the top right.
 
 ### This isnt what I was looking for
 
