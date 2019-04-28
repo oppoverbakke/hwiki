@@ -1,11 +1,13 @@
 ---
-description: (Norwegian content)
+description: 'Mostly Norwegian content. Click on "Filter: english" for only english content.'
 ---
 
 # Podcasts
 
 Her er en oversikt over noen av podkastene jeg lytter til sortert etter de ulike spillelistene mine. Mest laget for min egen del når jeg oppdaterer spillelistene, men kanskje oppdager du noen her som du også vil like.
 
+{% tabs %}
+{% tab title="Playlists" %}
 **Prioritert \(19\)**
 
 * [Dialogisk](https://www.modernemedia.no/dialogisk)
@@ -69,6 +71,52 @@ Her er en oversikt over noen av podkastene jeg lytter til sortert etter de ulike
 * [Rekommandert](http://www.rubicontv.no/radio/25/rekommandert)
 * [The Tim Ferriss Show](https://tim.blog/podcast/)
 * [VG — Skartveit](https://www.vg.no/podcast/skartveit/)
+{% endtab %}
+
+{% tab title="Filter: english" %}
+**Priority**
+
+* [The Vergecast](https://www.theverge.com/the-vergecast)
+
+**Technology**
+
+* [Reply All](https://gimletmedia.com/shows/reply-all)
+* [Note to Self](https://www.wnycstudios.org/shows/notetoself)
+* [Decrypted](https://www.bloomberg.com/podcasts/decrypted)
+
+**Society -** _\(only Norwegian\)_
+
+**Norwegian -** _\(only Norwegian\)_
+
+**Entertainment -** _\(only Norwegian\)_
+
+**Shows**
+
+* [The Dropout](http://abcradio.com/podcasts/the-dropout/)
+* [S-Town](https://stownpodcast.org/)
+
+**Documentary**
+
+* [99% Invisible](https://99percentinvisible.org/)
+* [Pessimists Archive Podcast](https://pessimists.co/)
+
+**Science**
+
+* [The Infinite Monkey Cage](https://www.bbc.co.uk/programmes/b00snr0w/episodes/downloads)
+* [Psykologlunsj](https://podtail.com/no/podcast/psykologlunsj/)
+* [LØRN.TECH](https://lorn.tech/)
+
+**Short -** _\(only Norwegian\)_
+
+**Video**
+
+* [TEDTalks Technology](https://www.ted.com/topics/technology)
+
+**Interview**
+
+* [The Tim Ferriss Show](https://tim.blog/podcast/)
+{% endtab %}
+{% endtabs %}
 
 ## Stats
 
