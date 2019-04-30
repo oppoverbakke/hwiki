@@ -15,7 +15,7 @@
 * [Feedly](https://feedly.com/) - RSS reader
 * [Hacker News \(Original\)](https://news.ycombinator.com/) and [alternative interface](https://hckrnews.com/) - user submitted content
 * [Pocket](https://app.getpocket.com/)  - read later
-* [Pocket Casts](https://play.pocketcasts.com/) - podcasts _\(sound\)_
+* [Pocket Casts](https://play.pocketcasts.com/) - [podcasts](podcasts.md) _\(sound\)_
 * [Medium](https://medium.com/) __
 
 ### Materialism
