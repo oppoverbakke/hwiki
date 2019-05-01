@@ -1,10 +1,13 @@
 ---
-description: Software I enjoy and use (and maybe not known to you already).
+description: >-
+  Software I enjoy and use (and maybe not known to you already). Most of these
+  are available on several platforms, but I use and have written this from what
+  is available on Mac OS and iOS.
 ---
 
 # Software
 
-### Mac OS applications
+### Computer software
 
 | Name | Description |
 | :--- | :--- |
@@ -13,16 +16,14 @@ description: Software I enjoy and use (and maybe not known to you already).
 | [Boom](https://www.globaldelight.com/boom/index.php) | Volume booster and equalizer. |
 | [Jottacloud](https://www.jottacloud.com/) | Online automatic backup. |
 
-_Most of these are also available on other platforms._
-
-### iOS
+### Mobile software
 
 | Name | Description |
 | :--- | :--- |
 | [Pocket Casts](https://www.pocketcasts.com/) | Play and discover [podcasts](podcasts.md). |
 | [Firefox](https://firefox.com/) and [Firefox Focus](https://www.mozilla.org/en-US/firefox/mobile/) | Internet browsers |
 | [Bratt](https://itunes.apple.com/no/app/bratt/id1121510874) | _\(Norwegian\)_ Indikerer grafisk på kart hvor bratt terrenget er. |
-| [Google Trips](https://get.google.com/trips/) | Good organisation of trips. |
+| [Google Trips](https://get.google.com/trips/) | Organisation of travels. |
 | [Geocaching](https://www.geocaching.com/play/search) | Outdoor recreational activity using GPS. |
 
 ### Websites
