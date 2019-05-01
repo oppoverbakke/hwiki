@@ -20,7 +20,7 @@ Great, I would really appreciate if you added the issue [here](https://github.co
 
 Ok, check out [https://bakke.be](https://bakke.be) for other content from me. 
 
-If you want to have a look at content from others do I recommend my [starred repos on GitHub](https://github.com/bakke92?tab=stars).
+If you want to have a look at content from others do I recommend my [starred repositories on GitHub](https://github.com/bakke92?tab=stars).
 
 
 
