@@ -2,13 +2,13 @@
 
 I like cameras and using them to take pictures. Some of the pictures I have taken is available to view and buy here: [https://foto.bakke.be](https://foto.bakke.be/)
 
-#### Cameras
+#### Camera equipment
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Camera</th>
-      <th style="text-align:left">Related equipment</th>
+      <th style="text-align:left">Camera system</th>
+      <th style="text-align:left">Lenses (comments/model)</th>
     </tr>
   </thead>
   <tbody>
