@@ -11,6 +11,7 @@
 | Name and link | Description |
 | :--- | :--- |
 | [Privacy respecting](https://github.com/nikitavoloboev/privacy-respecting#readme) | Curated List of Privacy Respecting Services and Software |
+| [Awesome-GDPR](https://github.com/bakke92/awesome-gdpr) | My overview of tools and resources for privacy professionals. |
 
 ### Websites
 
