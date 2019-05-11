@@ -10,15 +10,37 @@
 
 ## Browsing
 
-Some websites based on my bookmarks.
+Some websites based on my bookmarks and subscriptions.
 
-### Reading
+### Content aggregators
 
 * [Feedly](https://feedly.com/) - RSS reader
 * [Hacker News \(Original\)](https://news.ycombinator.com/) and [alternative interface](https://hckrnews.com/) - user submitted content
 * [Pocket](https://app.getpocket.com/)  - read later
 * [Pocket Casts](https://play.pocketcasts.com/) - [podcasts](podcasts.md) _\(sound\)_
-* [Medium](https://medium.com/) __
+* [Medium](https://medium.com/) _-_ user submitted content
+* [Reddit](http://reddit.com/) __- user submitted content
+
+### Reading
+
+* Stratechery
+* Marco.org
+
+### Reading \(norsk\)
+
+* Chaffeys blogg
+* Olav Torvund
+* Roy Solberg
+* Personvernbloggen
+* [bekkelund.net](https://www.bekkelund.net/) - blogg om teknologi, samfunn og politikk
+* NRKbeta
+
+### Nyhetsbrev
+
+* [Helt.digital](https://helt.digital/ukebrief/) - teknologi og sosiale medier
+* [The Crypt](http://getthecrypt.com/) - business and finance newsletter
+* [5-bullet Friday](https://go.tim.blog/5-bullet-friday-1/) \(Tim Ferriss\) 
+* [Pocket Hits](https://getpocket.com/explore/pocket-hits)
 
 ### Materialism
 

@@ -13,11 +13,10 @@
 | [Privacy respecting](https://github.com/nikitavoloboev/privacy-respecting#readme) | Curated List of Privacy Respecting Services and Software |
 | [Awesome-GDPR](https://github.com/bakke92/awesome-gdpr) | My overview of tools and resources for privacy professionals. |
 
-### Websites
+### Ideas for better privacy:
 
-| Name and link | Purpose |
-| :--- | :--- |
-| [DuckDuckGo](https://duck.com) | Search |
+* [Platform for Privacy Preferences Project \(P3P\)](https://en.wikipedia.org/wiki/P3P)
+* [Finding a better solution for consenting to cookies](https://www.troyhunt.com/these-cookie-warning-shenanigans-have-got-to-stop/)
 
 ### _Software_
 
@@ -26,6 +25,10 @@
 | [Firefox](https://firefox.com/) and [Firefox Focus](https://www.mozilla.org/en-US/firefox/mobile/) | Browser \(Quantum\) |
 | [Brave](https://brave.com/) | Browser \(Chromium\) |
 | [Jottacloud](https://www.jottacloud.com/) | Backup |
+| [Signal](https://www.signal.org/) | Direct Messages |
+| [ProtonMail](https://protonmail.com/) | E-mail |
+| [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?src=search) | Ad-block |
+| [DuckDuckGo](https://duck.com) | Search |
 
 {% hint style="info" %}
 _See also the previous page:_
