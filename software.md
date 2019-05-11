@@ -15,6 +15,7 @@ description: >-
 | [LibreOffice](https://www.libreoffice.org/) | Open-source text software. |
 | [Boom](https://www.globaldelight.com/boom/index.php) | Volume booster and equalizer. |
 | [Jottacloud](https://www.jottacloud.com/) | Online automatic backup. |
+| [aText](http://www.trankynam.com/atext/) | Text expander. |
 
 ### Mobile software
 
@@ -36,7 +37,7 @@ description: >-
 
 ### Browser Extensions
 
-| Name | Description | Download |
+| Name | Description | Add to |
 | :--- | :--- | :--- |
 | uBlock Origin | Ad-blocker | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?src=search) - [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) |
 | 1Password | Password manager | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/1password-x-password-manager/) - [Chrome](https://chrome.google.com/webstore/detail/1password-x-%E2%80%93-password-ma/aeblfdkhhhdcdjpifhhbdiojplfjncoa) |

@@ -116,6 +116,28 @@ Her er en oversikt over noen av podkastene jeg lytter til sortert etter de ulike
 
 * [The Tim Ferriss Show](https://tim.blog/podcast/)
 {% endtab %}
+
+{% tab title="Prioritert" %}
+Alle podkaster i min prioriterte spilleliste:
+
+* Aftenpodden
+* Debrief med Dag
+* Dialogisk
+* E24-podden
+* Forklart
+* Frekonomics Radio
+* Gievær og gjengen - VG
+* Hidden Brain
+* Ida med hjertet i hånden
+* Kvinneguidens venner
+* Må på behandling - Med Morten Ramm
+* Note to Self
+* Psykologlunsj
+* Radiolab
+* Reply AllTeknologimagasinet Aftenposten
+* Ukentlig - med BMI
+* The Vergecast
+{% endtab %}
 {% endtabs %}
 
 ## Stats
@@ -123,9 +145,9 @@ Her er en oversikt over noen av podkastene jeg lytter til sortert etter de ulike
 {% hint style="info" %}
 * 100 podcasts currently subsribed to
 * Listening since 21.02.2017:
-  * 71 days listened
-  * 57 days saved \(using variable speed etc.\)
+  * 73 days listened
+  * 58 days saved \(using variable speed etc.\)
 
-_\(Last updated 27.04.2019\)_
+_\(Last updated 11.05.2019\)_
 {% endhint %}
 
