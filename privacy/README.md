@@ -10,13 +10,8 @@
 
 | Name and link | Description |
 | :--- | :--- |
-| [Privacy respecting](https://github.com/nikitavoloboev/privacy-respecting#readme) | Curated List of Privacy Respecting Services and Software |
+| [Privacy respecting](https://github.com/nikitavoloboev/privacy-respecting#readme) | Curated list of privacy respecting services and software. |
 | [Awesome-GDPR](https://github.com/bakke92/awesome-gdpr) | My overview of tools and resources for privacy professionals. |
-
-### Ideas for better privacy:
-
-* [Platform for Privacy Preferences Project \(P3P\)](https://en.wikipedia.org/wiki/P3P)
-* [Finding a better solution for consenting to cookies](https://www.troyhunt.com/these-cookie-warning-shenanigans-have-got-to-stop/)
 
 ### _Software_
 
@@ -34,13 +29,10 @@
 _See also the previous page:_
 {% endhint %}
 
-{% page-ref page="software.md" %}
+{% page-ref page="../software.md" %}
 
-## _Norwegian_: Personvern i Norge
+## Ideas for better privacy
 
-#### Tilpass dine kontoer:
-
-| Tjeneste | Beskrivelse |
-| :--- | :--- |
-| [Schibsted](https://payment.schibsted.no/account/privacy) | Tilpass hvilke innstillinger du ønsker for annonser eller benytt deg av dine personvernrettigheter. |
+* [Platform for Privacy Preferences Project \(P3P\)](https://en.wikipedia.org/wiki/P3P)
+* [Finding a better solution for consenting to cookies](https://www.troyhunt.com/these-cookie-warning-shenanigans-have-got-to-stop/)
 

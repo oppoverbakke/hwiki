@@ -23,17 +23,17 @@ Some websites based on my bookmarks and subscriptions.
 
 ### Reading
 
-* Stratechery
-* Marco.org
+* [Stratechery](https://stratechery.com/)
+* [Marco Arment](https://marco.org/) - 
 
 ### Reading \(norsk\)
 
-* Chaffeys blogg
-* Olav Torvund
-* Roy Solberg
-* Personvernbloggen
+* [Chaffeys blogg](https://paulchaffey.blogspot.com/)
+* [Olav Torvund](https://blogg.torvund.net/)
+* [Roy Solberg](https://blog.roysolberg.com/)
+* [Personvernbloggen](https://www.personvernbloggen.no/)
 * [bekkelund.net](https://www.bekkelund.net/) - blogg om teknologi, samfunn og politikk
-* NRKbeta
+* [NRKbeta](https://nrkbeta.no/)
 
 ### Nyhetsbrev
 
