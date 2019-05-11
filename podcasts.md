@@ -7,6 +7,28 @@ description: 'Mostly Norwegian content. Click on "Filter: english" for only engl
 Her er en oversikt over noen av podkastene jeg lytter til sortert etter de ulike spillelistene mine. Mest laget for min egen del når jeg oppdaterer spillelistene, men kanskje oppdager du noen her som du også vil like.
 
 {% tabs %}
+{% tab title="Prioritert" %}
+Alle podkaster i min prioriterte spilleliste:
+
+* Aftenpodden
+* Debrief med Dag
+* Dialogisk
+* E24-podden
+* Forklart
+* Frekonomics Radio
+* Gievær og gjengen - VG
+* Hidden Brain
+* Ida med hjertet i hånden
+* Kvinneguidens venner
+* Må på behandling - Med Morten Ramm
+* Note to Self
+* Psykologlunsj
+* Radiolab
+* Reply AllTeknologimagasinet Aftenposten
+* Ukentlig - med BMI
+* The Vergecast
+{% endtab %}
+
 {% tab title="Playlists" %}
 **Prioritert \(19\)**
 
@@ -117,26 +139,8 @@ Her er en oversikt over noen av podkastene jeg lytter til sortert etter de ulike
 * [The Tim Ferriss Show](https://tim.blog/podcast/)
 {% endtab %}
 
-{% tab title="Prioritert" %}
-Alle podkaster i min prioriterte spilleliste:
-
-* Aftenpodden
-* Debrief med Dag
-* Dialogisk
-* E24-podden
-* Forklart
-* Frekonomics Radio
-* Gievær og gjengen - VG
-* Hidden Brain
-* Ida med hjertet i hånden
-* Kvinneguidens venner
-* Må på behandling - Med Morten Ramm
-* Note to Self
-* Psykologlunsj
-* Radiolab
-* Reply AllTeknologimagasinet Aftenposten
-* Ukentlig - med BMI
-* The Vergecast
+{% tab title="Other lists" %}
+* [Learn anything](https://github.com/learn-anything/podcasts#readme) - curated list of podcasts
 {% endtab %}
 {% endtabs %}
 

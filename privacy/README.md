@@ -12,6 +12,7 @@
 | :--- | :--- |
 | [Privacy respecting](https://github.com/nikitavoloboev/privacy-respecting#readme) | Curated list of privacy respecting services and software. |
 | [Awesome-GDPR](https://github.com/bakke92/awesome-gdpr) | My overview of tools and resources for privacy professionals. |
+| [Spread Privacy](https://spreadprivacy.com/) | Blog about privacy from DuckDuckGo. |
 
 ### _Software_
 
