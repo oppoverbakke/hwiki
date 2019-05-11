@@ -42,5 +42,5 @@ description: >-
 | uBlock Origin | Ad-blocker | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?src=search) - [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) |
 | 1Password | Password manager | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/1password-x-password-manager/) - [Chrome](https://chrome.google.com/webstore/detail/1password-x-%E2%80%93-password-ma/aeblfdkhhhdcdjpifhhbdiojplfjncoa) |
 | DuckDuckGo Privacy Essentials | Privacy essentials | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/) - [Chrome](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg) |
-| Evernote Web Clipper | Save webpages into Evernote | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/evernote-web-clipper/) - [Chrome](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc) |
+| Evernote Web Clipper | Save webpages to Evernote | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/evernote-web-clipper/) - [Chrome](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc) |
 
