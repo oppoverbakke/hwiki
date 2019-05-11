@@ -37,3 +37,9 @@ _See also the previous page:_
 * [Platform for Privacy Preferences Project \(P3P\)](https://en.wikipedia.org/wiki/P3P)
 * [Finding a better solution for consenting to cookies](https://www.troyhunt.com/these-cookie-warning-shenanigans-have-got-to-stop/)
 
+## Related content
+
+* [Security](../security.md)
+
+
+
