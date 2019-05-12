@@ -17,7 +17,7 @@
 * [Pocket](https://app.getpocket.com/)  - read later
 * [Pocket Casts](https://play.pocketcasts.com/) - [podcasts](podcasts.md) _\(sound\)_
 * [Medium](https://medium.com/) _-_ user submitted content
-* [Reddit](http://reddit.com/) __- user submitted content
+* [Reddit](http://reddit.com/) - user submitted content
 
 ### Reading
 
