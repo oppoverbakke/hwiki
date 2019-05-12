@@ -10,8 +10,6 @@
 
 ## Browsing
 
-Some websites based on my bookmarks and subscriptions.
-
 ### Content aggregators
 
 * [Feedly](https://feedly.com/) - RSS reader
@@ -23,24 +21,26 @@ Some websites based on my bookmarks and subscriptions.
 
 ### Reading
 
-* [Stratechery](https://stratechery.com/)
-* [Marco Arment](https://marco.org/) - 
+* [Stratechery](https://stratechery.com/) - technology
+* [Marco Arment](https://marco.org/) - technology
 
-### Reading \(norsk\)
+### Reading🇳🇴 
 
-* [Chaffeys blogg](https://paulchaffey.blogspot.com/)
-* [Olav Torvund](https://blogg.torvund.net/)
-* [Roy Solberg](https://blog.roysolberg.com/)
-* [Personvernbloggen](https://www.personvernbloggen.no/)
+* [Chaffeys blogg](https://paulchaffey.blogspot.com/) - samfunn, politikk
+* [Olav Torvund](https://blogg.torvund.net/) - juss, samfunn
+* [Roy Solberg](https://blog.roysolberg.com/) - teknologi, sikkerhetsbrudd
+* [Personvernbloggen](https://www.personvernbloggen.no/) - personvern, Datatilsynets blogg
 * [bekkelund.net](https://www.bekkelund.net/) - blogg om teknologi, samfunn og politikk
-* [NRKbeta](https://nrkbeta.no/)
+* [NRKbeta](https://nrkbeta.no/) - teknologi
+* [Eivind Berg](https://www.eivindberg.no/) - økonomi, investering og sparing
 
-### Nyhetsbrev
+### Newsletter
 
-* [Helt.digital](https://helt.digital/ukebrief/) - teknologi og sosiale medier
+* [Helt.digital](https://helt.digital/ukebrief/) - teknologi og sosiale medier🇳🇴
 * [The Crypt](http://getthecrypt.com/) - business and finance newsletter
-* [5-bullet Friday](https://go.tim.blog/5-bullet-friday-1/) \(Tim Ferriss\) 
-* [Pocket Hits](https://getpocket.com/explore/pocket-hits)
+* [5-bullet Friday](https://go.tim.blog/5-bullet-friday-1/) - Tim Ferriss. Productivity and tips
+* [Pocket Hits](https://getpocket.com/explore/pocket-hits) - personalised recommendations of articles
+* [Recomendo](https://www.recomendo.com/) - recommendations
 
 ### Materialism
 

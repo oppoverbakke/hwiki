@@ -23,7 +23,7 @@ description: >-
 | :--- | :--- |
 | [Pocket Casts](https://www.pocketcasts.com/) | Play and discover [podcasts](podcasts.md). |
 | [Firefox](https://firefox.com/) and [Firefox Focus](https://www.mozilla.org/en-US/firefox/mobile/) | Internet browsers |
-| [Bratt](https://itunes.apple.com/no/app/bratt/id1121510874) | _\(Norwegian\)_ Indikerer grafisk på kart hvor bratt terrenget er. |
+| [Bratt](https://itunes.apple.com/no/app/bratt/id1121510874) | 🇳🇴 Indikerer grafisk på kart hvor bratt terrenget er. |
 | [Google Trips](https://get.google.com/trips/) | Organisation of travels. |
 | [Geocaching](https://www.geocaching.com/play/search) | Outdoor recreational activity using GPS. |
 
