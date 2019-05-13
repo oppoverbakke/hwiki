@@ -20,9 +20,11 @@
 | :--- | :--- |
 | [Firefox](https://firefox.com/) and [Firefox Focus](https://www.mozilla.org/en-US/firefox/mobile/) | Browser \(Quantum\) |
 | [Brave](https://brave.com/) | Browser \(Chromium\) |
+| [Tor](https://www.torproject.org/) | Browser \(layered for best protection\) |
 | [Jottacloud](https://www.jottacloud.com/) | Backup |
 | [Signal](https://www.signal.org/) | Direct Messages |
 | [ProtonMail](https://protonmail.com/) | E-mail |
+| [10 Minute Mail](https://10minutemail.net/) | E-mail address lasting for 10 min. |
 | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?src=search) | Ad-block |
 | [DuckDuckGo](https://duck.com) | Search |
 
