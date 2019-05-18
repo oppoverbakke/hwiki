@@ -29,18 +29,18 @@
 * [Chaffeys blogg](https://paulchaffey.blogspot.com/) - samfunn, politikk
 * [Olav Torvund](https://blogg.torvund.net/) - juss, samfunn
 * [Roy Solberg](https://blog.roysolberg.com/) - teknologi, sikkerhetsbrudd
-* [Personvernbloggen](https://www.personvernbloggen.no/) - personvern, Datatilsynets blogg
 * [bekkelund.net](https://www.bekkelund.net/) - blogg om teknologi, samfunn og politikk
-* [NRKbeta](https://nrkbeta.no/) - teknologi
+* [NRKbeta](https://nrkbeta.no/) - teknologi, media
 * [Eivind Berg](https://www.eivindberg.no/) - økonomi, investering og sparing
 
 ### Newsletter
 
-* [Helt.digital](https://helt.digital/ukebrief/) - teknologi og sosiale medier🇳🇴
+* [Helt.digital](https://helt.digital/ukebrief/) - oppsummering av nyheter om teknologi og sosiale medier🇳🇴
 * [The Crypt](http://getthecrypt.com/) - business and finance newsletter
 * [5-bullet Friday](https://go.tim.blog/5-bullet-friday-1/) - Tim Ferriss. Productivity and tips
 * [Pocket Hits](https://getpocket.com/explore/pocket-hits) - personalised recommendations of articles
-* [Recomendo](https://www.recomendo.com/) - recommendations
+* [Recomendo](https://www.recomendo.com/) - recommendations of products and services
+* [Stable Genius](https://www.stableg.com/newsletter) - technology, recommendations
 
 ### Materialism
 
@@ -60,4 +60,8 @@
 * [The Art of Photography](https://www.youtube.com/channel/UC7T8roVtC_3afWKTOGtLlBA) - cameras, photography
 * [The Verge](https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ) - technology, gadgets, reviews
 * [Three Blind Men and An Elephant](https://www.youtube.com/channel/UCZb8uqR_73t8DlfpVfVbiEw) - cameras, photography
+
+### Related
+
+{% page-ref page="podcasts.md" %}
 
