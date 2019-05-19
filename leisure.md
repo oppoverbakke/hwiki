@@ -41,6 +41,7 @@
 * [Pocket Hits](https://getpocket.com/explore/pocket-hits) - personalised recommendations of articles
 * [Recomendo](https://www.recomendo.com/) - recommendations of products and services
 * [Stable Genius](https://www.stableg.com/newsletter) - technology, recommendations
+* [Letterlist](http://letterlist.com/) - collection of several newsletters
 
 ### Materialism
 
