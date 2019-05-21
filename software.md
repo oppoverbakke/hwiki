@@ -1,8 +1,5 @@
 ---
-description: >-
-  Software I enjoy and use (and maybe not known to you already). Most of these
-  are available on several platforms, but I use and have written this from what
-  is available on Mac OS and iOS.
+description: Software and websites I use (and maybe not known to you already).
 ---
 
 # Software
@@ -13,7 +10,7 @@ description: >-
 | :--- | :--- |
 | [Bartender](https://www.macbartender.com/) | Hide menu bar items. |
 | [LibreOffice](https://www.libreoffice.org/) | Open-source text software. |
-| [Boom](https://www.globaldelight.com/boom/index.php) | Volume booster and equalizer. |
+| [Boom](https://www.globaldelight.com/boom/index.php) | Volume booster and equalizer for Mac. |
 | [Jottacloud](https://www.jottacloud.com/) | Online automatic backup. |
 | [aText](http://www.trankynam.com/atext/) | Text expander. |
 
@@ -34,6 +31,7 @@ description: >-
 | [Brain.fm](https://brain.fm) | Background music and meditation. \(Also available as App on iOS and Android\) |
 | [tomato.es](http://www.tomato.es/) | Pomodoro time tracker. |
 | [HaveIBeenPwned.com](https://haveibeenpwned.com/Passwords) | Check if you have an account that has been compromised in a data breach |
+| [WolframAlpha](https://www.wolframalpha.com/) | Compute everything. |
 
 ### Browser Extensions
 

@@ -34,11 +34,8 @@ I like cameras and using them to take pictures. Some of the pictures I have take
       <td style="text-align:left">(Waterproof compact camera)</td>
     </tr>
     <tr>
-      <td style="text-align:left">Polaroid</td>
-      <td style="text-align:left">
-        <p>Z340</p>
-        <p>Snap</p>
-      </td>
+      <td style="text-align:left">Polaroid Z340</td>
+      <td style="text-align:left">(Digital Polaroid camera)</td>
     </tr>
   </tbody>
 </table>#### Accessories
