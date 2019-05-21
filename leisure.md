@@ -30,7 +30,7 @@
 * [Olav Torvund](https://blogg.torvund.net/) - juss, samfunn
 * [Roy Solberg](https://blog.roysolberg.com/) - teknologi, sikkerhetsbrudd
 * [bekkelund.net](https://www.bekkelund.net/) - blogg om teknologi, samfunn og politikk
-* [NRKbeta](https://nrkbeta.no/) - teknologi, media
+* [NRKbeta](https://nrkbeta.no/) - teknologi, media, [personvern](privacy/)
 * [Eivind Berg](https://www.eivindberg.no/) - økonomi, investering og sparing
 
 ### Newsletter
