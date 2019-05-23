@@ -8,7 +8,7 @@ description: Software and websites I use (and maybe not known to you already).
 
 | Name | Description |
 | :--- | :--- |
-| [Bartender](https://www.macbartender.com/) | Hide menu bar items. |
+| [Bartender](https://www.macbartender.com/) | Hide menu bar items. \(Mac\) |
 | [LibreOffice](https://www.libreoffice.org/) | Open-source text software. |
 | [Boom](https://www.globaldelight.com/boom/index.php) | Volume booster and equalizer for Mac. |
 | [Jottacloud](https://www.jottacloud.com/) | Online automatic backup. |
