@@ -1,4 +1,6 @@
 # Productivity
 
-* [No Hello](http://www.nohello.com/) - Don't say just "Hello" when starting an online chat.
+* [No Hello](http://www.nohello.com/) - Don't start a chat with only "Hello".
+
+
 
