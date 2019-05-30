@@ -4,6 +4,8 @@ description: 'Mostly Norwegian content. Click on "Filter: english" for only engl
 
 # Podcasts
 
+🇳🇴 
+
 Her er en oversikt over noen av podkastene jeg lytter til sortert etter de ulike spillelistene mine. Mest laget for min egen del når jeg oppdaterer spillelistene, men kanskje oppdager du noen her som du også vil like.
 
 {% tabs %}
@@ -147,11 +149,11 @@ Alle podkaster i min prioriterte spilleliste:
 ## Stats
 
 {% hint style="info" %}
-* 100 podcasts currently subsribed to
+* 99 podcasts currently subsribed to
 * Listening since 21.02.2017:
-  * 73 days listened
-  * 58 days saved \(using variable speed etc.\)
+  * 75 days listened
+  * 59 days saved \(using variable speed etc.\)
 
-_\(Last updated 11.05.2019\)_
+_\(Last updated 30.05.2019\)_
 {% endhint %}
 
