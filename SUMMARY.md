@@ -9,4 +9,5 @@
 * [Photography](photography.md)
 * [Leisure](leisure.md)
 * [Productivity](productivity.md)
+* [\*Tech](tech.md)
 
