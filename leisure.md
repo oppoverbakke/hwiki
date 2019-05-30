@@ -32,6 +32,7 @@
 * [bekkelund.net](https://www.bekkelund.net/) - blogg om teknologi, samfunn og politikk
 * [NRKbeta](https://nrkbeta.no/) - teknologi, media, [personvern](privacy/)
 * [Eivind Berg](https://www.eivindberg.no/) - økonomi, investering og sparing
+* [Bekkelund](https://www.bekkelund.net/) - teknologi, samfunn
 
 ### Newsletter
 
