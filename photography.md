@@ -8,12 +8,13 @@ I like cameras and using them to take pictures. Some of the pictures I have take
   <thead>
     <tr>
       <th style="text-align:left">Camera system</th>
-      <th style="text-align:left">Lenses (comments/model)</th>
+      <th style="text-align:left">Lenses / (comments)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Olympus OM-D E-M 5 Mk II</td>
+      <td style="text-align:left"><a href="https://www.olympus.co.uk/site/en/c/cameras/om_d_system_cameras/om_d/e_m5_mark_ii/index.html">Olympus OM-D E-M 5 Mk II</a>
+      </td>
       <td style="text-align:left">
         <p>Panasonic 25 mm f/1.7</p>
         <p>Olympus 75 mm f/1.8</p>
@@ -23,18 +24,21 @@ I like cameras and using them to take pictures. Some of the pictures I have take
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Nikon D300</td>
+      <td style="text-align:left"><a href="https://www.dpreview.com/reviews/nikond300">Nikon D300</a>
+      </td>
       <td style="text-align:left">
         <p>Nikkor 18-70 mm</p>
         <p>Nikkor 50 mm f/1.8</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Nikon W300</td>
+      <td style="text-align:left"><a href="https://www.nikon.co.uk/en_GB/product/digital-cameras/coolpix/waterproof-shockproof/coolpix-w300-orange">Nikon W300</a>
+      </td>
       <td style="text-align:left">(Waterproof compact camera)</td>
     </tr>
     <tr>
-      <td style="text-align:left">Polaroid Z340</td>
+      <td style="text-align:left"><a href="https://www.amazon.com/Polaroid-Instant-Digital-Printing-Technology/dp/B005O08KH6">Polaroid Z340</a>
+      </td>
       <td style="text-align:left">(Digital Polaroid camera)</td>
     </tr>
   </tbody>
