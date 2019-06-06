@@ -19,12 +19,12 @@
 * [Medium](https://medium.com/) _-_ user submitted content
 * [Reddit](http://reddit.com/) - user submitted content
 
-### Reading
+### Blogs
 
 * [Stratechery](https://stratechery.com/) - technology analysis
 * [Marco Arment](https://marco.org/) - technology
 
-### Reading🇳🇴 
+### Norske blogger🇳🇴 
 
 * [Chaffeys blogg](https://paulchaffey.blogspot.com/) - samfunn, politikk
 * [Olav Torvund](https://blogg.torvund.net/) - juss, samfunn

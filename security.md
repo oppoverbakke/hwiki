@@ -12,5 +12,5 @@
 
 ## Organisations
 
-* * 🇳🇴Offentlige instanser:[ Difi](https://www.difi.no/), [Datatilsynet](https://www.datatilsynet.no/) & [NSM](https://www.nsm.stat.no/)
+* 🇳🇴Offentlige instanser:[ Difi](https://www.difi.no/), [Datatilsynet](https://www.datatilsynet.no/) & [NSM](https://www.nsm.stat.no/)
 
