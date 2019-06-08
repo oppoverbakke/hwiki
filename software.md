@@ -4,17 +4,17 @@ description: Software and websites I use (and maybe not known to you already).
 
 # Software
 
-### Computer software
+## Computer software
 
 | Name | Description |
 | :--- | :--- |
-| [Bartender](https://www.macbartender.com/) | Hide menu bar items. \(Mac\) |
-| [LibreOffice](https://www.libreoffice.org/) | Open-source text software. |
-| [Boom](https://www.globaldelight.com/boom/index.php) | Volume booster and equalizer for Mac. |
+| [Bartender](https://www.macbartender.com/) | Hide menu bar items. 🍏  |
+| [LibreOffice](https://www.libreoffice.org/) | Open-source Office software. |
+| [Boom](https://www.globaldelight.com/boom/index.php) | Volume booster and equalizer. 🍏  |
 | [Jottacloud](https://www.jottacloud.com/) | Online automatic backup. |
 | [aText](http://www.trankynam.com/atext/) | Text expander. |
 
-### Mobile software
+## Mobile software
 
 | Name | Description |
 | :--- | :--- |
@@ -23,7 +23,7 @@ description: Software and websites I use (and maybe not known to you already).
 | [Bratt](https://itunes.apple.com/no/app/bratt/id1121510874) | 🇳🇴 Indikerer grafisk på kart hvor bratt terrenget er. |
 | [Geocaching](https://www.geocaching.com/play/search) | Outdoor recreational activity using GPS. |
 
-### Websites
+## Websites
 
 | Name | Description |
 | :--- | :--- |
@@ -33,7 +33,7 @@ description: Software and websites I use (and maybe not known to you already).
 | [WolframAlpha](https://www.wolframalpha.com/) | Compute everything. |
 | [Goodreads](https://www.goodreads.com/) | Rate books and get recommmendations. |
 
-### Browser Extensions
+## Browser Extensions
 
 | Name | Description | Add to |
 | :--- | :--- | :--- |

@@ -6,16 +6,15 @@
 >
 > _Source:_ [_How social media took us from Tahrir Square to Donald Trump_](https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/)\_\_
 
-### Resources
+## Resources
 
 | Name and link | Description |
 | :--- | :--- |
 | [Privacy respecting](https://github.com/nikitavoloboev/privacy-respecting#readme) | Curated list of privacy respecting services and software. |
 | [Awesome-GDPR](https://github.com/bakke92/awesome-gdpr) | My overview of tools and resources for privacy professionals. |
 | [Spread Privacy](https://spreadprivacy.com/) | Blog about privacy from DuckDuckGo. |
-| [Sikkerhet.online](https://sikkerhet.online/) | 🇳🇴 Blog about privacy and security. |
 
-### _Software_
+## _Software_
 
 | Name and link | Purpose |
 | :--- | :--- |
@@ -28,12 +27,6 @@
 | [10 Minute Mail](https://10minutemail.net/) | E-mail address lasting for 10 min. |
 | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?src=search) | Ad-block |
 | [DuckDuckGo](https://duck.com) | Search |
-
-{% hint style="info" %}
-_See also the previous page:_
-{% endhint %}
-
-{% page-ref page="../software.md" %}
 
 ## Ideas for better privacy
 

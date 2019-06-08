@@ -19,7 +19,7 @@
 {% endtab %}
 
 {% tab title="Topp \(Norsk\)" %}
-Topp norske podkaster:
+**Topp norske podkaster:**
 
 * [Dialogisk](https://www.modernemedia.no/dialogisk)
 * [Forklart](https://www.aftenposten.no/emne/Forklart)

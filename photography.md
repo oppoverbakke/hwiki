@@ -2,7 +2,7 @@
 
 I like cameras and using them to take pictures. Some of the pictures I have taken is available to view and buy here: [https://foto.bakke.be](https://foto.bakke.be/)
 
-#### Camera equipment
+## Camera equipment
 
 <table>
   <thead>
@@ -42,7 +42,7 @@ I like cameras and using them to take pictures. Some of the pictures I have take
       <td style="text-align:left">(Digital Polaroid camera)</td>
     </tr>
   </tbody>
-</table>#### Accessories
+</table>## Accessories
 
 | Name | Description |
 | :--- | :--- |
@@ -51,7 +51,7 @@ I like cameras and using them to take pictures. Some of the pictures I have take
 | [Leash](https://www.peakdesign.com/products/leash) | Quick-connecting camera strap \(Peak Design\) |
 | [Capture](https://www.peakdesign.com/products/capture/) | Clips the camera to the backpack \(Peak Design\) |
 
-### Other content:
+## Other content:
 
 | Name | Description |
 | :--- | :--- |
