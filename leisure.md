@@ -66,5 +66,5 @@
 
 ### Related
 
-{% page-ref page="podcasts.md" %}
+* [Podcasts](podcasts.md)
 
