@@ -6,7 +6,7 @@
 * [Cycling](https://www.strava.com/athletes/13642227)
 * Tennis
 * Hiking
-* [Geocahing](https://www.geocaching.com/p/default.aspx?guid=9bd840ec-c9c1-46bb-a58a-cb15d572385d)
+* [Geocaching](https://www.geocaching.com/p/default.aspx?guid=9bd840ec-c9c1-46bb-a58a-cb15d572385d)
 
 ## Browsing
 
