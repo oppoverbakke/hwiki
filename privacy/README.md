@@ -2,10 +2,6 @@
 
 ## Privacy respecting
 
-> Ubiquitous digital surveillance should simply end in its current form. There is no justifiable reason to allow so many companies to accumulate so much data on so many people. Inviting users to “click here to agree” to vague, hard-to-pin-down terms of use doesn’t produce “informed consent.”
->
-> _Source:_ [_How social media took us from Tahrir Square to Donald Trump_](https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/)\_\_
-
 ## Resources
 
 | Name and link | Description |
@@ -32,6 +28,16 @@
 
 * [Platform for Privacy Preferences Project \(P3P\)](https://en.wikipedia.org/wiki/P3P)
 * [Finding a better solution for consenting to cookies](https://www.troyhunt.com/these-cookie-warning-shenanigans-have-got-to-stop/)
+
+## Quotes
+
+> Ubiquitous digital surveillance should simply end in its current form. There is no justifiable reason to allow so many companies to accumulate so much data on so many people. Inviting users to “click here to agree” to vague, hard-to-pin-down terms of use doesn’t produce “informed consent.”
+>
+> _Source:_ [_How social media took us from Tahrir Square to Donald Trump_](https://www.technologyreview.com/s/611806/how-social-media-took-us-from-tahrir-square-to-donald-trump/)\_\_
+
+> ‘ambient privacy’—the understanding that there is value in having our everyday interactions with one another remain outside the reach of monitoring, and that the small details of our daily lives should pass by unremembered. What we do at home, work, church, school, or in our leisure time does not belong in a permanent record. Not every conversation needs to be a deposition.
+>
+> _Source:_ [_https://idlewords.com/2019/06/the\_new\_wilderness.htm_](https://idlewords.com/2019/06/the_new_wilderness.htm)\_\_
 
 ## Related content
 
