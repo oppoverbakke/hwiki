@@ -39,7 +39,7 @@
 >
 > _Source:_ [_https://idlewords.com/2019/06/the\_new\_wilderness.htm_](https://idlewords.com/2019/06/the_new_wilderness.htm)\_\_
 
-## Related content
+## Related
 
 * [Security](../security.md)
 

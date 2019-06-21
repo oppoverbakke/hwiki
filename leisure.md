@@ -64,7 +64,7 @@
 * [The Verge](https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ) - technology, gadgets, reviews
 * [Three Blind Men and An Elephant](https://www.youtube.com/channel/UCZb8uqR_73t8DlfpVfVbiEw) - cameras, photography
 
-### Related
+## Related
 
 * [Podcasts](podcasts.md)
 

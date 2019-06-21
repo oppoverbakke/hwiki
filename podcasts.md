@@ -41,7 +41,7 @@
 {% endtab %}
 {% endtabs %}
 
-### Related:
+## Related
 
 *  [Learn anything](https://github.com/learn-anything/podcasts#readme) - curated list of podcasts
 
