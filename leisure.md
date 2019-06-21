@@ -44,6 +44,7 @@
 * [Stable Genius](https://www.stableg.com/newsletter) - technology, recommendations
 * [Letterlist](http://letterlist.com/) - collection of several newsletters
 * [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters#readme) - curated list of newsletters
+* [hackernewsletter](https://hackernewsletter.com/) - articles on startups, technology, programming, and more.
 
 ### Materialism
 
