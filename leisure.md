@@ -2,11 +2,43 @@
 
 ## Hobbies
 
-* [Photography](photography.md)
-* [Cycling](https://www.strava.com/athletes/13642227)
-* Tennis
-* Hiking
-* [Geocaching](https://www.geocaching.com/p/default.aspx?guid=9bd840ec-c9c1-46bb-a58a-cb15d572385d)
+{% tabs %}
+{% tab title="Photograpghy" %}
+**Portfolio:** [foto.bakke.be](https://foto.bakke.be)
+
+**Overview:** [Photography](photography.md)
+{% endtab %}
+
+{% tab title="Cycling" %}
+**Gravel bike:** Merida Silex 400
+
+**Mountain bike:** Diamant Stinx Extreme
+
+**Strava:** [Profile](https://www.strava.com/athletes/13642227)
+{% endtab %}
+
+{% tab title="Tennis" %}
+Tennis is fun.
+{% endtab %}
+
+{% tab title="Hiking" %}
+Most of my hiking trips are logged on[ Strava](https://www.strava.com/athletes/13642227).
+
+You can also see some of the pictures I have taken from my hiking trips in [my photo portfolio](https://foto.bakke.be).
+{% endtab %}
+
+{% tab title="Geocaching" %}
+**Profile:** [Geocaching](https://www.geocaching.com/p/default.aspx?guid=9bd840ec-c9c1-46bb-a58a-cb15d572385d)
+
+{% hint style="success" %}
+**Stats**
+
+Finds: 93
+
+_\(Last updated: 22.06.19\)_
+{% endhint %}
+{% endtab %}
+{% endtabs %}
 
 ## Browsing
 

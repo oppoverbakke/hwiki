@@ -57,5 +57,7 @@ I like cameras and using them to take pictures. Some of the pictures I have take
 | :--- | :--- |
 | [Lectures on Digital Photography](https://sites.google.com/site/marclevoylectures/schedule/lecture1-21mar16)  | How cameras work, and how to take good pictures using them, by Marc Levoy. Also available on [Youtube](https://www.youtube.com/playlist?list=PL7ddpXYvFXspUN0N-gObF1GXoCA-DA-7i). |
 
+## Related
 
+* [Hobbies](leisure.md#hobbies)
 
