@@ -7,6 +7,14 @@
 **Portfolio:** [foto.bakke.be](https://foto.bakke.be)
 
 **Overview:** [Photography](photography.md)
+
+{% hint style="success" %}
+**Stats**
+
+_All photographs:_ 45951
+
+_\(Last updated: 22.06.19\)_
+{% endhint %}
 {% endtab %}
 
 {% tab title="Cycling" %}
@@ -15,30 +23,52 @@
 **Mountain bike:** Diamant Stinx Extreme
 
 **Strava:** [Profile](https://www.strava.com/athletes/13642227)
+
+{% hint style="success" %}
+**Stats** \(2019\)
+
+_Rides:_ 63
+
+_Time:_ 39h 4m
+
+_Distance this year:_ 841 km
+
+_\(Last updated: 22.06.19\)_
+{% endhint %}
 {% endtab %}
 
 {% tab title="Tennis" %}
 Tennis is fun.
+
+🎾 🎾 🎾 
 {% endtab %}
 
 {% tab title="Hiking" %}
 Most of my hiking trips are logged on[ Strava](https://www.strava.com/athletes/13642227).
 
 You can also see some of the pictures I have taken from my hiking trips in [my photo portfolio](https://foto.bakke.be).
+
+🇳🇴 **Recommendations**:
+
+* [UT.no](https://ut.no/) - Turforslag.
+* [Bratt](https://itunes.apple.com/no/app/bratt/id1121510874) - App som indikerer grafisk på kart hvor bratt terrenget er.
+* [Lommekjent](http://www.lommekjent.no/) - Turforslag.
 {% endtab %}
 
 {% tab title="Geocaching" %}
 **Profile:** [Geocaching](https://www.geocaching.com/p/default.aspx?guid=9bd840ec-c9c1-46bb-a58a-cb15d572385d)
 
 {% hint style="success" %}
-**Stats**
+**Stats** \(all time\)
 
-Finds: 93
+_Finds:_ 93
 
 _\(Last updated: 22.06.19\)_
 {% endhint %}
 {% endtab %}
 {% endtabs %}
+
+
 
 ## Browsing
 
