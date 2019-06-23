@@ -50,6 +50,7 @@ I like cameras and using them to take pictures. Some of the pictures I have take
 | [Everyday Backpack \(20L\)](https://www.peakdesign.com/products/everyday-backpack?variant=9783969284140) | Backpack \(Peak Design\) |
 | [Leash](https://www.peakdesign.com/products/leash) | Quick-connecting camera strap \(Peak Design\) |
 | [Capture](https://www.peakdesign.com/products/capture/) | Clips the camera to the backpack \(Peak Design\) |
+| [MeFoto Backpacker](https://www.mefoto.com/products/backpacker-classic) | Travel tripod. |
 
 ## Resources
 

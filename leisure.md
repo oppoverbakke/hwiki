@@ -4,14 +4,14 @@
 
 {% tabs %}
 {% tab title="Photograpghy" %}
-**Portfolio:** [foto.bakke.be](https://foto.bakke.be)
+**Portfolio:** [foto.bakke.be](https://foto.bakke.be) \(Adobe Stock\)
 
 **Overview:** [Photography](photography.md)
 
 {% hint style="success" %}
 **Stats**
 
-_All photographs:_ 45951
+All photographs _\(in Lightroom catalog\):_ 45951
 
 _\(Last updated: 22.06.19\)_
 {% endhint %}
@@ -27,11 +27,9 @@ _\(Last updated: 22.06.19\)_
 {% hint style="success" %}
 **Stats** \(2019\)
 
-_Rides:_ 63
-
-_Time:_ 39h 4m
-
-_Distance this year:_ 841 km
+Rides: 63  
+Time: 39h 4m  
+Distance this year: 841 km
 
 _\(Last updated: 22.06.19\)_
 {% endhint %}
@@ -61,7 +59,7 @@ You can also see some of the pictures I have taken from my hiking trips in [my p
 {% hint style="success" %}
 **Stats** \(all time\)
 
-_Finds:_ 93
+Finds: 93
 
 _\(Last updated: 22.06.19\)_
 {% endhint %}
