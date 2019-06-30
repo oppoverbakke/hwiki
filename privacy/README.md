@@ -23,6 +23,7 @@
 | [10 Minute Mail](https://10minutemail.net/) | E-mail address lasting for 10 min. |
 | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?src=search) | Ad-block |
 | [DuckDuckGo](https://duck.com) | Search |
+| [Track THIS](https://trackthis.link/) | Open 100 tabs of pure madness to fool trackers. |
 
 ## Ideas for better privacy
 
