@@ -11,9 +11,9 @@
 {% hint style="success" %}
 **Stats**
 
-All photographs _\(in Lightroom catalog\):_ 45951
+All photographs _\(in Lightroom catalog\):_ 49278
 
-_\(Last updated: 22.06.19\)_
+_\(Last updated: 08.07.19\)_
 {% endhint %}
 {% endtab %}
 
@@ -66,18 +66,7 @@ _\(Last updated: 22.06.19\)_
 {% endtab %}
 {% endtabs %}
 
-
-
-## Browsing
-
-### Content aggregators
-
-* [Feedly](https://feedly.com/) - RSS reader.
-* [Hacker News \(Original\)](https://news.ycombinator.com/) and [alternative interface](https://hckrnews.com/) - user submitted content.
-* [Pocket](https://app.getpocket.com/)  - read later.
-* [Pocket Casts](https://play.pocketcasts.com/) - [podcasts](podcasts.md) _\(sound\)._
-* [Medium](https://medium.com/) _-_ user submitted content.
-* [Reddit](http://reddit.com/) - user submitted content.
+## Reading
 
 ### Blogs
 
@@ -94,7 +83,7 @@ _\(Last updated: 22.06.19\)_
 * [Eivind Berg](https://www.eivindberg.no/) - økonomi, investering og sparing.
 * [Bekkelund](https://www.bekkelund.net/) - teknologi, samfunn.
 
-### Newsletter
+### Newsletters
 
 * [Helt.digital](https://helt.digital/ukebrief/) - oppsummering av nyheter om teknologi og sosiale medier.🇳🇴
 * [The Crypt](http://getthecrypt.com/) - business and finance newsletter.
@@ -105,6 +94,17 @@ _\(Last updated: 22.06.19\)_
 * [Letterlist](http://letterlist.com/) - collection of several newsletters.
 * [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters#readme) - curated list of newsletters.
 * [hackernewsletter](https://hackernewsletter.com/) - startups, technology, programming, and more.
+
+## Browsing
+
+### Content aggregators
+
+* [Feedly](https://feedly.com/) - RSS reader.
+* [Hacker News \(Original\)](https://news.ycombinator.com/) and [alternative interface](https://hckrnews.com/) - user submitted content.
+* [Pocket](https://app.getpocket.com/)  - read later.
+* [Pocket Casts](https://play.pocketcasts.com/) - [podcasts](podcasts.md) _\(sound\)._
+* [Medium](https://medium.com/) _-_ user submitted content.
+* [Reddit](http://reddit.com/) - user submitted content.
 
 ### Materialism
 
@@ -129,4 +129,6 @@ _\(Last updated: 22.06.19\)_
 
 * [Podcasts](podcasts.md)
 * [Photography](photography.md)
+* [Patrick Collison: Bookshelf](https://patrickcollison.com/bookshelf)
+* [Goodreads](https://www.goodreads.com/) - book recommendations
 
