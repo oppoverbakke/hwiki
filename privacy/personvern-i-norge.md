@@ -18,6 +18,7 @@ description: (Norwegian content)
 
 | Tjeneste | Beskrivelse |
 | :--- | :--- |
+| [Facebook](https://www.facebook.com/ads/preferences/) |  |
 | [Schibsted](https://payment.schibsted.no/account/privacy) | Tilpass hvilke innstillinger du ønsker for annonser eller benytt deg av dine personvernrettigheter. |
 
 ## Benytt dine rettigheter
