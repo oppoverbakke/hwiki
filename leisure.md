@@ -11,9 +11,9 @@
 {% hint style="success" %}
 **Stats**
 
-All photographs _\(in Lightroom catalog\):_ 49278
+All photographs _\(in Lightroom catalog\):_ 50151
 
-_\(Last updated: 08.07.19\)_
+_\(Last updated: 19.07.19\)_
 {% endhint %}
 {% endtab %}
 
@@ -27,11 +27,11 @@ _\(Last updated: 08.07.19\)_
 {% hint style="success" %}
 **Stats** \(2019\)
 
-Rides: 63  
-Time: 39h 4m  
-Distance this year: 841 km
+Rides: 76  
+Time: 46h 34m  
+Distance this year: 995 km
 
-_\(Last updated: 22.06.19\)_
+_\(Last updated: 19.07.19\)_
 {% endhint %}
 {% endtab %}
 
@@ -59,9 +59,9 @@ You can also see some of the pictures I have taken from my hiking trips in [my p
 {% hint style="success" %}
 **Stats** \(all time\)
 
-Finds: 93
+Finds: 100
 
-_\(Last updated: 22.06.19\)_
+_\(Last updated: 19.07.19\)_
 {% endhint %}
 {% endtab %}
 {% endtabs %}
@@ -101,17 +101,10 @@ _\(Last updated: 22.06.19\)_
 
 * [Feedly](https://feedly.com/) - RSS reader.
 * [Hacker News \(Original\)](https://news.ycombinator.com/) and [alternative interface](https://hckrnews.com/) - user submitted content.
-* [Pocket](https://app.getpocket.com/)  - read later.
+* [Pocket](https://app.getpocket.com/)  - read later and recommendations.
 * [Pocket Casts](https://play.pocketcasts.com/) - [podcasts](podcasts.md) _\(sound\)._
 * [Medium](https://medium.com/) _-_ user submitted content.
 * [Reddit](http://reddit.com/) - user submitted content.
-
-### Materialism
-
-* [Bless this stuff](https://www.blessthisstuff.com/) - stuff.
-* [Wirecutter](https://thewirecutter.com/) - reviews.
-* [Product hunt](https://www.producthunt.com/) - stuff.
-* [Tom's guide](https://www.tomsguide.com/) - reviews.
 
 ### YouTube subscriptions
 
