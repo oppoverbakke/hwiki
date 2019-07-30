@@ -6,9 +6,9 @@ This is my public wiki filled with content I'm interested in. Mostly somehow rel
 
 ## How to use
 
-Use the navigation menu to the left to browse topics or the buttons in the bottom to go to the next/previous page. You can also search the content at top right.
+Use the navigation menu to the left to browse topics or the buttons in the bottom to go to the next/previous page. You can also search the wiki at the top right.
 
-Norwegian content is marked with: 🇳🇴 
+Norwegian content is marked with: 🇳🇴
 
 ## Found something wrong
 

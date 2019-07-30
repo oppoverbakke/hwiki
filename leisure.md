@@ -27,11 +27,11 @@ _\(Last updated: 19.07.19\)_
 {% hint style="success" %}
 **Stats** \(2019\)
 
-Rides: 76  
-Time: 46h 34m  
-Distance this year: 995 km
+Rides: 7836  
+Time: 49h 54m  
+Distance this year: 1072 km
 
-_\(Last updated: 19.07.19\)_
+_\(Last updated: 30.07.19\)_
 {% endhint %}
 {% endtab %}
 
@@ -59,9 +59,9 @@ You can also see some of the pictures I have taken from my hiking trips in [my p
 {% hint style="success" %}
 **Stats** \(all time\)
 
-Finds: 100
+Finds: 106
 
-_\(Last updated: 19.07.19\)_
+_\(Last updated: 30.07.19\)_
 {% endhint %}
 {% endtab %}
 {% endtabs %}
@@ -72,12 +72,12 @@ _\(Last updated: 19.07.19\)_
 
 * [Stratechery](https://stratechery.com/) - technology analysis.
 * [Marco Arment](https://marco.org/) - technology.
+* [Roy Solberg](https://blog.roysolberg.com/) - technology, security.
 
 ### Norske blogger🇳🇴 
 
 * [Chaffeys blogg](https://paulchaffey.blogspot.com/) - samfunn, politikk.
 * [Olav Torvund](https://blogg.torvund.net/) - juss, samfunn.
-* [Roy Solberg](https://blog.roysolberg.com/) - teknologi, sikkerhetsbrudd.
 * [bekkelund.net](https://www.bekkelund.net/) - blogg om teknologi, samfunn og politikk.
 * [NRKbeta](https://nrkbeta.no/) - teknologi, media, [personvern](privacy/).
 * [Eivind Berg](https://www.eivindberg.no/) - økonomi, investering og sparing.

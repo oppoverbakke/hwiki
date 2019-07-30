@@ -1,6 +1,6 @@
 # Photography
 
-I like cameras and using them to take pictures. Some of the pictures I have taken is available to view and buy here: [https://foto.bakke.be](https://foto.bakke.be/)
+I like cameras. Some of the pictures I have taken is available to view and buy here: [https://foto.bakke.be](https://foto.bakke.be/)
 
 ## Camera equipment
 
