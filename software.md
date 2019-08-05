@@ -30,7 +30,7 @@ description: Software and websites I use (and maybe not known to you already).
 | [tomato.es](http://www.tomato.es/) | Pomodoro time tracker. |
 | [HaveIBeenPwned.com](https://haveibeenpwned.com/Passwords) | Check if you have an account that has been compromised in a data breach |
 | [WolframAlpha](https://www.wolframalpha.com/) | Compute everything. |
-| [Goodreads](https://www.goodreads.com/) | Rate books and get recommmendations. |
+| [Goodreads](https://www.goodreads.com/) | Rate books and get personalised recommmendations. |
 
 ## Browser Extensions
 
