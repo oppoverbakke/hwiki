@@ -13,6 +13,7 @@ description: Software and websites I use (and maybe not known to you already).
 | [Boom](https://www.globaldelight.com/boom/index.php) | Volume booster and equalizer. 🍏  |
 | [Jottacloud](https://www.jottacloud.com/) | Online automatic backup. |
 | [aText](http://www.trankynam.com/atext/) | Text expander. |
+| [ProtonVPN](https://protonvpn.com/) | VPN provider. |
 
 ## Mobile software
 
@@ -21,12 +22,15 @@ description: Software and websites I use (and maybe not known to you already).
 | [Pocket Casts](https://www.pocketcasts.com/) | Play and discover [podcasts](podcasts.md). |
 | [Firefox](https://firefox.com/) and [Firefox Focus](https://www.mozilla.org/en-US/firefox/mobile/) | Internet browsers |
 | [Geocaching](https://www.geocaching.com/play/search) | Outdoor recreational activity using GPS. |
+| [Hjelp 113](https://norskluftambulanse.no/hjelp113/) | 🇧🇻 Sender med din lokasjon til nødetatene dersom du ringer de. |
+| [Signal](https://www.signal.org/) | Encrypted messages. |
+| [PhotoScan](https://www.google.com/photos/scan/) | Scan physical pictures without reflections. |
 
 ## Websites
 
 | Name | Description |
 | :--- | :--- |
-| [Brain.fm](https://brain.fm) | Background music and meditation. \(Also available as App on iOS and Android\) |
+| [Brain.fm](https://brain.fm) | Background music and meditation. \(Also available as an app on iOS and Android\) |
 | [tomato.es](http://www.tomato.es/) | Pomodoro time tracker. |
 | [HaveIBeenPwned.com](https://haveibeenpwned.com/Passwords) | Check if you have an account that has been compromised in a data breach |
 | [WolframAlpha](https://www.wolframalpha.com/) | Compute everything. |

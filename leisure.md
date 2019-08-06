@@ -51,6 +51,7 @@ You can also see some of the pictures I have taken from my hiking trips in [my p
 * [UT.no](https://ut.no/) - Turforslag.
 * [Bratt](https://itunes.apple.com/no/app/bratt/id1121510874) - App som indikerer grafisk på kart hvor bratt terrenget er.
 * [Lommekjent](http://www.lommekjent.no/) - Turforslag.
+* [iSikte Norge](http://appbibliotek.no/isikte-norge/) - Utvidet virkelighet \(AR\) for å visualisere stedsnavn, f.eks. fjelltopper.
 {% endtab %}
 
 {% tab title="Geocaching" %}
