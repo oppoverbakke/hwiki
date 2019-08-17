@@ -83,6 +83,7 @@ _\(Last updated: 13.08.19\)_
 * [NRKbeta](https://nrkbeta.no/) - teknologi, media, [personvern](privacy/).
 * [Eivind Berg](https://www.eivindberg.no/) - økonomi, investering og sparing.
 * [Bekkelund](https://www.bekkelund.net/) - teknologi, samfunn.
+* [Eirik Newth](http://newth.net/) - verdensrommet, [Mars](https://www.newth.net/mars/), personlig blogg.
 
 ### Newsletters
 
