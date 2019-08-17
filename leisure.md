@@ -119,6 +119,11 @@ _\(Last updated: 13.08.19\)_
 * [The Verge](https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ) - technology, gadgets, reviews.
 * [Three Blind Men and An Elephant](https://www.youtube.com/channel/UCZb8uqR_73t8DlfpVfVbiEw) - cameras, photography.
 
+## Games
+
+* [Factorio](https://www.factorio.com/) - build factories and conquer the space.
+* [Geocaching](https://www.geocaching.com/) - find physical treasures in the real world.
+
 ## Related
 
 * [Podcasts](podcasts.md)
