@@ -112,13 +112,9 @@ _\(Last updated: 13.08.19\)_
 
 * [Strange Parts](https://www.youtube.com/channel/UCO8DQrSp5yEP937qNqTooOw) - technology, China, electronics.
 * [CaseyNeistat](https://www.youtube.com/channel/UCtinbF-Q-fVthA0qrFQTgXQ) - technology, vlog.
-* [David Thorpe](https://www.youtube.com/channel/UCZ-CbEVybw98KcQTWumzBow) - cameras, photography.
-* [Gerand Undone](https://www.youtube.com/channel/UC09qASY4ixFS-KXIH6Nw0rg) - cameras, photography.
 * [Marques Brownlee](https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ) - technology, gadgets.
 * [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ) - expert on shitty robots.
-* [The Art of Photography](https://www.youtube.com/channel/UC7T8roVtC_3afWKTOGtLlBA) - cameras, photography.
 * [The Verge](https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ) - technology, gadgets, reviews.
-* [Three Blind Men and An Elephant](https://www.youtube.com/channel/UCZb8uqR_73t8DlfpVfVbiEw) - cameras, photography.
 
 ## Games
 
