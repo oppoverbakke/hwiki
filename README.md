@@ -1,12 +1,8 @@
-# Start here
+# Introduction
 
 ## What is this?
 
 This is my public wiki filled with content I'm interested in. Mostly somehow related to technology.
-
-## How to use
-
-Use the navigation menu to the left to browse topics or the buttons in the bottom to go to the next/previous page. You can also search the wiki at the top right.
 
 Norwegian content is marked with: 🇳🇴
 
@@ -22,6 +18,7 @@ If you want to look at content from others do I recommend:
 
 * [My starred repositories on GitHub](https://github.com/bakke92?tab=stars)
 * [Hacker News](http://news.ycombinator.com/)
+* [Similar wikis](https://github.com/RichardLitt/meta-knowledge#readme) - see other wikis similar to this one, and make one yourself!
 
 
 

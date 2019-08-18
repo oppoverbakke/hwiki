@@ -30,6 +30,7 @@
 * [Platform for Privacy Preferences Project \(P3P\)](https://en.wikipedia.org/wiki/P3P)
 * [Finding a better solution for consenting to cookies](https://www.troyhunt.com/these-cookie-warning-shenanigans-have-got-to-stop/)
 * [Pretty Good Privacy \(PGP\)](https://www.openpgp.org/) - encryption for email
+* [Differential privacy](https://en.wikipedia.org/wiki/Differential_privacy)
 
 ## Quotes
 
