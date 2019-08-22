@@ -12,13 +12,13 @@ Great, I would really appreciate if you added the issue [here](https://github.co
 
 ## This isn't what I was looking for
 
-Thanks for giving it a try! Check out [bakke.be](https://bakke.be) for other content from me. 
+Thanks for visiting! Check out [bakke.be](https://bakke.be) for other content from me.
 
 If you want to look at content from others do I recommend:
 
-* [My starred repositories on GitHub](https://github.com/bakke92?tab=stars)
-* [Hacker News](http://news.ycombinator.com/)
-* [Similar wikis](https://github.com/RichardLitt/meta-knowledge#readme) - see other wikis similar to this one, and make one yourself!
+* [My starred repositories on GitHub](https://github.com/bakke92?tab=stars) - good stuff.
+* [Hacker News](http://news.ycombinator.com/) - news about technology and data.
+* [Meta Knowledge](https://github.com/RichardLitt/meta-knowledge) - similar wikis to this.
 
 
 
