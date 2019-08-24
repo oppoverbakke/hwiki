@@ -18,8 +18,10 @@ description: (Norwegian content)
 
 | Tjeneste | Beskrivelse |
 | :--- | :--- |
-| [Facebook](https://www.facebook.com/ads/preferences/) |  |
+| [Facebook](https://www.facebook.com/ads/preferences/) | Tilpass hvordan Facebook bruker dine data. |
 | [Schibsted](https://payment.schibsted.no/account/privacy) | Tilpass hvilke innstillinger du ønsker for annonser eller benytt deg av dine personvernrettigheter. |
+| [Your Online Choices](http://www.youronlinechoices.com/nor/dine-valg) | Kontroller innstillinger for interessebasert markedsføring fra flere ulike annonseplattformer. |
+| [Google Annonseinnstillinger](https://myaccount.google.com/yourdata/maps) | Tilpass hvordan Google bruker dine data. |
 
 ## Benytt dine rettigheter
 
