@@ -74,6 +74,7 @@ _\(Last updated: 13.08.19\)_
 * [Stratechery](https://stratechery.com/) - technology analysis.
 * [Marco Arment](https://marco.org/) - technology.
 * [Roy Solberg](https://blog.roysolberg.com/) - technology, security.
+* [Scott Galloway](https://www.profgalloway.com/) - business, technology.
 
 ### Norske blogger🇳🇴 
 
