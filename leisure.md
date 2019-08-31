@@ -27,16 +27,16 @@ _\(Last updated: 13.08.19\)_
 {% hint style="success" %}
 **Stats** \(2019\)
 
-Rides: 89  
-Time: 53h 15m  
-Distance this year: 1145 km
+Rides: 98  
+Time: 57h 41m  
+Distance this year: 1240 km
 
-_\(Last updated: 13.08.19\)_
+_\(Last updated: 31.08.19\)_
 {% endhint %}
 {% endtab %}
 
 {% tab title="Tennis" %}
-Tennis is fun.
+Tennis is fun \(but not played much lately\).
 
 🎾 🎾 🎾 
 {% endtab %}
@@ -60,9 +60,9 @@ You can also see some of the pictures I have taken from my hiking trips in [my p
 {% hint style="success" %}
 **Stats** \(all time\)
 
-Finds: 112
+Finds: 119
 
-_\(Last updated: 13.08.19\)_
+_\(Last updated: 31.08.19\)_
 {% endhint %}
 {% endtab %}
 {% endtabs %}
