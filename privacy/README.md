@@ -15,24 +15,24 @@
 
 | Name and link | Purpose |
 | :--- | :--- |
-| [Firefox](https://firefox.com/) and [Firefox Focus](https://www.mozilla.org/en-US/firefox/mobile/) | Browser \(Quantum\) |
-| [Brave](https://brave.com/) | Browser \(Chromium\) |
-| [Tor](https://www.torproject.org/) | Browser \(Onion\) |
-| [Jottacloud](https://www.jottacloud.com/) | Backup |
-| [Signal](https://www.signal.org/) | Direct Messages |
-| [ProtonMail](https://protonmail.com/) | E-mail |
+| [Firefox](https://firefox.com/) and [Firefox Focus](https://www.mozilla.org/en-US/firefox/mobile/) | Browser \(Quantum\). |
+| [Brave](https://brave.com/) | Browser \(Chromium\). |
+| [Tor](https://www.torproject.org/) | Browser \(Onion\). |
+| [Jottacloud](https://www.jottacloud.com/) | Online backup. |
+| [Signal](https://www.signal.org/) | Encrypyed direct messages. |
+| [ProtonMail](https://protonmail.com/) | Encrypted e-mail. |
 | [10 Minute Mail](https://10minutemail.net/) | E-mail address lasting for 10 min. |
-| [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?src=search) | Ad-block |
-| [DuckDuckGo](https://duck.com) | Search |
+| [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?src=search) | Ad-block. |
+| [DuckDuckGo](https://duck.com) | Online search. |
 | [Track THIS](https://trackthis.link/) | Open 100 tabs of pure madness to fool trackers. |
 
 ## Ideas for better privacy
 
 * [Platform for Privacy Preferences Project \(P3P\)](https://en.wikipedia.org/wiki/P3P)
 * [Finding a better solution for consenting to cookies](https://www.troyhunt.com/these-cookie-warning-shenanigans-have-got-to-stop/)
+  * My view: Cookie notices should be standardised and implented non-intrusive.
 * [Pretty Good Privacy \(PGP\)](https://www.openpgp.org/) - encryption for email
 * [Differential privacy](https://en.wikipedia.org/wiki/Differential_privacy)
-* Cookie notices should be standardised \(and implented non-intrusive\).
 
 ## Quotes
 
