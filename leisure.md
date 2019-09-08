@@ -11,9 +11,9 @@
 {% hint style="success" %}
 **Stats**
 
-All photographs _\(in Lightroom catalog\):_ 50929
+All photographs _\(in Lightroom catalog\):_ 51217
 
-_\(Last updated: 13.08.19\)_
+_\(Last updated: 08.09.19\)_
 {% endhint %}
 {% endtab %}
 
@@ -27,11 +27,11 @@ _\(Last updated: 13.08.19\)_
 {% hint style="success" %}
 **Stats** \(2019\)
 
-Rides: 98  
-Time: 57h 41m  
-Distance this year: 1240 km
+Rides: 102  
+Time: 50h 3m  
+Distance this year: 1293 km
 
-_\(Last updated: 31.08.19\)_
+_\(Last updated: 08.09.19\)_
 {% endhint %}
 {% endtab %}
 

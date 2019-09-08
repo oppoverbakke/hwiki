@@ -61,9 +61,9 @@ I like cameras. Some of the pictures I have taken is available to view and buy h
 | [35mmc](https://www.35mmc.com/category/impressions-and-reviews/changeable-lens-rangefinders-impressions-and-reviews/) | Reviews, thoughts & experiences with 35mm compact cameras, rangefinders & lenses |
 | [43rumors](https://www.43rumors.com/) | News and rumors about MFT cameras. |
 | [Dpreview](https://www.dpreview.com/) | Digital Photography Revie |
-| [Three Blind Men and An Elephant](https://www.youtube.com/channel/UCZb8uqR_73t8DlfpVfVbiEw) | Youtube channel about cameras. |
+| [Three Blind Men and An Elephant](https://www.youtube.com/channel/UCZb8uqR_73t8DlfpVfVbiEw) | Youtube channel about cameras. \(Youtube\) |
 | [David Thorpe](https://www.youtube.com/channel/UCZ-CbEVybw98KcQTWumzBow) | David Thorpe. Mostly MFT videos. \(Youtube\) |
-| [Gerand Undone](https://www.youtube.com/channel/UC09qASY4ixFS-KXIH6Nw0rg) | Quick and nerdy tech videos. |
+| [Gerand Undone](https://www.youtube.com/channel/UC09qASY4ixFS-KXIH6Nw0rg) | Quick and nerdy tech videos. \(Youtube\) |
 | [The Art of Photography](https://www.youtube.com/channel/UC7T8roVtC_3afWKTOGtLlBA) | Ted forbes. \(Youtube\) |
 
 ## Related
