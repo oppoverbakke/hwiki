@@ -46,3 +46,7 @@ description: Software and websites I use (and maybe not known to you already).
 | Evernote Web Clipper | Save web pages to Evernote. | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/evernote-web-clipper/) - [Chrome](https://chrome.google.com/webstore/detail/evernote-web-clipper/pioclpoplcdbaefihamjohnefbikjilc) |
 | Privacy Badger | Reduce tracking. | [Firefox ](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)- [Chrome](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) |
 
+## Related
+
+* [Ethical.net](https://ethical.net) - Ethical Alternatives & Resources.
+

@@ -21,7 +21,7 @@
 {% tab title="Topp \(Norsk\)" %}
 **Topp norske podkaster:**
 
-* [Dialogisk](https://www.modernemedia.no/dialogisk)
+* [Dialogisk](https://www.modernemedia.no/dialogisk) - tanker
 * [Forklart](https://www.aftenposten.no/emne/Forklart) - nyheter, samfunn
 * [Aftenpodden](https://www.aftenposten.no/podkast#/aftenpodden) - nyheter, samfunn
 * [Stormkast med Valebrokk & Stordalen](https://podtail.com/no/podcast/stormkast-med-valebrokk-stordalen/) - samfunn, intervju
@@ -33,11 +33,12 @@
 * [Kvinneguidens venner](https://podtail.com/no/podcast/kvinneguidens-venner/) - underholdning
 * [Må på behandling - Med Morten Ramm](https://podtail.com/no/podcast/ma-pa-behandling-med-morten-ramm/) - underholdning
 * [Ukentlig — med BMI ](https://podcasts.apple.com/us/podcast/ukentlig-med-bmi/id1079815535)-underholdning
-* [Ida med hjertet i hånden](https://podtail.com/no/podcast/ida-med-hjertet-i-handen/) - dokumentar, underholdning
+* [Ida med hjertet i hånden](https://podtail.com/no/podcast/ida-med-hjertet-i-handen/) - intervju, underholdning
 * [Psykologlunsj](https://podtail.com/no/podcast/psykologlunsj/) - psykologi, vitenskap
 * [Hos Peder](https://radio.nrk.no/podkast/hos_peder/nrkno-poddkast-25572-129444-10012018015400) - psykologi
 * [Rekommandert](http://www.rubicontv.no/radio/25/rekommandert) - vitenskap, intervju
 * [Ekko](https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram) - vitenskap
+* [Preik med Jan Erik Kjerpeseth](https://kjerpeseth.no/preik/) - ledelse, selskap.
 {% endtab %}
 {% endtabs %}
 
@@ -50,9 +51,9 @@
 {% hint style="success" %}
 * 95 podcasts currently subscribed to.
 * Listening since 21.02.2017:
-  * 84 days listened.
-  * 63 days saved _\(using variable speed\)_.
+  * 85 days listened.
+  * 64 days saved _\(using variable speed\)_.
 
-_\(Last updated 31.08.2019\)_
+_\(Last updated 11.09.2019\)_
 {% endhint %}
 
