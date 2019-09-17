@@ -10,6 +10,11 @@
 | [Schneier on Security](https://www.schneier.com/) | Blog. Security professional. |
 | [Roar Thon](https://www.roarthon.no/) | 🇳🇴 Blog. Security professional. |
 
+## Podcasts
+
+* [Malicious Life](https://malicious.life/) - Stories of the history of cybersecurity.
+* 🇳🇴 [Nasjonal sikkerhetsmyndighet \(NSM\)](https://soundcloud.com/nasjonal-sikkerhetsmyndighet) - Podkast om sikkerhet fra NSM.
+
 ## Organisations
 
 * 🇳🇴Offentlige instanser:[ Difi](https://www.difi.no/), [Datatilsynet](https://www.datatilsynet.no/) & [NSM](https://www.nsm.stat.no/)
