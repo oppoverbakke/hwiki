@@ -25,12 +25,14 @@
 | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?src=search) | Ad-block. |
 | [DuckDuckGo](https://duck.com) | Online search. |
 | [Track THIS](https://trackthis.link/) | Open 100 tabs of pure madness to fool trackers. |
+| [Noiszy](https://noiszy.com/) | Make some noise. |
 
 ## Ideas for better privacy
 
 * [Platform for Privacy Preferences Project \(P3P\)](https://en.wikipedia.org/wiki/P3P)
 * [Finding a better solution for consenting to cookies](https://www.troyhunt.com/these-cookie-warning-shenanigans-have-got-to-stop/)
-  * My view: Cookie notices should be standardised and implented non-intrusive.
+  * My view on current situation: Cookie notices should be standardised and implented non-intrusive.
+  * A better solution: [Inrupt: Solid](https://inrupt.com/).
 * [Pretty Good Privacy \(PGP\)](https://www.openpgp.org/) - encryption for email
 * [Differential privacy](https://en.wikipedia.org/wiki/Differential_privacy)
 
