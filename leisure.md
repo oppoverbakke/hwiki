@@ -11,9 +11,9 @@
 {% hint style="success" %}
 **Stats**
 
-All photographs _\(in Lightroom catalog\):_ 51217
+All photographs _\(in Lightroom catalog\):_ 51514
 
-_\(Last updated: 08.09.19\)_
+_\(Last updated: 30.09.19\)_
 {% endhint %}
 {% endtab %}
 
@@ -27,11 +27,11 @@ _\(Last updated: 08.09.19\)_
 {% hint style="success" %}
 **Stats** \(2019\)
 
-Rides: 102  
-Time: 50h 3m  
-Distance this year: 1293 km
+Rides: 115  
+Time: 67h 52m  
+Distance this year: 1471 km
 
-_\(Last updated: 08.09.19\)_
+_\(Last updated: 30.09.19\)_
 {% endhint %}
 {% endtab %}
 
@@ -60,9 +60,9 @@ You can also see some of the pictures I have taken from my hiking trips in [my p
 {% hint style="success" %}
 **Stats** \(all time\)
 
-Finds: 119
+Finds: 120
 
-_\(Last updated: 31.08.19\)_
+_\(Last updated: 30.09.19\)_
 {% endhint %}
 {% endtab %}
 {% endtabs %}
