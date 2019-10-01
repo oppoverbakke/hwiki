@@ -27,7 +27,6 @@
 * [Stormkast med Valebrokk & Stordalen](https://podtail.com/no/podcast/stormkast-med-valebrokk-stordalen/) - samfunn, intervju
 * [Gievær og gjengen - VG](https://www.vg.no/podcast/giaever-og-joffen/) - nyheter, samfunn
 * [Teknologimagasinet Aftenposten](https://www.aftenposten.no/tag/Teknologimagasinet) - teknologi
-* [LØRN.TECH](https://lorn.tech/) - teknologi, næringsliv
 * [NRK — P3 Dokumentar](https://p3.no/dokumentar/) - dokumentar
 * [E24-podden](https://e24.no/podcast/e24-podden/) - samfunn, økonomi
 * [Kvinneguidens venner](https://podtail.com/no/podcast/kvinneguidens-venner/) - underholdning
@@ -35,7 +34,7 @@
 * [Ukentlig — med BMI ](https://podcasts.apple.com/us/podcast/ukentlig-med-bmi/id1079815535)-underholdning
 * [Ida med hjertet i hånden](https://podtail.com/no/podcast/ida-med-hjertet-i-handen/) - intervju, underholdning
 * [Psykologlunsj](https://podtail.com/no/podcast/psykologlunsj/) - psykologi, vitenskap
-* [Hos Peder](https://radio.nrk.no/podkast/hos_peder/nrkno-poddkast-25572-129444-10012018015400) - psykologi
+* [Hos Peder](https://radio.nrk.no/podkast/hos_peder/nrkno-poddkast-25572-129444-10012018015400) - psykologi, intervju
 * [Rekommandert](http://www.rubicontv.no/radio/25/rekommandert) - vitenskap, intervju
 * [Ekko](https://radio.nrk.no/podkast/ekko_-_et_aktuelt_samfunnsprogram) - vitenskap
 * [Preik med Jan Erik Kjerpeseth](https://kjerpeseth.no/preik/) - ledelse, selskap.
@@ -49,11 +48,11 @@
 ## Stats
 
 {% hint style="success" %}
-* 91 podcasts currently subscribed to.
+* 86 podcasts currently subscribed to.
 * Listening since 21.02.2017:
   * 87 days listened.
   * 64 days saved _\(using variable speed\)_.
 
-_\(Last updated 30.09.2019\)_
+_\(Last updated 01.10.2019\)_
 {% endhint %}
 
