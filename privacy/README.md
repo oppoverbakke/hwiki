@@ -46,7 +46,7 @@
 >
 > _Source:_ [_https://idlewords.com/2019/06/the\_new\_wilderness.htm_](https://idlewords.com/2019/06/the_new_wilderness.htm)\_\_
 >
-> Privacy matters because the lack of it gives others power over you.
+> Privacy matters because the lack of it gives others power over you. \[...\] You have your attention, your presence of mind – everyone is fighting for it. They want to know more about you so they can know how best to distract you, even if that means luring you away from quality time with your loved ones or basic human needs such as sleep.
 >
 > _Source:_ [_https://aeon.co/essays/privacy-matters-because-it-empowers-us-all_](https://aeon.co/essays/privacy-matters-because-it-empowers-us-all)\_\_
 
