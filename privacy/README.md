@@ -45,6 +45,10 @@
 > ‘ambient privacy’—the understanding that there is value in having our everyday interactions with one another remain outside the reach of monitoring, and that the small details of our daily lives should pass by unremembered. What we do at home, work, church, school, or in our leisure time does not belong in a permanent record. Not every conversation needs to be a deposition.
 >
 > _Source:_ [_https://idlewords.com/2019/06/the\_new\_wilderness.htm_](https://idlewords.com/2019/06/the_new_wilderness.htm)\_\_
+>
+> Privacy matters because the lack of it gives others power over you.
+>
+> _Source:_ [_https://aeon.co/essays/privacy-matters-because-it-empowers-us-all_](https://aeon.co/essays/privacy-matters-because-it-empowers-us-all)\_\_
 
 ## Related
 
