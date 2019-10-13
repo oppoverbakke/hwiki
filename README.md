@@ -1,8 +1,8 @@
 # Introduction
 
-## What is this?
+## Welcome
 
-This is my public wiki filled with content I'm interested in. Mostly somehow related to technology.
+Welcome to my public wiki filled with content I'm interested in. Mostly somehow related to technology.
 
 Norwegian content is marked with: 🇳🇴
 
