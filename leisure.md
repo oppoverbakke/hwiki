@@ -11,9 +11,9 @@
 {% hint style="success" %}
 **Stats**
 
-All photographs _\(in Lightroom catalog\):_ 51514
+All photographs _\(in Lightroom catalog\):_ 51660
 
-_\(Last updated: 30.09.19\)_
+_\(Last updated: 19.10.19\)_
 {% endhint %}
 {% endtab %}
 
@@ -27,11 +27,11 @@ _\(Last updated: 30.09.19\)_
 {% hint style="success" %}
 **Stats** \(2019\)
 
-Rides: 115  
-Time: 67h 52m  
-Distance this year: 1471 km
+Rides: 121  
+Time: 70h 53m  
+Distance this year: 1537 km
 
-_\(Last updated: 30.09.19\)_
+_\(Last updated: 19.10.19\)_
 {% endhint %}
 {% endtab %}
 
@@ -60,9 +60,9 @@ You can also see some of the pictures I have taken from my hiking trips in [my p
 {% hint style="success" %}
 **Stats** \(all time\)
 
-Finds: 120
+Finds: 126
 
-_\(Last updated: 30.09.19\)_
+_\(Last updated: 19.10.19\)_
 {% endhint %}
 {% endtab %}
 {% endtabs %}
@@ -88,7 +88,7 @@ _\(Last updated: 30.09.19\)_
 
 ### Newsletters
 
-* [Helt.digital](https://helt.digital/ukebrief/) - oppsummering av nyheter om teknologi og sosiale medier.🇳🇴
+* [Helt.digital](https://helt.digital/ukebrief/) - oppsummering av nyheter om teknologi og sosiale medier.🇳🇴💰 
 * [The Crypt](http://getthecrypt.com/) - business and finance newsletter.
 * [5-bullet Friday](https://go.tim.blog/5-bullet-friday-1/) - Tim Ferriss. Productivity and tips.
 * [Pocket Hits](https://getpocket.com/explore/pocket-hits) - personalised recommendations of articles.
@@ -119,7 +119,7 @@ _\(Last updated: 30.09.19\)_
 
 ## Games
 
-* [Factorio](https://www.factorio.com/) - build factories and conquer the space.
+* [Factorio](https://www.factorio.com/) - build factories and conquer the space.💰
 * [Geocaching](https://www.geocaching.com/) - find physical treasures in the real world.
 
 ## Related
