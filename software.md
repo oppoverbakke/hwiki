@@ -49,4 +49,5 @@ description: Software and websites I use (and maybe not known to you already).
 ## Related
 
 * [Ethical.net](https://ethical.net) - Ethical Alternatives & Resources.
+* [Framasoft.org](https://framasoft.org/en/) - Change the world one byte at a time.
 

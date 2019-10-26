@@ -10,6 +10,7 @@
 | [Awesome-GDPR](https://github.com/bakke92/awesome-gdpr) | My overview of tools and resources for privacy professionals. |
 | [Spread Privacy](https://spreadprivacy.com/) | Blog about privacy from DuckDuckGo. |
 | [Just Delete Me](https://backgroundchecks.org/justdeleteme/) | A directory of direct links to delete your account from web services. |
+| [My Data Done Right](https://www.mydatadoneright.eu/) | Take control: Access, remove, correct, or move your data. |
 
 ## _Software_
 
