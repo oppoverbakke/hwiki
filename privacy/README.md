@@ -11,6 +11,7 @@
 | [Spread Privacy](https://spreadprivacy.com/) | Blog about privacy from DuckDuckGo. |
 | [Just Delete Me](https://backgroundchecks.org/justdeleteme/) | A directory of direct links to delete your account from web services. |
 | [My Data Done Right](https://www.mydatadoneright.eu/) | Take control: Access, remove, correct, or move your data. |
+| [PrivacyTools.io](https://www.privacytools.io/) | Services, tools and knowledge to protect your privacy against global mass surveillance. |
 
 ## _Software_
 
