@@ -1,7 +1,7 @@
 # Podcasts
 
 {% tabs %}
-{% tab title="Top \(English\)" %}
+{% tab title="English favorites" %}
 **Top podcasts in English:**
 
 * [Frekonomics Radio](http://freakonomics.com/) - economy
@@ -18,7 +18,7 @@
 * [The Tim Ferriss Show](https://tim.blog/podcast/) - interviews
 {% endtab %}
 
-{% tab title="Topp \(Norsk\)" %}
+{% tab title="Norske favoritter" %}
 **Topp norske podkaster:**
 
 * [Dialogisk](https://www.modernemedia.no/dialogisk) - tanker
@@ -51,8 +51,8 @@
 * 82 podcasts currently subscribed to.
 * Listening since 21.02.2017:
   * 90 days listened.
-  * 65 days saved _\(using variable speed\)_.
+  * 66 days saved _\(using variable speed\)_.
 
-_\(Last updated 26.10.2019\)_
+_\(Last updated 01.11.2019\)_
 {% endhint %}
 
