@@ -51,6 +51,10 @@
 > Privacy matters because the lack of it gives others power over you. \[...\] You have your attention, your presence of mind – everyone is fighting for it. They want to know more about you so they can know how best to distract you, even if that means luring you away from quality time with your loved ones or basic human needs such as sleep.
 >
 > _Source:_ [_https://aeon.co/essays/privacy-matters-because-it-empowers-us-all_](https://aeon.co/essays/privacy-matters-because-it-empowers-us-all)\_\_
+>
+> There is no simple solution to the problem of privacy, because privacy itself is a solution to societal challenges that are in constant flux. Some are natural and beyond our control; others are technological and should be within our control but are shaped by a panoply of complex social and material forces with indeterminate effects. Privacy does not mean stopping the flow of data; it means channeling it wisely and justly to serve societal ends and values and the individuals who are its subjects, particularly the vulnerable and the disadvantaged.
+>
+> _Source:_ [_https://thereader.mitpress.mit.edu/the-fantasy-of-opting-out/_](https://thereader.mitpress.mit.edu/the-fantasy-of-opting-out/)\_\_
 
 ## Related
 
