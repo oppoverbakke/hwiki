@@ -3,7 +3,7 @@
 ## Investing
 
 * [Bogleheads \(forum\)](https://www.bogleheads.org/forum/index.php) - Investing advice inspired by John Bogle.
-* 
+
 ## Tools
 
 * [Firefly III](https://firefly-iii.org/) - A free and open source personal finance manager.
