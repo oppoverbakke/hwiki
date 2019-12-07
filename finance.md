@@ -10,6 +10,8 @@
 * [Pocketsmith](https://www.pocketsmith.com/) - Personal finance software with cash flow forecasts.
 * [Global Rich List](http://www.globalrichlist.com/) - See how you rank globally.
 * [Overview of many calculators](https://jlcollinsnh.com/calculators/) - by JL Collins.
+* [Vertex42](https://www.vertex42.com/) - The guide to excel in everything.
+* [Personalfinance / tools](https://www.reddit.com/r/personalfinance/wiki/tools) - Spreadsheets templates and other finance tools.
 
 ## Blogs / Media
 
@@ -34,4 +36,7 @@
 > Don't try to time the market.
 
 ## Related
+
+* [r/personalfinance](https://www.reddit.com/r/personalfinance/) - Community for budgeting, saving, getting out of debt, credit, investing, and retirement planning.
+* [r/PFtools](https://www.reddit.com/r/PFtools/) - Personal finance tools.
 
