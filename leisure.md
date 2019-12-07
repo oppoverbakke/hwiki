@@ -52,6 +52,7 @@ You can also see some of the pictures I have taken from my hiking trips in [my p
 * [Bratt](https://itunes.apple.com/no/app/bratt/id1121510874) - App som indikerer grafisk på kart hvor bratt terrenget er.
 * [Lommekjent](http://www.lommekjent.no/) - Turforslag.
 * [iSikte Norge](http://appbibliotek.no/isikte-norge/) - Utvidet virkelighet \(AR\) for å visualisere stedsnavn, f.eks. fjelltopper.
+* [Varsom Regobs](https://www.varsom.no/en/news/download-the-varsom-regobs-app/) - Logg snøskred og værforhold.
 {% endtab %}
 
 {% tab title="Geocaching" %}
@@ -88,13 +89,11 @@ _\(Last updated: 19.10.19\)_
 
 ### Newsletters
 
-* [Helt.digital](https://helt.digital/ukebrief/) - oppsummering av nyheter om teknologi og sosiale medier.🇳🇴💰 
 * [The Crypt](http://getthecrypt.com/) - business and finance newsletter.
 * [5-bullet Friday](https://go.tim.blog/5-bullet-friday-1/) - Tim Ferriss. Productivity and tips.
 * [Pocket Hits](https://getpocket.com/explore/pocket-hits) - personalised recommendations of articles.
 * [Recomendo](https://www.recomendo.com/) - recommendations of products and services.
 * [Stable Genius](https://www.stableg.com/newsletter) - technology, recommendations.
-* [Letterlist](http://letterlist.com/) - collection of several newsletters.
 * [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters#readme) - curated list of newsletters.
 * [hackernewsletter](https://hackernewsletter.com/) - startups, technology, programming, and more.
 
@@ -120,7 +119,7 @@ _\(Last updated: 19.10.19\)_
 ## Games
 
 * [Factorio](https://www.factorio.com/) - build factories and conquer the space.💰
-* [Geocaching](https://www.geocaching.com/) - find physical treasures in the real world.
+* [Geocaching](https://www.geocaching.com/) - find physical _treasures_ in the real world.
 
 ## Related
 

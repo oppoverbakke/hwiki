@@ -9,6 +9,5 @@
 * [Leisure](leisure.md)
 * [Podcasts](podcasts.md)
 * [Productivity](productivity.md)
-* [\*Tech](tech.md)
 * [Finance](finance.md)
 
