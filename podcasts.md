@@ -8,14 +8,9 @@
 * [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain?t=1559991843436) - technology, documentaries
 * [Reply All](https://gimletmedia.com/shows/reply-all) - technology, internet
 * [Note to Self](https://www.wnycstudios.org/shows/notetoself) - technology, humans
-* [Decrypted](https://www.bloomberg.com/podcasts/decrypted) - technology
 * [Radiolab](https://www.wnycstudios.org/shows/radiolab) - documentary
 * [The Vergecast](https://www.theverge.com/the-vergecast) - technology, gadgets
-* [The Dropout](http://abcradio.com/podcasts/the-dropout/) - documentary
-* [99% Invisible](https://99percentinvisible.org/) - documentary
-* [Pessimists Archive Podcast](https://pessimists.co/) - documentary
-* [The Infinite Monkey Cage](https://www.bbc.co.uk/programmes/b00snr0w/episodes/downloads) - science
-* [The Tim Ferriss Show](https://tim.blog/podcast/) - interviews
+* [Planet Money](https://www.npr.org/podcasts/510289/planet-money) - money, economy
 {% endtab %}
 
 {% tab title="Norske favoritter" %}
@@ -48,11 +43,11 @@
 ## Stats
 
 {% hint style="success" %}
-* 78 podcasts currently subscribed to.
+* 74 podcasts currently subscribed to.
 * Listening since 21.02.2017:
-  * 93 days listened.
-  * 67 days saved _\(using variable speed\)_.
+  * 94 days listened.
+  * 68 days saved _\(using variable speed\)_.
 
-_\(Last updated 29.11.2019\)_
+_\(Last updated 16.12.2019\)_
 {% endhint %}
 
