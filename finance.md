@@ -19,6 +19,7 @@
 * [Planet Money](https://www.npr.org/sections/money/) - _\[podcast\]_ The economy explained.
 * [The Finanser](https://blogg.nordnet.no/) - a blog by Chris Skinner.
 * [JL Collins](https://jlcollinsnh.com/) - The Simple Path to Wealth - [\[Recommended article\].](https://jlcollinsnh.com/2011/06/08/how-i-failed-my-daughter-and-a-simple-path-to-wealth/)
+* [Collaborative Fund](https://www.collaborativefund.com/blog/) - 
 
 ## Norwegian content 🇳🇴 
 
@@ -34,6 +35,8 @@
 ## Quotes
 
 > Don't try to time the market.
+>
+> The highest dividend money pays is providing the ability to control your time. [\[Source\]](https://www.collaborativefund.com/blog/financial-advice-for-my-new-daughter/)
 
 ## Related
 
