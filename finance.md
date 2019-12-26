@@ -18,7 +18,9 @@
 * [The Crypt](http://getthecrypt.com/) - business and finance newsletter.
 * [Planet Money](https://www.npr.org/sections/money/) - _\[podcast\]_ The economy explained.
 * [The Finanser](https://blogg.nordnet.no/) - a blog by Chris Skinner.
-* [JL Collins](https://jlcollinsnh.com/) - The Simple Path to Wealth - [\[Recommended article\].](https://jlcollinsnh.com/2011/06/08/how-i-failed-my-daughter-and-a-simple-path-to-wealth/)
+* [JL Collins](https://jlcollinsnh.com/) - The Simple Path to Wealth
+  * _Recommended:_ [_Stock Series_](https://jlcollinsnh.com/stock-series/)\_\_
+  * _Recommended:_ [_How I failed my daughter and a simple path to wealth_](https://jlcollinsnh.com/2011/06/08/how-i-failed-my-daughter-and-a-simple-path-to-wealth/)\_\_
 * [Collaborative Fund](https://www.collaborativefund.com/blog/) - 
 
 ## Norwegian content 🇳🇴 
