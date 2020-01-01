@@ -2,7 +2,7 @@
 
 **Welcome** to my public wiki filled with content I'm interested in. Mostly somehow related to technology.
 
-Norwegian content are marked with: 🇳🇴
+Norwegian content is marked with: 🇳🇴
 
 ## Found something wrong
 

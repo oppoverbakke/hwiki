@@ -11,9 +11,9 @@
 {% hint style="success" %}
 **Stats**
 
-All photographs _\(in Lightroom catalog\):_ 51660
+All photographs _\(in Lightroom catalog\):_ 52018
 
-_\(Last updated: 19.10.19\)_
+_\(Last updated: 01.01.20\)_
 {% endhint %}
 {% endtab %}
 
@@ -25,13 +25,13 @@ _\(Last updated: 19.10.19\)_
 **Strava:** [Profile](https://www.strava.com/athletes/13642227)
 
 {% hint style="success" %}
-**Stats** \(2019\)
+**Stats** \(2020\)
 
-Rides: 121  
-Time: 70h 53m  
-Distance this year: 1537 km
+Rides: 0  
+Time: 0 h 0 min  
+Distance this year: 0 km
 
-_\(Last updated: 19.10.19\)_
+_\(Last updated: 01.01.20\)_
 {% endhint %}
 {% endtab %}
 
@@ -61,9 +61,9 @@ You can also see some of the pictures I have taken from my hiking trips in [my p
 {% hint style="success" %}
 **Stats** \(all time\)
 
-Finds: 126
+Logged: 126
 
-_\(Last updated: 19.10.19\)_
+_\(Last updated: 01.01.20\)_
 {% endhint %}
 {% endtab %}
 {% endtabs %}

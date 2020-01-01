@@ -4,7 +4,7 @@
 {% tab title="English favorites" %}
 **Top podcasts in English:**
 
-* [Frekonomics Radio](http://freakonomics.com/) - economy
+* [Freakonomics Radio](http://freakonomics.com/) - economy
 * [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain?t=1559991843436) - technology, documentaries
 * [Reply All](https://gimletmedia.com/shows/reply-all) - technology, internet
 * [Note to Self](https://www.wnycstudios.org/shows/notetoself) - technology, humans
@@ -45,9 +45,9 @@
 {% hint style="success" %}
 * 74 podcasts currently subscribed to.
 * Listening since 21.02.2017:
-  * 94 days listened.
-  * 68 days saved _\(using variable speed\)_.
+  * 151 days listened.
+  * 104 days saved _\(using variable speed\)_.
 
-_\(Last updated 16.12.2019\)_
+_\(Last updated  01.01.20\)_
 {% endhint %}
 
