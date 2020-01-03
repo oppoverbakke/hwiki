@@ -18,8 +18,7 @@ _\(Last updated: 01.01.20\)_
 {% endtab %}
 
 {% tab title="Cycling" %}
-**Gravel bike:** Merida Silex 400
-
+**Gravel bike:** Merida Silex 400  
 **Mountain bike:** Diamant Stinx Extreme
 
 **Strava:** [Profile](https://www.strava.com/athletes/13642227)
@@ -27,11 +26,11 @@ _\(Last updated: 01.01.20\)_
 {% hint style="success" %}
 **Stats** \(2020\)
 
-Rides: 0  
-Time: 0 h 0 min  
-Distance this year: 0 km
+Rides: 2  
+Time: 1 h 10 min  
+Distance this year: 24 km
 
-_\(Last updated: 01.01.20\)_
+_\(Last updated: 03.01.20\)_
 {% endhint %}
 {% endtab %}
 
