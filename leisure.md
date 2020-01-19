@@ -114,6 +114,8 @@ _\(Last updated: 01.01.20\)_
 * [Marques Brownlee](https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ) - technology, gadgets.
 * [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ) - expert on shitty robots.
 * [The Verge](https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ) - technology, gadgets, reviews.
+* [Alex](https://www.youtube.com/channel/UCPzFLpOblZEaIx2lpym1l1A) - Inspiring food, Obsessional host.
+* [JerryRigEverything](https://www.youtube.com/channel/UCWFKCr40YwOZQx8FHU_ZqqQ) - Life is a do it yourself project.
 
 ## Games
 
