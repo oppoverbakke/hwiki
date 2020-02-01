@@ -23,10 +23,6 @@
   * _Recommended:_ [_How I failed my daughter and a simple path to wealth_](https://jlcollinsnh.com/2011/06/08/how-i-failed-my-daughter-and-a-simple-path-to-wealth/)\_\_
 * [Of Dollars and Data](https://ofdollarsanddata.com/) - Personal Finance using Data Analysis.
 
-## Books
-
-* [The Intelligent Investor](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor) - ****by Benjamin Graham
-
 ## Norwegian content 🇳🇴 
 
 * [Eivind Berg](https://www.eivindberg.no/) - økonomi, investering og sparing. 

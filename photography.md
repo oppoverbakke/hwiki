@@ -8,7 +8,8 @@ I like cameras. Some of the pictures I have taken is available to view and buy h
   <thead>
     <tr>
       <th style="text-align:left">Camera system</th>
-      <th style="text-align:left">Lenses / (comments)</th>
+      <th style="text-align:left">Lenses / <em>Comments</em>
+      </th>
     </tr>
   </thead>
   <tbody>
@@ -34,12 +35,20 @@ I like cameras. Some of the pictures I have taken is available to view and buy h
     <tr>
       <td style="text-align:left"><a href="https://www.nikon.co.uk/en_GB/product/digital-cameras/coolpix/waterproof-shockproof/coolpix-w300-orange">Nikon W300</a>
       </td>
-      <td style="text-align:left">(Waterproof compact camera)</td>
+      <td style="text-align:left"><em>Waterproof compact camera</em>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><a href="https://www.amazon.com/Polaroid-Instant-Digital-Printing-Technology/dp/B005O08KH6">Polaroid Z340</a>
       </td>
-      <td style="text-align:left">(Digital Polaroid camera)</td>
+      <td style="text-align:left"><em>Digital Polaroid camera</em>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><a href="https://www.dji.com/no/mavic-mini">DJI Maciv Mini</a>
+      </td>
+      <td style="text-align:left"><em>Drone</em>
+      </td>
     </tr>
   </tbody>
 </table>## Accessories
