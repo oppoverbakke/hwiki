@@ -42,12 +42,12 @@
 
 ## Stats
 
-{% hint style="success" %}
-* 71 podcasts currently subscribed to.
+{% hint style="info" %}
+* 69 podcasts currently subscribed to.
 * Listening since 21.02.2017:
-  * 98 days listened.
-  * 69 days saved _\(using variable speed\)_.
+  * 99 days listened.
+  * 70 days saved _\(using variable speed\)_.
 
-_\(Last updated  03.02.20\)_
+_\(Last updated  16.02.20\)_
 {% endhint %}
 

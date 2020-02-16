@@ -1,6 +1,8 @@
-# Privacy
+---
+description: Privacy respecting tools and services. Inspiration for better privacy.
+---
 
-## Privacy respecting
+# Privacy
 
 ## Resources
 

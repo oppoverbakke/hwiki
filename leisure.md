@@ -8,7 +8,7 @@
 
 **Overview:** [Photography](photography.md)
 
-{% hint style="success" %}
+{% hint style="info" %}
 **Stats**
 
 All photographs _\(in Lightroom catalog\):_ 52018
@@ -23,14 +23,14 @@ _\(Last updated: 01.01.20\)_
 
 **Strava:** [Profile](https://www.strava.com/athletes/13642227)
 
-{% hint style="success" %}
+{% hint style="info" %}
 **Stats** \(2020\)
 
-Rides: 2  
-Time: 1 h 10 min  
-Distance this year: 24 km
+Rides: 7  
+Time: 6h 24m  
+Distance this year: 95 km
 
-_\(Last updated: 03.01.20\)_
+_\(Last updated: 16.02.20\)_
 {% endhint %}
 {% endtab %}
 
@@ -45,7 +45,7 @@ Most of my hiking trips are logged on[ Strava](https://www.strava.com/athletes/1
 
 You can also see some of the pictures I have taken from my hiking trips in [my photo portfolio](https://foto.bakke.be).
 
-🇳🇴 **Recommendations**:
+\*\*\*\*🇳🇴 **Recommendations**:
 
 * [UT.no](https://ut.no/) - Turforslag.
 * [Bratt](https://itunes.apple.com/no/app/bratt/id1121510874) - App som indikerer grafisk på kart hvor bratt terrenget er.
@@ -57,7 +57,7 @@ You can also see some of the pictures I have taken from my hiking trips in [my p
 {% tab title="Geocaching" %}
 **Profile:** [Geocaching](https://www.geocaching.com/p/default.aspx?guid=9bd840ec-c9c1-46bb-a58a-cb15d572385d)
 
-{% hint style="success" %}
+{% hint style="info" %}
 **Stats** \(all time\)
 
 Logged: 126
@@ -88,11 +88,8 @@ _\(Last updated: 01.01.20\)_
 
 ### Newsletters
 
-* [The Crypt](http://getthecrypt.com/) - business and finance newsletter.
 * [5-bullet Friday](https://go.tim.blog/5-bullet-friday-1/) - Tim Ferriss. Productivity and tips.
 * [Pocket Hits](https://getpocket.com/explore/pocket-hits) - personalised recommendations of articles.
-* [Recomendo](https://www.recomendo.com/) - recommendations of products and services.
-* [Stable Genius](https://www.stableg.com/newsletter) - technology, recommendations.
 * [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters#readme) - curated list of newsletters.
 * [hackernewsletter](https://hackernewsletter.com/) - startups, technology, programming, and more.
 
