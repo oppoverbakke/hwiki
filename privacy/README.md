@@ -41,6 +41,11 @@ description: Privacy respecting tools and services. Inspiration for better priva
 * [Pretty Good Privacy \(PGP\)](https://www.openpgp.org/) - encryption for email
 * [Differential privacy](https://en.wikipedia.org/wiki/Differential_privacy)
 
+|  |  |
+| :--- | :--- |
+| Inrupt | [https://inrupt.com](https://inrupt.com/) |
+| Polypoly | [https://www.polypoly.eu](https://www.polypoly.eu/) |
+
 ## Quotes
 
 > Ubiquitous digital surveillance should simply end in its current form. There is no justifiable reason to allow so many companies to accumulate so much data on so many people. Inviting users to “click here to agree” to vague, hard-to-pin-down terms of use doesn’t produce “informed consent.”
