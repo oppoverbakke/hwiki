@@ -24,4 +24,5 @@
 ## Related
 
 * [Software](software.md)
+* [Personal Security Check list](https://github.com/Lissy93/personal-security-checklist#readme)
 
