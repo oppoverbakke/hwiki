@@ -17,6 +17,8 @@ I like cameras. Some of the pictures I have taken is available to view and buy h
       <td style="text-align:left"><a href="https://www.olympus.co.uk/site/en/c/cameras/om_d_system_cameras/om_d/e_m5_mark_ii/index.html">Olympus OM-D E-M 5 Mk II</a>
       </td>
       <td style="text-align:left">
+        <p><em>Micro Four Thirds-system</em>
+        </p>
         <p>Panasonic 25 mm f/1.7</p>
         <p>Olympus 75 mm f/1.8</p>
         <p>Olympus 17mm f/1.8
@@ -28,6 +30,8 @@ I like cameras. Some of the pictures I have taken is available to view and buy h
       <td style="text-align:left"><a href="https://www.dpreview.com/reviews/nikond300">Nikon D300</a>
       </td>
       <td style="text-align:left">
+        <p><em>DSLR-system</em>
+        </p>
         <p>Nikkor 18-70 mm</p>
         <p>Nikkor 50 mm f/1.8</p>
       </td>
