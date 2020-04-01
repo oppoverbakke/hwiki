@@ -11,9 +11,9 @@
 {% hint style="info" %}
 **Stats**
 
-All photographs _\(in Lightroom catalog\):_ 52018
+All photographs _\(in Lightroom catalog\):_ 52611
 
-_\(Last updated: 01.01.20\)_
+_\(Last updated: 01.04.20\)_
 {% endhint %}
 {% endtab %}
 
@@ -60,9 +60,9 @@ You can also see some of the pictures I have taken from my hiking trips in [my p
 {% hint style="info" %}
 **Stats** \(all time\)
 
-Logged: 128
+Logged: 130
 
-_\(Last updated: 14.03.20\)_
+_\(Last updated: 01.04.20\)_
 {% endhint %}
 {% endtab %}
 {% endtabs %}
