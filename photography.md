@@ -61,6 +61,8 @@ I like cameras. Some of the pictures I have taken is available to view and buy h
 | :--- | :--- |
 | [Loupedeck+](https://loupedeck.com/) | Editing keyboard for Lightroom \(and other editing software\) |
 | [Everyday Backpack \(20L\)](https://www.peakdesign.com/products/everyday-backpack?variant=9783969284140) | Backpack \(Peak Design\) |
+| [Travel Backpack \(45L\)](https://www.peakdesign.com/products/travel-backpack/) | Backpack \(Peak Design\) |
+| [Cube Pack \(21L\)](https://www.nomatic.com/products/cube-pack) | Camera cube with integrated backpack \(Nomatic\) |
 | [Leash](https://www.peakdesign.com/products/leash) | Quick-connecting camera strap \(Peak Design\) |
 | [Capture](https://www.peakdesign.com/products/capture/) | Clips the camera to the backpack \(Peak Design\) |
 | [MeFoto Backpacker](https://www.mefoto.com/products/backpacker-classic) | Travel tripod. |
@@ -82,4 +84,5 @@ I like cameras. Some of the pictures I have taken is available to view and buy h
 ## Related
 
 * [Hobbies](leisure.md#hobbies)
+* [Storage for Photographers](https://paulstamatiou.com/storage-for-photographers-part-2/)
 

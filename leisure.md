@@ -26,18 +26,19 @@ _\(Last updated: 01.04.20\)_
 {% hint style="info" %}
 **Stats** \(2020\)
 
-Rides: 10  
-Time: 8h 48m  
-Distance this year: 122 km
+Rides: 12  
+Time: 13h 12m  
+Distance this year: 204 km
 
-_\(Last updated: 14.03.20\)_
+_\(Last updated: 09.04.20\)_
 {% endhint %}
 {% endtab %}
 
 {% tab title="Tennis" %}
-Tennis is fun \(but not played much lately\).
+Tennis is fun   
+_\(but not played much lately\)._
 
-🎾 🎾 🎾 
+🎾🎾🎾🎾🎾🎾🎾🎾🎾 
 {% endtab %}
 
 {% tab title="Hiking" %}
@@ -60,9 +61,9 @@ You can also see some of the pictures I have taken from my hiking trips in [my p
 {% hint style="info" %}
 **Stats** \(all time\)
 
-Logged: 130
+Logged: 133
 
-_\(Last updated: 01.04.20\)_
+_\(Last updated: 09.04.20\)_
 {% endhint %}
 {% endtab %}
 {% endtabs %}

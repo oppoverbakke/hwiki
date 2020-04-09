@@ -1,6 +1,6 @@
 # Introduction
 
-**Welcome** to my public wiki filled with content I'm interested in. Mostly somehow related to technology.
+**Welcome** to my personal public wiki. This site are filled with content I'm interested in. Mostly somehow related to technology.
 
 Norwegian content is marked with: 🇳🇴
 
