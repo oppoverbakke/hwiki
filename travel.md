@@ -8,3 +8,9 @@
 [Places I want to visit](https://goo.gl/maps/4emBJcP2D9rghn5k6)
 {% endhint %}
 
+{% hint style="info" %}
+**Stats**
+
+000 of 198 countries visited.
+{% endhint %}
+
