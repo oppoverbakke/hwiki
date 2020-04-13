@@ -61,9 +61,9 @@ You can also see some of the pictures I have taken from my hiking trips in [my p
 {% hint style="info" %}
 **Stats** \(all time\)
 
-Logged: 133
+Logged: 135
 
-_\(Last updated: 09.04.20\)_
+_\(Last updated: 13.04.20\)_
 {% endhint %}
 {% endtab %}
 {% endtabs %}
