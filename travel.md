@@ -11,6 +11,10 @@
 {% hint style="info" %}
 **Stats**
 
-000 of 198 countries visited.
+21 of 198 countries visited.  
+10.6% of all countries.
 {% endhint %}
+
+  
+
 
