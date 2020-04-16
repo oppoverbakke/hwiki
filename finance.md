@@ -17,16 +17,17 @@
 ## Blogs / Media
 
 * [Planet Money](https://www.npr.org/sections/money/) - _\[podcast\]_ The economy explained.
-* [The Finanser](https://blogg.nordnet.no/) - a blog by Chris Skinner.
-* [JL Collins](https://jlcollinsnh.com/) - The Simple Path to Wealth
-  * _Recommended:_ [_How I failed my daughter and a simple path to wealth_](https://jlcollinsnh.com/2011/06/08/how-i-failed-my-daughter-and-a-simple-path-to-wealth/)\_\_
-* [Of Dollars and Data](https://ofdollarsanddata.com/) - Personal Finance using Data Analysis.
-* [Mr. Money Mustache](https://www.mrmoneymustache.com/) - Financial Freedom Through Badassisty
-* [Money Stuff](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) - Matt Levine, Bloomberg Opinion Columnist
+* [The Finanser](https://blogg.nordnet.no/) - _\[blog\]_ by Chris Skinner.
+* [JL Collins](https://jlcollinsnh.com/) - _\[blog\]_ The Simple Path to Wealth
+  * _Recommended article:_ [_How I failed my daughter and a simple path to wealth_](https://jlcollinsnh.com/2011/06/08/how-i-failed-my-daughter-and-a-simple-path-to-wealth/)\_\_
+* [Of Dollars and Data](https://ofdollarsanddata.com/) - _\[blog\]_ Personal Finance using Data Analysis.
+* [Mr. Money Mustache](https://www.mrmoneymustache.com/) - _\[blog\]_ Financial Freedom Through Badassisty
+* [Money Stuff](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) - _\[blog\]_ Matt Levine, Bloomberg Opinion Columnist
+* [How The Economic Machine Works](https://www.youtube.com/watch?v=PHe0bXAIuk0) - _\[video, 31 min\]_ by Ray Dalio
 
 ## Books
 
-* [The Intelligent Investor](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor) - ****by Benjamin Graham
+* [The Intelligent Investor](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor) - __by Benjamin Graham
 
 ## Norwegian content 🇳🇴 
 
