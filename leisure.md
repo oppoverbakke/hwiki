@@ -26,11 +26,11 @@ _\(Last updated: 01.04.20\)_
 {% hint style="info" %}
 **Stats** \(2020\)
 
-Rides: 12  
-Time: 13h 12m  
-Distance this year: 204 km
+Rides: 15  
+Time: 16h 6m  
+Distance this year: 256 km
 
-_\(Last updated: 09.04.20\)_
+_\(Last updated: 19.04.20\)_
 {% endhint %}
 {% endtab %}
 
@@ -61,9 +61,9 @@ You can also see some of the pictures I have taken from my hiking trips in [my p
 {% hint style="info" %}
 **Stats** \(all time\)
 
-Logged: 135
+Logged: 138
 
-_\(Last updated: 13.04.20\)_
+_\(Last updated: 19.04.20\)_
 {% endhint %}
 {% endtab %}
 {% endtabs %}
