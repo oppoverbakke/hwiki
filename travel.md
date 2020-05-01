@@ -1,4 +1,4 @@
-# Travel
+# Exploring
 
 {% hint style="success" %}
 [Places I have visited](https://goo.gl/maps/92spBC7a76opmYhGA)

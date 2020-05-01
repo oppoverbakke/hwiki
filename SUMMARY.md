@@ -11,5 +11,5 @@
 * [Productivity](productivity.md)
 * [Finance](finance.md)
 * [Food](food.md)
-* [Travel](travel.md)
+* [Exploring](travel.md)
 
