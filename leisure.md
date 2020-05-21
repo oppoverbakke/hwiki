@@ -11,26 +11,27 @@
 {% hint style="info" %}
 **Stats**
 
-All photographs _\(in Lightroom catalog\):_ 52907
+All photographs _\(in Lightroom catalog\):_ 53220
 
-_\(Last updated: 26.04.20\)_
+_\(Last updated: 21.05.20\)_
 {% endhint %}
 {% endtab %}
 
 {% tab title="Cycling" %}
 **Gravel bike:** Merida Silex 400  
-**Mountain bike:** Diamant Stinx Extreme
+**Mountain bike:** Diamant Stinx Extreme  
+**eMTB:** Trek Rail 7
 
 **Strava:** [Profile](https://www.strava.com/athletes/13642227)
 
 {% hint style="info" %}
 **Stats** \(2020\)
 
-Rides: 15  
-Time: 16h 6m  
-Distance this year: 256 km
+Rides: 28  
+Time: 35h 27m  
+Distance this year: 481 km
 
-_\(Last updated: 19.04.20\)_
+_\(Last updated: 21.05.20\)_
 {% endhint %}
 {% endtab %}
 
@@ -61,9 +62,9 @@ You can also see some of the pictures I have taken from my hiking trips in [my p
 {% hint style="info" %}
 **Stats** \(all time\)
 
-Logged: 141
+Logged: 156
 
-_\(Last updated: 26.04.20\)_
+_\(Last updated: 21.05.20\)_
 {% endhint %}
 {% endtab %}
 {% endtabs %}
@@ -102,8 +103,6 @@ _\(Last updated: 26.04.20\)_
 * [Hacker News \(Original\)](https://news.ycombinator.com/) and [alternative interface](https://hckrnews.com/) - user submitted content.
 * [Pocket](https://app.getpocket.com/)  - read later and recommendations.
 * [Pocket Casts](https://play.pocketcasts.com/) - [podcasts](podcasts.md) _\(sound\)._
-* [Medium](https://medium.com/) _-_ user submitted content.
-* [Reddit](http://reddit.com/) - user submitted content.
 
 ### YouTube subscriptions
 
@@ -118,7 +117,7 @@ _\(Last updated: 26.04.20\)_
 ## Games
 
 * [Factorio](https://www.factorio.com/) - build factories and conquer the space.💰
-* [Geocaching](https://www.geocaching.com/) - find physical _treasures_ in the real world.
+* [Geocaching](https://www.geocaching.com/) - find physical treasures in the real world.
 
 ## Related
 
