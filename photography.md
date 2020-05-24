@@ -49,7 +49,7 @@ I like cameras. Some of the pictures I have taken is available to view and buy h
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><a href="https://www.dji.com/no/mavic-mini">DJI Maciv Mini</a>
+      <td style="text-align:left"><a href="https://www.dji.com/no/mavic-mini">DJI Mavic Mini</a>
       </td>
       <td style="text-align:left"><em>Drone</em>
       </td>

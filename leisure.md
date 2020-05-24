@@ -62,9 +62,9 @@ You can also see some of the pictures I have taken from my hiking trips in [my p
 {% hint style="info" %}
 **Stats** \(all time\)
 
-Logged: 156
+Logged: 158
 
-_\(Last updated: 21.05.20\)_
+_\(Last updated: 24.05.20\)_
 {% endhint %}
 {% endtab %}
 {% endtabs %}
@@ -76,7 +76,6 @@ _\(Last updated: 21.05.20\)_
 * [Stratechery](https://stratechery.com/) - technology analysis.
 * [Marco Arment](https://marco.org/) - technology.
 * [Roy Solberg](https://blog.roysolberg.com/) - technology, security.
-* [Scott Galloway](https://www.profgalloway.com/) - business, technology.
 
 ### Norske blogger🇳🇴 
 
@@ -90,10 +89,11 @@ _\(Last updated: 21.05.20\)_
 
 ### Newsletters
 
-* [5-bullet Friday](https://go.tim.blog/5-bullet-friday-1/) - Tim Ferriss. Productivity and tips.
 * [Pocket Hits](https://getpocket.com/explore/pocket-hits) - personalised recommendations of articles.
-* [Awesome Newsletters](https://github.com/zudochkin/awesome-newsletters#readme) - curated list of newsletters.
 * [hackernewsletter](https://hackernewsletter.com/) - startups, technology, programming, and more.
+* [Money Stuff](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) - finance, economy.
+* [No Mercy / No Malice](https://www.profgalloway.com/) - tech, digital economy \(Scott Galloway\)
+* [DuckDuckGo Privacy Weekly](https://spreadprivacy.com/privacy-weekly-newsletter/) - privacy
 
 ## Browsing
 
@@ -118,6 +118,7 @@ _\(Last updated: 21.05.20\)_
 
 * [Factorio](https://www.factorio.com/) - build factories and conquer the space.💰
 * [Geocaching](https://www.geocaching.com/) - find physical treasures in the real world.
+* [Civilization VI](https://civilization.com/) - strategy
 
 ## Related
 
