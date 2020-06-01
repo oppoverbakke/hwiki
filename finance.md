@@ -39,6 +39,7 @@
 * [Formuebygging](https://www.formuebygging.com/) - Fondssparing og Privatøkonomi.
 * [Pengebingen](https://pengebingen.blogspot.com/) - Snusfornuftige privatøkonomiske betraktnigner.
 * [Pengeblogg](https://pengeblogg.bloggnorge.com/) - Blogg om personlig økonomi.
+* [Pengeverkstedet](https://pengeverkstedet.no/) - Sparing, privatøkonomi. Hallgeir Kvadsheim.
 
 ## Quotes
 
