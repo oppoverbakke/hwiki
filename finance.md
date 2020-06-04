@@ -24,6 +24,7 @@
 * [Mr. Money Mustache](https://www.mrmoneymustache.com/) - _\[blog\]_ Financial Freedom Through Badassisty
 * [Money Stuff](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) - _\[blog\]_ Matt Levine, Bloomberg Opinion Columnist
 * [How The Economic Machine Works](https://www.youtube.com/watch?v=PHe0bXAIuk0) - _\[video, 31 min\]_ by Ray Dalio
+* [The Swedish Investor](https://www.youtube.com/channel/UCAeAB8ABXGoGMbXuYPmiu2A) - Money & investing
 
 ## Books
 
