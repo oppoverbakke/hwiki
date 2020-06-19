@@ -26,7 +26,7 @@ description: Privacy respecting tools and services. Inspiration for better priva
 | [Signal](https://www.signal.org/) | Encrypyed direct messages. |
 | [ProtonMail](https://protonmail.com/) | Encrypted e-mail. |
 | [10 Minute Mail](https://10minutemail.net/) | E-mail address lasting for 10 min. |
-| [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?src=search) | Ad-block. |
+| [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?src=search) | Ad-block. Can also be used to remove Cookie Pop-ups, go to: Settings &gt; Filters list &gt; Annoyances, turn on "EasyList Cookie". |
 | [DuckDuckGo](https://duck.com) | Online search. |
 | [Qwant](https://www.qwant.com) | Online search. |
 | [Track THIS](https://trackthis.link/) | Open 100 tabs of pure madness to fool trackers. |
