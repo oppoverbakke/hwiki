@@ -27,11 +27,11 @@ _\(Last updated: 21.05.20\)_
 {% hint style="info" %}
 **Stats** \(2020\)
 
-Rides: 44  
-Time: 63h 7m  
-Distance this year: 844 km
+Rides: 48  
+Time: 69h 59m  
+Distance this year: 938 km
 
-_\(Last updated: 19.06.20\)_
+_\(Last updated: 28.06.20\)_
 {% endhint %}
 {% endtab %}
 
@@ -47,13 +47,14 @@ Most of my hiking trips are logged on[ Strava](https://www.strava.com/athletes/1
 
 You can also see some of the pictures I have taken from my hiking trips in [my photo portfolio](https://foto.bakke.be).
 
-\*\*\*\*🇳🇴 **Recommendations**:
+\*\*\*\*🇳🇴 **Anbefalinger**:
 
 * [UT.no](https://ut.no/) - Turforslag.
 * [Bratt](https://itunes.apple.com/no/app/bratt/id1121510874) - App som indikerer grafisk på kart hvor bratt terrenget er.
 * [Lommekjent](http://www.lommekjent.no/) - Turforslag.
 * [iSikte Norge](http://appbibliotek.no/isikte-norge/) - Utvidet virkelighet \(AR\) for å visualisere stedsnavn, f.eks. fjelltopper.
 * [Varsom Regobs](https://www.varsom.no/en/news/download-the-varsom-regobs-app/) - Logg snøskred og værforhold.
+* [Friluftskurs](https://www.dnt.no/digitale-friluftskurs-/) - fra DNT.
 {% endtab %}
 
 {% tab title="Geocaching" %}
@@ -62,9 +63,9 @@ You can also see some of the pictures I have taken from my hiking trips in [my p
 {% hint style="info" %}
 **Stats** \(all time\)
 
-Logged: 186
+Logged: 189
 
-_\(Last updated: 19.06.20\)_
+_\(Last updated: 28.06.20\)_
 {% endhint %}
 {% endtab %}
 {% endtabs %}
