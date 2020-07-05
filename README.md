@@ -1,6 +1,7 @@
 # Introduction
 
-**Welcome** to my personal public wiki. This site is filled with content I enjoy and want to organize for later.
+**Welcome** to my personal public wiki.   
+This site is filled with content I enjoy or want to save for later. Hopefully will you also get some value from the content.
 
 Norwegian content is marked with: 🇳🇴
 

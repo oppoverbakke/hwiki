@@ -9,7 +9,7 @@ description: Privacy respecting tools and services. Inspiration for better priva
 | Name and link | Description |
 | :--- | :--- |
 | [Privacy respecting](https://github.com/nikitavoloboev/privacy-respecting#readme) | Curated list of privacy respecting services and software. |
-| [Awesome-GDPR](https://github.com/bakke92/awesome-gdpr) | My overview of tools and resources for privacy professionals. |
+| [Awesome-GDPR](https://github.com/bakke92/awesome-gdpr) | Overview of tools and resources for privacy professionals. _\(Managed by me\)_ |
 | [Spread Privacy](https://spreadprivacy.com/) | Blog about privacy from DuckDuckGo. |
 | [Just Delete Me](https://backgroundchecks.org/justdeleteme/) | A directory of direct links to delete your account from web services. |
 | [My Data Done Right](https://www.mydatadoneright.eu/) | Take control: Access, remove, correct, or move your data. |

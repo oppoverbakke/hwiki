@@ -1,6 +1,8 @@
 # Photography
 
-I like cameras. Some of the pictures I have taken is available to view and buy here: [https://foto.bakke.be](https://foto.bakke.be/)
+{% hint style="info" %}
+View \(and buy\) my photos: [https://foto.bakke.be](https://foto.bakke.be/)
+{% endhint %}
 
 ## Camera equipment
 
@@ -55,7 +57,9 @@ I like cameras. Some of the pictures I have taken is available to view and buy h
       </td>
     </tr>
   </tbody>
-</table>## Accessories
+</table>
+
+## Accessories
 
 | Name | Description |
 | :--- | :--- |
@@ -74,7 +78,6 @@ I like cameras. Some of the pictures I have taken is available to view and buy h
 | :--- | :--- |
 | [Lectures on Digital Photography](https://sites.google.com/site/marclevoylectures/schedule/lecture1-21mar16)  | How cameras work, and how to take good pictures using them, by Marc Levoy. Also available on [Youtube](https://www.youtube.com/playlist?list=PL7ddpXYvFXspUN0N-gObF1GXoCA-DA-7i). |
 | [35mmc](https://www.35mmc.com/category/impressions-and-reviews/changeable-lens-rangefinders-impressions-and-reviews/) | Reviews, thoughts & experiences with 35mm compact cameras, rangefinders & lenses |
-| [43rumors](https://www.43rumors.com/) | News and rumors about MFT cameras. |
 | [Dpreview](https://www.dpreview.com/) | Digital Photography Revie |
 | [Three Blind Men and An Elephant](https://www.youtube.com/channel/UCZb8uqR_73t8DlfpVfVbiEw) | Youtube channel about cameras. \(Youtube\) |
 | [David Thorpe](https://www.youtube.com/channel/UCZ-CbEVybw98KcQTWumzBow) | David Thorpe. Mostly MFT videos. \(Youtube\) |
