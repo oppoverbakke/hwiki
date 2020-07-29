@@ -4,6 +4,7 @@
 
 * [Bogleheads \(forum\)](https://www.bogleheads.org/forum/index.php) - Investing advice inspired by John Bogle.
 * [Stock Series](https://jlcollinsnh.com/stock-series/) - Investing in stocks \(_JL Collins_\).
+* [The basics of portfolio diversification](https://twitter.com/10kdiver/status/1281968727089573889)
 
 ## Tools
 
@@ -41,6 +42,8 @@
 * [Pengebingen](https://pengebingen.blogspot.com/) - Snusfornuftige privatøkonomiske betraktnigner.
 * [Pengeblogg](https://pengeblogg.bloggnorge.com/) - Blogg om personlig økonomi.
 * [Pengeverkstedet](https://pengeverkstedet.no/) - Sparing, privatøkonomi. Hallgeir Kvadsheim.
+* [Peter Warrens finansblogg](http://www.peterwarren.no/) - Blogg fra Peter Warren.
+* [Tid er penger](https://podcasts.apple.com/no/podcast/tid-er-penger-en-podcast-med-peter-warren/id1229260798) - _\[podcast\]_ Peter Warren har over 30 års erfaring som forvalter, trader og investor.
 
 ## Quotes
 
