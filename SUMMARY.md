@@ -6,6 +6,7 @@
   * [Personvern i Norge](privacy/personvern-i-norge.md)
 * [Security](security.md)
 * [Photography](photography.md)
+* [Drone](drone.md)
 * [Leisure](leisure.md)
 * [Podcasts](podcasts.md)
 * [Productivity](productivity.md)
