@@ -31,6 +31,7 @@ description: Privacy respecting tools and services. Inspiration for better priva
 | [Qwant](https://www.qwant.com) | Online search. |
 | [Track THIS](https://trackthis.link/) | Open 100 tabs of pure madness to fool trackers. |
 | [Noiszy](https://noiszy.com/) | Make some noise for trackers. |
+| [Fawkes](https://sandlab.cs.uchicago.edu/fawkes/) | Algorithm and software tool to limit how images can be tracked by facial recognition. |
 
 ## Ideas for better privacy
 

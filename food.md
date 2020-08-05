@@ -2,6 +2,8 @@
 
 ## Resources
 
+* [FoodGawker](https://foodgawker.com/)
+
 ## Video content
 
 * [Alex](https://www.youtube.com/user/FrenchGuyCooking) - french guy cooking
