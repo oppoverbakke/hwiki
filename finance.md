@@ -14,6 +14,7 @@
 * [Personalfinance / tools](https://www.reddit.com/r/personalfinance/wiki/tools) - Spreadsheets templates and other finance tools.
 * [Firefly III](https://firefly-iii.org/) - A free and open source personal finance manager. \(Not tried\)
 * [Pocketsmith](https://www.pocketsmith.com/) - Personal finance software with cash flow forecasts. \(Not tried\)
+* [Utleiekalkulatoren](http://utleiekalkulatoren.trifektum.no/) - 🇳🇴Kalkulator for å beregne inntjening på potensielle kjøp av utleieobjekt.
 
 ## Blogs / Media
 
