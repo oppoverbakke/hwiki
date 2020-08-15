@@ -50,4 +50,5 @@ description: Software and websites I use (and maybe not known to you already).
 
 * [Ethical.net](https://ethical.net) - Ethical Alternatives & Resources.
 * [Framasoft.org](https://framasoft.org/en/) - Change the world one byte at a time.
+* [What feature did you find after years of using macOS?](https://news.ycombinator.com/item?id=24091707) \(2020\)
 
