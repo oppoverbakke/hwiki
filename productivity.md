@@ -12,6 +12,12 @@
 * [Tools for better thinking](https://untools.co/) - Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
 * [Shape Up](https://basecamp.com/shapeup/1.2-chapter-03) - by Basecamp
 
+## Office
+
+* [Taking my home work setup seriously](https://ahelwer.ca/post/2020-08-09-home-ergonomics/)
+* [Time to upgrade your monitor](https://tonsky.me/blog/monitors/)
+* [Building the Ultimate Home Office \(Again\)](https://www.troyhunt.com/building-the-ultimate-home-office-again/)
+
 ## Related
 
 *  [r/Productivity](https://www.reddit.com/r/productivity/) – Productivity subreddit.
