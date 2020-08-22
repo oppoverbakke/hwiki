@@ -20,23 +20,23 @@ _\(Last updated: 29.07.20\)_
 {% tab title="Cycling" %}
 **Gravel bike:** Merida Silex 400  
 **Mountain bike:** Diamant Stinx Extreme  
-**eMTB:** Trek Rail 7
+**eMTB**
 
 **Strava:** [Profile](https://www.strava.com/athletes/13642227)
 
 {% hint style="info" %}
 **Stats** \(2020\)
 
-Rides: 54  
-Time: 81h 52m  
-Distance this year: 1098 km
+Rides: 65  
+Time: 93h 47m  
+Distance this year: 1302 km
 
-_\(Last updated: 29.07.20\)_
+_\(Last updated: 22.08.20\)_
 {% endhint %}
 {% endtab %}
 
 {% tab title="Tennis" %}
-Tennis is fun   
+Tennis is fun  
 _\(but not played much lately\)._
 
 🎾🎾🎾🎾🎾🎾🎾🎾🎾 
@@ -63,9 +63,9 @@ You can also see some of the pictures I have taken from my hiking trips in [my p
 {% hint style="info" %}
 **Stats** \(all time\)
 
-Logged: 237
+Logged: 259
 
-_\(Last updated: 29.07.20\)_
+_\(Last updated: 22.08.20\)_
 {% endhint %}
 {% endtab %}
 {% endtabs %}
@@ -78,15 +78,16 @@ _\(Last updated: 29.07.20\)_
 * [Marco Arment](https://marco.org/) - technology.
 * [Roy Solberg](https://blog.roysolberg.com/) - technology, security.
 
-### Norske blogger🇳🇴 
+### Norske medier🇳🇴 
 
 * [Chaffeys blogg](https://paulchaffey.blogspot.com/) - samfunn, politikk.
 * [Olav Torvund](https://blogg.torvund.net/) - juss, samfunn.
-* [bekkelund.net](https://www.bekkelund.net/) - blogg om teknologi, samfunn og politikk.
+* [bekkelund.net](https://www.bekkelund.net/) - teknologi, samfunn og politikk.
 * [NRKbeta](https://nrkbeta.no/) - teknologi, media, [personvern](privacy/).
 * [Eivind Berg](https://www.eivindberg.no/) - økonomi, investering og sparing.
 * [Bekkelund](https://www.bekkelund.net/) - teknologi, samfunn.
 * [Eirik Newth](http://newth.net/) - verdensrommet, [Mars](https://www.newth.net/mars/), personlig blogg.
+* [Kode24](https://www.kode24.no/)  - teknologi, programmering.
 
 ### Newsletters
 

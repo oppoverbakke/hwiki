@@ -9,7 +9,7 @@ View \(and buy\) my photos: [https://foto.bakke.be](https://foto.bakke.be/)
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Camera system</th>
+      <th style="text-align:left">Camera</th>
       <th style="text-align:left">Lenses / <em>Comments</em>
       </th>
     </tr>
