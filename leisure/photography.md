@@ -4,7 +4,7 @@
 View \(and buy\) my photos: [https://foto.bakke.be](https://foto.bakke.be/)
 {% endhint %}
 
-## Camera equipment
+## Gear
 
 <table>
   <thead>
@@ -84,8 +84,15 @@ View \(and buy\) my photos: [https://foto.bakke.be](https://foto.bakke.be/)
 | [Gerand Undone](https://www.youtube.com/channel/UC09qASY4ixFS-KXIH6Nw0rg) | Quick and nerdy tech videos. \(Youtube\) |
 | [The Art of Photography](https://www.youtube.com/channel/UC7T8roVtC_3afWKTOGtLlBA) | Ted forbes. \(Youtube\) |
 
+## Stats
+
+{% hint style="info" %}
+All photographs _\(in Lightroom catalog\):_ 54970
+
+_\(Last updated: 29.07.20\)_
+{% endhint %}
+
 ## Related
 
-* [Hobbies](leisure.md#hobbies)
 * [Storage for Photographers](https://paulstamatiou.com/storage-for-photographers-part-2/)
 
