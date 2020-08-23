@@ -53,8 +53,7 @@ View \(and buy\) my photos: [https://foto.bakke.be](https://foto.bakke.be/)
     <tr>
       <td style="text-align:left"><a href="https://www.dji.com/no/mavic-mini">DJI Mavic Mini</a>
       </td>
-      <td style="text-align:left"><em>Drone</em>
-      </td>
+      <td style="text-align:left">&lt;em&gt;&lt;/em&gt;<a href="drone.md"><em>Drone</em></a>&lt;em&gt;&lt;/em&gt;</td>
     </tr>
   </tbody>
 </table>
