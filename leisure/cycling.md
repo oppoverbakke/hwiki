@@ -12,6 +12,9 @@
 * [BikeCad](https://www.bikecad.ca/) - Bicycle design software.
 * [Sheldon Brown](https://www.sheldonbrown.com/articles.html) - 
 * [Bicycle bearing greases – explained](https://bike.bikegremlin.com/1985/bicycle-bearing-grease-explained/#7)
+
+## Youtube channels
+
 * [Berm Peak](https://www.youtube.com/channel/UCu8YylsPiu9XfaQC74Hr_Gw) - 
 * [Berm Peak Express](https://www.youtube.com/channel/UCOpP5PqrzODWpFU961acUbg/videos) - 
 
@@ -24,11 +27,11 @@
 ## Stats \(2020\):
 
 {% hint style="info" %}
-_Rides_: 65  
-_Time_: 93h 47m  
-_Distance this year_: 1302 km
+_Rides_: 70  
+_Time_: 99h 26m  
+_Distance this year_: 1400 km
 
-_\(Last updated: 22.08.2020\)_
+_\(Last updated: 28.08.2020\)_
 {% endhint %}
 
 \*\*\*\*
