@@ -6,51 +6,14 @@ description: Privacy respecting tools and services. Inspiration for better priva
 
 ## Resources
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Name and link</th>
-      <th style="text-align:left">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left"><a href="https://github.com/nikitavoloboev/privacy-respecting#readme">Privacy respecting</a>
-      </td>
-      <td style="text-align:left">Curated list of privacy respecting services and software.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://github.com/bakke92/awesome-gdpr">Awesome-GDPR</a>
-      </td>
-      <td style="text-align:left">
-        <p>Overview of tools and resources for privacy professionals.</p>
-        <p><em>(Maintained by me)</em>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://spreadprivacy.com/">Spread Privacy</a>
-      </td>
-      <td style="text-align:left">Blog about privacy from DuckDuckGo.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://backgroundchecks.org/justdeleteme/">Just Delete Me</a>
-      </td>
-      <td style="text-align:left">A directory of direct links to delete your account from web services.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://www.mydatadoneright.eu/">My Data Done Right</a>
-      </td>
-      <td style="text-align:left">Take control: Access, remove, correct, or move your data.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://www.privacytools.io/">PrivacyTools.io</a>
-      </td>
-      <td style="text-align:left">Services, tools and knowledge to protect your privacy against global mass
-        surveillance.</td>
-    </tr>
-  </tbody>
-</table>
+| Name and link | Description |
+| :--- | :--- |
+| [Privacy respecting](https://github.com/nikitavoloboev/privacy-respecting#readme) | Curated list of privacy respecting services and software. |
+| [Awesome-GDPR](https://github.com/bakke92/awesome-gdpr) | Overview of tools and resources for privacy professionals. _\(Managed by me\)_ |
+| [Spread Privacy](https://spreadprivacy.com/) | Blog about privacy from DuckDuckGo. |
+| [Just Delete Me](https://backgroundchecks.org/justdeleteme/) | A directory of direct links to delete your account from web services. |
+| [My Data Done Right](https://www.mydatadoneright.eu/) | Take control: Access, remove, correct, or move your data. |
+| [PrivacyTools.io](https://www.privacytools.io/) | Services, tools and knowledge to protect your privacy against global mass surveillance. |
 
 ## _Software_
 
