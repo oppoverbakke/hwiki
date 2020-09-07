@@ -49,7 +49,7 @@
 ## Quotes
 
 > Don't try to time the market.
->
+
 > The highest dividend money pays is providing the ability to control your time. [\[Source\]](https://www.collaborativefund.com/blog/financial-advice-for-my-new-daughter/)
 
 > Any money you spend that does not make you happier is wasted.\*  
