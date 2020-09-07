@@ -52,6 +52,9 @@
 >
 > The highest dividend money pays is providing the ability to control your time. [\[Source\]](https://www.collaborativefund.com/blog/financial-advice-for-my-new-daughter/)
 
+> Any money you spend that does not make you happier is wasted.\*  
+> \(\* Research shows this ends up being most of our money\).[ \[Source @ 9:39\]](https://www.youtube.com/watch?v=8-Li_sFNc4Q)
+
 ## Related
 
 * [r/personalfinance](https://www.reddit.com/r/personalfinance/) - Community for budgeting, saving, getting out of debt, credit, investing, and retirement planning.
