@@ -19,7 +19,7 @@ description: Software and websites I use (and maybe not known to you already).
 
 | Name | Description |
 | :--- | :--- |
-| [Pocket Casts](https://www.pocketcasts.com/) | Play and discover [podcasts](podcasts.md). |
+| [Pocket Casts](https://www.pocketcasts.com/) | Play and discover [podcasts](../podcasts.md). |
 | [Firefox](https://firefox.com/) and [Firefox Focus](https://www.mozilla.org/en-US/firefox/mobile/) | Internet browsers. |
 | [Geocaching](https://www.geocaching.com/play/search) | Outdoor recreational activity using GPS. |
 | [Hjelp 113](https://norskluftambulanse.no/hjelp113/) | 🇧🇻 Del din lokasjon automatisk med nødetatene. |

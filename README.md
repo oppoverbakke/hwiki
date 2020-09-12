@@ -5,7 +5,7 @@ This site is filled with content I enjoy or want to save for later.
 Hopefully will you also get some value from the content.
 
 Norwegian content is marked with: 🇳🇴  
-Paid content are in general marked with:💰
+Paid content are - _when I remember_ - marked with:💰
 
 ## Found something wrong or outdated
 

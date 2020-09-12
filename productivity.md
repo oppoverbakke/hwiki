@@ -4,8 +4,6 @@
 >
 > Source: [https://medium.com/personal-growth/the-problem-with-hack-culture-b0ddf43784e9](https://medium.com/personal-growth/the-problem-with-hack-culture-b0ddf43784e9)
 
-
-
 * [No Hello](http://www.nohello.com/) - Don't start a chat with only "Hello".
 * [Composing better emails](https://iridakos.com/how-to/2019/06/26/composing-better-emails.html) - Good tips for writing and structuring emails.
 * [100 Blocks a Day](https://waitbutwhy.com/2016/10/100-blocks-day.html):_`"Most people sleep about seven or eight hours a night. That leaves 16 or 17 hours awake each day. Or about 1,000 minutes. Let’s think about those 1,000 minutes as 100 10-minute blocks."`_
