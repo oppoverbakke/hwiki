@@ -10,8 +10,6 @@
 
 * [Global Rich List](http://www.globalrichlist.com/) - See how you rank globally.
 * [Overview of many calculators](https://jlcollinsnh.com/calculators/) - by JL Collins.
-* [Vertex42](https://www.vertex42.com/) - The guide to excel in everything.
-* [Personalfinance / tools](https://www.reddit.com/r/personalfinance/wiki/tools) - Spreadsheets templates and other finance tools.
 * [Firefly III](https://firefly-iii.org/) - A free and open source personal finance manager. \(Not tried\)
 * [Pocketsmith](https://www.pocketsmith.com/) - Personal finance software with cash flow forecasts. \(Not tried\)
 * [Utleiekalkulatoren](http://utleiekalkulatoren.trifektum.no/) - 🇳🇴Kalkulator for å beregne inntjening på potensielle kjøp av utleieobjekt.
@@ -36,6 +34,8 @@
 
 * [Function: Sparkline](https://support.google.com/docs/answer/3093289?hl=en&ref_topic=3105411) - Creates a miniature chart contained within a single cell.
 * [Function: GOOGLEFINANCE](https://support.google.com/docs/answer/3093281?hl=en) - Fetches current or historical securities information from Google Finance.
+* [Vertex42](https://www.vertex42.com/) - The guide to excel in everything.
+* [Personalfinance / tools](https://www.reddit.com/r/personalfinance/wiki/tools) - Spreadsheets templates and other finance tools.
 
 ## Norwegian content 🇳🇴 
 
