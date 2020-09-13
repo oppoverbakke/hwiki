@@ -32,6 +32,11 @@
 
 * [The Intelligent Investor](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor) - __by Benjamin Graham
 
+## Excel \(or Google Sheets\)
+
+* [Function: Sparkline](https://support.google.com/docs/answer/3093289?hl=en&ref_topic=3105411) - Creates a miniature chart contained within a single cell.
+* [Function: GOOGLEFINANCE](https://support.google.com/docs/answer/3093281?hl=en) - Fetches current or historical securities information from Google Finance.
+
 ## Norwegian content 🇳🇴 
 
 * [Eivind Berg](https://www.eivindberg.no/) - økonomi, investering og sparing. 
