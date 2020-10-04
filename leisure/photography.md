@@ -1,6 +1,6 @@
 # Photography
 
-{% hint style="info" %}
+{% hint style="warning" %}
 View \(and buy\) my photos: [https://foto.bakke.be](https://foto.bakke.be/)
 {% endhint %}
 

@@ -1,4 +1,4 @@
-# Finance
+# Economy
 
 ## Investing
 

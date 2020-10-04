@@ -13,6 +13,6 @@
 * [Productivity](productivity.md)
 * [Technology](technology/README.md)
   * [Software](technology/software.md)
-* [Finance](finance.md)
+* [Economy](finance.md)
 * [Food](food.md)
 

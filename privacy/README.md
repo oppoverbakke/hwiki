@@ -49,6 +49,11 @@ description: Privacy respecting tools and services. Inspiration for better priva
       <td style="text-align:left">Services, tools and knowledge to protect your privacy against global mass
         surveillance.</td>
     </tr>
+    <tr>
+      <td style="text-align:left"><a href="https://www.socialcooling.com/">Social cooling</a>
+      </td>
+      <td style="text-align:left">If you feel you are being watched, you change your behavior.</td>
+    </tr>
   </tbody>
 </table>
 
