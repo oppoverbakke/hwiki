@@ -2,9 +2,8 @@
 
 ## Gear
 
-**Gravel bike:** Merida Silex 400  
-**eMTB:** Trek Rail 7  
-**Hardtail MTB:** Diamant
+**Gravel bike:** Merida  
+**eMTB:** Trek
 
 ## Resources
 
@@ -31,11 +30,11 @@
 ## Stats \(2020\):
 
 {% hint style="info" %}
-_Rides_: 86  
-_Time_: 122h 34m  
-_Distance this year_: 1739 km
+_Rides_: 93  
+_Time_: 130h 11m  
+_Distance this year_: 1843 km
 
-_\(Last updated: 10.10.2020\)_
+_\(Last updated: 23.10.2020\)_
 {% endhint %}
 
 \*\*\*\*
