@@ -1,10 +1,5 @@
 # Cycling
 
-## Gear
-
-**Gravel bike:** Merida  
-**eMTB:** Trek
-
 ## Resources
 
 * [99spokes](https://99spokes.com/) - Search and compare bikes.
