@@ -10,7 +10,7 @@ Logged: 279
 _\(Last updated: 23.10.2020\)_
 {% endhint %}
 
-## Places
+## World
 
 {% hint style="success" %}
 [Places I have visited](https://goo.gl/maps/92spBC7a76opmYhGA)

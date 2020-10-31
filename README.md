@@ -1,11 +1,11 @@
 # Introduction
 
 **Welcome** to my personal public wiki.   
-This site is filled with content I enjoy or want to save for later.   
+This site is filled with content I have created, enjoy or want to save for later.   
 Hopefully will you also get some value from the content.
 
-Norwegian content is marked with: 🇳🇴  
-Paid content are - _when I remember_ - marked with:💰
+Norwegian content are marked with: 🇳🇴  
+Paid content are \(_when I remember\)_ marked with:💰
 
 ## Found something wrong or outdated
 

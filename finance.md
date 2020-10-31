@@ -37,11 +37,9 @@
 * [Vertex42](https://www.vertex42.com/) - The guide to excel in everything.
 * [Personalfinance / tools](https://www.reddit.com/r/personalfinance/wiki/tools) - Spreadsheets templates and other finance tools.
 
-## Norwegian content 🇳🇴 
+## Norske blogger 🇳🇴 
 
 * [Eivind Berg](https://www.eivindberg.no/) - økonomi, investering og sparing. 
-* [Kryptografen](https://kryptografen.no/podcast/) - _\[podcast\]_ blockchain, cryptocurreny.
-* [Pengesnakk](https://www.pengesnakk.no)- _\[blogg/podcast\]_ økonomitips, sparing.
 * [Nordnetbloggen](https://blogg.nordnet.no/) - En blogg om sparing, investering og finans.
 * [Finansnerden](https://jlcollinsnh.com/calculators/) - Jakten på økonomisk frihet.
 * [Formuebygging](https://www.formuebygging.com/) - Fondssparing og Privatøkonomi.
@@ -49,7 +47,17 @@
 * [Pengeblogg](https://pengeblogg.bloggnorge.com/) - Blogg om personlig økonomi.
 * [Pengeverkstedet](https://pengeverkstedet.no/) - Sparing, privatøkonomi. Hallgeir Kvadsheim.
 * [Peter Warrens finansblogg](http://www.peterwarren.no/) - Blogg fra Peter Warren.
-* [Tid er penger](https://podcasts.apple.com/no/podcast/tid-er-penger-en-podcast-med-peter-warren/id1229260798) - _\[podcast\]_ Peter Warren har over 30 års erfaring som forvalter, trader og investor.
+
+## Norske podcaster 🇳🇴 
+
+* [Tid er penger](https://podcasts.apple.com/no/podcast/tid-er-penger-en-podcast-med-peter-warren/id1229260798) - __Peter Warren. Forvalter, trader og investor.
+* [Kryptografen](https://kryptografen.no/podcast/) - blockchain, cryptocurreny.
+* [Pengesnakk](https://www.pengesnakk.no)- økonomitips, sparing.
+* Pengepodden
+* BYNN
+* Dine Penger - Pengerådet
+* E24-podden
+* Finanslunsj med Fåne og Staavi
 
 ## Quotes
 

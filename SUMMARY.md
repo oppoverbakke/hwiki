@@ -11,8 +11,6 @@
   * [Exploring](leisure/travel.md)
 * [Podcasts](podcasts.md)
 * [Productivity](productivity.md)
-* [Technology](technology/README.md)
-  * [Software](technology/software.md)
 * [Economy](finance.md)
 * [Food](food.md)
 
