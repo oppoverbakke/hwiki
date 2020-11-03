@@ -68,6 +68,8 @@
 > Any money you spend that does not make you happier is wasted.\*  
 > \(\* Research shows this ends up being most of our money\).[ \[Source @ 9:39\]](https://www.youtube.com/watch?v=8-Li_sFNc4Q)
 
+> More fiction has been written in Microsoft Excel than in Microsoft Word. [\[Source\]](https://ofdollarsanddata.com/what-does-the-stock-market-do-around-election-day/)
+
 ## Related
 
 * [r/personalfinance](https://www.reddit.com/r/personalfinance/) - Community for budgeting, saving, getting out of debt, credit, investing, and retirement planning.
