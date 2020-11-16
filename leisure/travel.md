@@ -5,12 +5,12 @@
 {% hint style="info" %}
 **Stats \(all time\):**
 
-Logged: 279
+Logged: 287
 
-_\(Last updated: 23.10.2020\)_
+_\(Last updated: 16.11.2020\)_
 {% endhint %}
 
-## Places
+## World
 
 {% hint style="success" %}
 [Places I have visited](https://goo.gl/maps/92spBC7a76opmYhGA)
@@ -42,7 +42,7 @@ _Countries_
 * [iSikte Norge](http://appbibliotek.no/isikte-norge/) - Utvidet virkelighet \(AR\) for å visualisere stedsnavn, f.eks. fjelltopper.
 * [Varsom Regobs](https://www.varsom.no/en/news/download-the-varsom-regobs-app/) - Logg snøskred og værforhold.
 * [Friluftskurs](https://www.dnt.no/digitale-friluftskurs-/) - fra DNT.
-* Trailguide - terrengsykling
+* [Trailguide](https://trailguide.net/) - kart for terrengsykling
 {% endtab %}
 
 {% tab title="International" %}

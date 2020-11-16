@@ -47,17 +47,18 @@
 * [Pengeblogg](https://pengeblogg.bloggnorge.com/) - Blogg om personlig økonomi.
 * [Pengeverkstedet](https://pengeverkstedet.no/) - Sparing, privatøkonomi. Hallgeir Kvadsheim.
 * [Peter Warrens finansblogg](http://www.peterwarren.no/) - Blogg fra Peter Warren.
+* [Jan Ludvig Andreassen](https://jansblogg.eika.no) - Blogg fra Jan / Eika
 
 ## Norske podcaster 🇳🇴 
 
 * [Tid er penger](https://podcasts.apple.com/no/podcast/tid-er-penger-en-podcast-med-peter-warren/id1229260798) - __Peter Warren. Forvalter, trader og investor.
 * [Kryptografen](https://kryptografen.no/podcast/) - blockchain, cryptocurreny.
 * [Pengesnakk](https://www.pengesnakk.no)- økonomitips, sparing.
-* Pengepodden
-* BYNN
-* Dine Penger - Pengerådet
-* E24-podden
-* Finanslunsj med Fåne og Staavi
+* [Pengepodden](https://www.nordnet.no/blogg/pengepodden/) - Podcast fra Nordnet.
+* [BYNN](https://bynorthernnorway.com/category/podcast/) - start-ups, companies, people, societies and culture.
+* [Dine Penger, Pengerådet ](https://www.dinepenger.no/pengeradet)- konkrete tips for å få romsligere økonomi.
+* [E24-podden](https://e24.no/podcast/e24-podden/) - aktuelle økonomiske saker.
+* [Finanslunsj med Fåne og Staavi](https://www.finansnorge.no/aktuelt/nyheter/finanslunsj/) - fra Finans Norge.
 
 ## Quotes
 
