@@ -17,15 +17,13 @@
 **Topp norske podkaster:**
 
 * [Dialogisk](https://www.modernemedia.no/dialogisk) - tanker
-* [Forklart](https://www.aftenposten.no/emne/Forklart) - nyheter, samfunn
+* [Forklart](https://www.aftenposten.no/emne/Forklart) - nyheter, samfunn, aktuelt
 * [Aftenpodden](https://www.aftenposten.no/podkast#/aftenpodden) - nyheter, samfunn
-* [Stormkast med Valebrokk & Stordalen](https://podtail.com/no/podcast/stormkast-med-valebrokk-stordalen/) - samfunn, intervju
 * [Gievær og gjengen - VG](https://www.vg.no/podcast/giaever-og-joffen/) - nyheter, samfunn
 * [Teknologimagasinet Aftenposten](https://www.aftenposten.no/tag/Teknologimagasinet) - teknologi
 * [NRK — P3 Dokumentar](https://p3.no/dokumentar/) - dokumentar
 * [E24-podden](https://e24.no/podcast/e24-podden/) - samfunn, økonomi
 * [Kvinneguidens venner](https://podtail.com/no/podcast/kvinneguidens-venner/) - underholdning
-* [Må på behandling - Med Morten Ramm](https://podtail.com/no/podcast/ma-pa-behandling-med-morten-ramm/) - underholdning
 * [Ukentlig — med BMI ](https://podcasts.apple.com/us/podcast/ukentlig-med-bmi/id1079815535)-underholdning
 * [Ida med hjertet i hånden](https://podtail.com/no/podcast/ida-med-hjertet-i-handen/) - intervju, underholdning
 * [Psykologlunsj](https://podtail.com/no/podcast/psykologlunsj/) - psykologi, vitenskap
@@ -43,11 +41,11 @@
 ## Stats
 
 {% hint style="info" %}
-* 62 podcasts currently subscribed to.
+* 64 podcasts currently subscribed to.
 * Listening since 21.02.2017:
-  * 127 days listened.
-  * 81 days saved _\(using variable speed\)_.
+  * 129 days listened.
+  * 82 days saved _\(using variable speed\)_.
 
-_\(Last updated  31.10.20\)_
+_\(Last updated  29.11.20\)_
 {% endhint %}
 
