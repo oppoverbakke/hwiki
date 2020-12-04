@@ -11,7 +11,8 @@ View \(and buy\) my photos: [https://foto.bakke.be](https://foto.bakke.be/)
 ## Resources
 
 * [UAV Forecast](https://www.uavforecast.com/) - also available as app for [iOS](https://apps.apple.com/us/app/uav-forecast/id1050023752) and [Android](https://play.google.com/store/apps/details?id=com.uavforecast&hl=en_US)
-* 🇳🇴 [Safetofly](https://www.safetofly.no/) - kart for dronepiloter i Norge. [Mobiltilpasset versjon her](https://www.safetofly.no/mobile).
+* [Safetofly](https://www.safetofly.no/) - kart for dronepiloter i Norge. [Mobiltilpasset versjon her](https://www.safetofly.no/mobile).🇳🇴
+* [Luftfartstilsynet flydrone.no](https://flydrone.no/) - registrering, nettkurs, eksamen🇳🇴
 
 ## Related
 
@@ -20,11 +21,11 @@ View \(and buy\) my photos: [https://foto.bakke.be](https://foto.bakke.be/)
 ## Stats
 
 {% hint style="info" %}
-Flights: 72  
-Distance: 33,4 km  
-Hours: 5.93
+Flights: 77  
+Distance: 35,7 km  
+Hours: 6.45
 
-_\(Last updated: 16.11.2020\)_
+_\(Last updated: 04.12.2020\)_
 {% endhint %}
 
   
