@@ -36,6 +36,7 @@
 * [Function: GOOGLEFINANCE](https://support.google.com/docs/answer/3093281?hl=en) - Fetches current or historical securities information from Google Finance.
 * [Vertex42](https://www.vertex42.com/) - The guide to excel in everything.
 * [Personalfinance / tools](https://www.reddit.com/r/personalfinance/wiki/tools) - Spreadsheets templates and other finance tools.
+* [The Office Lab](https://www.youtube.com/channel/UCKsfJnvC-HCoEQEEIKZIzQQ) - Youtube channel
 
 ## Norske blogger 🇳🇴 
 
@@ -59,6 +60,30 @@
 * [Dine Penger, Pengerådet ](https://www.dinepenger.no/pengeradet)- konkrete tips for å få romsligere økonomi.
 * [E24-podden](https://e24.no/podcast/e24-podden/) - aktuelle økonomiske saker.
 * [Finanslunsj med Fåne og Staavi](https://www.finansnorge.no/aktuelt/nyheter/finanslunsj/) - fra Finans Norge.
+
+## FinTwit
+
+Finansprofiler på Twitter.   
+[\#FinTwit](https://twitter.com/hashtag/fintwit?src=hashtag_click)
+
+#### Noen anbefalte:
+
+* [@eivindab](https://twitter.com/eivindab) - privatøkonomi
+* [@EiendomsmeglerO](https://twitter.com/EiendomsmeglerO) - eiendom
+* [@aksjerogfond](https://twitter.com/aksjerogfond) - aksjer og fond
+* [@LocationLocati5](https://twitter.com/LocationLocati5) - eiendom
+* [@ArneUlland](https://twitter.com/ArneUlland) - aksjer
+* [@Th\_\_Nielsen](https://twitter.com/Th__Nielsen) - aksjer
+* [@Finansnerden](https://twitter.com/Finansnerden) - økonomisk frihet
+* [@JanOftedal3](https://twitter.com/JanOftedal3) - eiendom
+* [@palrestad](https://twitter.com/palrestad) - eiendom
+* [@vekstportef](https://twitter.com/vekstportef) - aksjer
+* [@Route2FI](https://twitter.com/Route2FI) - økonomisk frihet
+* [@halkva](https://twitter.com/halkva) - privatøkonomi
+
+## Eiendom
+
+* Forskning \[2020\]: [Slik byr man best på bolig](https://www.samfunnsokonomisk-analyse.no/kronikker/2020/8/17/ny-forskning-knuser-myter-om-budrunder-slik-byr-man-best-p-bolig)
 
 ## Quotes
 
