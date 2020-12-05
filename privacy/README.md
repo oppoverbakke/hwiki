@@ -54,11 +54,6 @@ description: Privacy respecting tools and services. Inspiration for better priva
       </td>
       <td style="text-align:left">If you feel you are being watched, you change your behavior.</td>
     </tr>
-    <tr>
-      <td style="text-align:left"><a href="https://teddit.net/">Teddit</a>
-      </td>
-      <td style="text-align:left">Reddit, but privacy respecting.</td>
-    </tr>
   </tbody>
 </table>
 

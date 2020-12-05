@@ -42,7 +42,7 @@
 
 * [Eivind Berg](https://www.eivindberg.no/) - økonomi, investering og sparing. 
 * [Nordnetbloggen](https://blogg.nordnet.no/) - En blogg om sparing, investering og finans.
-* [Finansnerden](https://jlcollinsnh.com/calculators/) - Jakten på økonomisk frihet.
+* [Finansnerden](https://www.finansnerden.no/) - Jakten på økonomisk frihet.
 * [Formuebygging](https://www.formuebygging.com/) - Fondssparing og Privatøkonomi.
 * [Pengebingen](https://pengebingen.blogspot.com/) - Snusfornuftige privatøkonomiske betraktnigner.
 * [Pengeblogg](https://pengeblogg.bloggnorge.com/) - Blogg om personlig økonomi.
