@@ -78,7 +78,6 @@ Finansprofiler på Twitter.
 * [@Finansnerden](https://twitter.com/Finansnerden) - økonomisk frihet
 * [@JanOftedal3](https://twitter.com/JanOftedal3) - eiendom
 * [@palrestad](https://twitter.com/palrestad) - eiendom
-* [@vekstportef](https://twitter.com/vekstportef) - aksjer
 * [@Route2FI](https://twitter.com/Route2FI) - økonomisk frihet
 * [@halkva](https://twitter.com/halkva) - privatøkonomi
 
