@@ -5,6 +5,7 @@
 * [Bogleheads \(forum\)](https://www.bogleheads.org/forum/index.php) - Investing advice inspired by John Bogle.
 * [Stock Series](https://jlcollinsnh.com/stock-series/) - Investing in stocks \(_JL Collins_\).
 * [The basics of portfolio diversification](https://twitter.com/10kdiver/status/1281968727089573889)
+* [Fear & Greed Index](https://money.cnn.com/data/fear-and-greed/) - What emotion is driving the market now?
 
 ## Tools
 
