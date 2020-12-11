@@ -94,4 +94,6 @@ _\(Last updated: 29.11.20\)_
 ## Related
 
 * [Storage for Photographers](https://paulstamatiou.com/storage-for-photographers-part-2/)
+* [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/) - How they work, but also how adjusting a few tunable parameters can produce fairly different results.
+* [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/) - Ultimately, it is the only thing we see.
 
