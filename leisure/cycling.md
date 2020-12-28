@@ -25,11 +25,11 @@
 ## Stats \(2020\):
 
 {% hint style="info" %}
-_Rides_: 96  
-_Time_: 134h 38m  
-_Distance this year_: 1914 km
+_Rides_: 102  
+_Time_: 141h 8m  
+_Distance this year_: 2017 km
 
-_\(Last updated: 29.11.2020\)_
+_\(Last updated: 28.12.2020\)_
 {% endhint %}
 
 \*\*\*\*

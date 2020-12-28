@@ -13,4 +13,5 @@
 * [Productivity](productivity.md)
 * [Economy](finance.md)
 * [Food](food.md)
+* [Random](random.md)
 

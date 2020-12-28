@@ -55,7 +55,6 @@
 ## Norske podcaster 🇳🇴 
 
 * [Tid er penger](https://podcasts.apple.com/no/podcast/tid-er-penger-en-podcast-med-peter-warren/id1229260798) - __Peter Warren. Forvalter, trader og investor.
-* [Kryptografen](https://kryptografen.no/podcast/) - blockchain, cryptocurreny.
 * [Pengesnakk](https://www.pengesnakk.no)- økonomitips, sparing.
 * [Pengepodden](https://www.nordnet.no/blogg/pengepodden/) - Podcast fra Nordnet.
 * [BYNN](https://bynorthernnorway.com/category/podcast/) - start-ups, companies, people, societies and culture.
@@ -84,7 +83,7 @@ Finansprofiler på Twitter.
 
 ## Eiendom
 
-* Forskning \[2020\]: [Slik byr man best på bolig](https://www.samfunnsokonomisk-analyse.no/kronikker/2020/8/17/ny-forskning-knuser-myter-om-budrunder-slik-byr-man-best-p-bolig)
+* [Slik byr man best på bolig](https://www.samfunnsokonomisk-analyse.no/kronikker/2020/8/17/ny-forskning-knuser-myter-om-budrunder-slik-byr-man-best-p-bolig) - forskning \[2020\]
 
 ## Quotes
 

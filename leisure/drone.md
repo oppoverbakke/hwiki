@@ -22,11 +22,11 @@ View \(and buy\) my photos: [https://foto.bakke.be](https://foto.bakke.be/)
 ## Stats
 
 {% hint style="info" %}
-Flights: 77  
-Distance: 35,7 km  
-Hours: 6.45
+Flights: 82  
+Distance: 37,6 km  
+Hours: 6.75
 
-_\(Last updated: 04.12.2020\)_
+_\(Last updated: 28.12.2020\)_
 {% endhint %}
 
   
