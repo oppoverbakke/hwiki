@@ -1,9 +1,5 @@
 # Drone
 
-{% hint style="warning" %}
-View \(and buy\) my photos: [https://foto.bakke.be](https://foto.bakke.be/)
-{% endhint %}
-
 ## Gear
 
 * DJI Maciv Mini
