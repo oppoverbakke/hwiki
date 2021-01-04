@@ -50,6 +50,8 @@
 * [Pengeblogg](https://pengeblogg.bloggnorge.com/) - Blogg om personlig økonomi.
 * [Pengeverkstedet](https://pengeverkstedet.no/) - Sparing, privatøkonomi. Hallgeir Kvadsheim.
 * [Peter Warrens finansblogg](http://www.peterwarren.no/) - Blogg fra Peter Warren.
+  * [Tid er penger](https://www.tiderpenger.no/) - nettside for podcasten, samt blogg fra Peter Warren og annet innhold.
+    * Se herunder "[Finansopedia](https://www.tiderpenger.no/finansopedia/)".
 * [Jan Ludvig Andreassen](https://jansblogg.eika.no) - Blogg fra Jan / Eika
 
 ## Norske podcaster 🇳🇴 
@@ -95,6 +97,8 @@ Finansprofiler på Twitter.
 > \(\* Research shows this ends up being most of our money\).[ \[Source @ 9:39\]](https://www.youtube.com/watch?v=8-Li_sFNc4Q)
 
 > More fiction has been written in Microsoft Excel than in Microsoft Word. [\[Source\]](https://ofdollarsanddata.com/what-does-the-stock-market-do-around-election-day/)
+
+> Once-in-a-century events happen all the time because lots of unrelated things could go wrong. ****If, in any given year, there’s a 1% chance of a new disastrous pandemic, a 1% chance of a crippling depression, a 1% chance of a catastrophic flood, a 1% chance of political collapse, and on and on, then the odds that _something_ bad will happen next year – or any year – are … _pretty good_. It’s why Arnold Toynbee says history is “just one damn thing after another.” [\[Source\]](https://www.collaborativefund.com/blog/sure/)
 
 ## Related
 
