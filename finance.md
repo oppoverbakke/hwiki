@@ -32,7 +32,7 @@
 
 * [The Intelligent Investor](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor) - __by Benjamin Graham
 
-## Excel \(or Google Sheets\)
+## Excel / Sheets
 
 * [Function: Sparkline](https://support.google.com/docs/answer/3093289?hl=en&ref_topic=3105411) - Creates a miniature chart contained within a single cell.
 * [Function: GOOGLEFINANCE](https://support.google.com/docs/answer/3093281?hl=en) - Fetches current or historical securities information from Google Finance.
@@ -54,7 +54,7 @@
     * Se herunder "[Finansopedia](https://www.tiderpenger.no/finansopedia/)".
 * [Jan Ludvig Andreassen](https://jansblogg.eika.no) - Blogg fra Jan / Eika
 
-## Norske podcaster 🇳🇴 
+## Norske økonomipodkaster 🇳🇴 
 
 * [Tid er penger](https://podcasts.apple.com/no/podcast/tid-er-penger-en-podcast-med-peter-warren/id1229260798) - __Peter Warren. Forvalter, trader og investor.
 * [Pengesnakk](https://www.pengesnakk.no)- økonomitips, sparing.
@@ -64,7 +64,7 @@
 * [E24-podden](https://e24.no/podcast/e24-podden/) - aktuelle økonomiske saker.
 * [Finanslunsj med Fåne og Staavi](https://www.finansnorge.no/aktuelt/nyheter/finanslunsj/) - fra Finans Norge.
 
-## FinTwit
+## FinTwit - \(Twitter\)
 
 Finansprofiler på Twitter.   
 [\#FinTwit](https://twitter.com/hashtag/fintwit?src=hashtag_click)
