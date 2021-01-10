@@ -17,6 +17,7 @@
 * [Taking my home work setup seriously](https://ahelwer.ca/post/2020-08-09-home-ergonomics/)
 * [Time to upgrade your monitor](https://tonsky.me/blog/monitors/)
 * [Building the Ultimate Home Office \(Again\)](https://www.troyhunt.com/building-the-ultimate-home-office-again/)
+* [Seeking the Productive Life: Some Details of My Personal Infrastructure](https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/) - Stephen Wolfram
 
 ## Life
 
