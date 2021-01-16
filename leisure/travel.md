@@ -5,9 +5,9 @@
 {% hint style="info" %}
 **Stats \(all time\):**
 
-Logged: 321
+Logged: 323
 
-_\(Last updated: 02.01.2021\)_
+_\(Last updated: 16.01.2021\)_
 {% endhint %}
 
 ## World

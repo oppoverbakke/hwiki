@@ -23,6 +23,7 @@
 ## Life
 
 * [Good sleep, good learning, good life](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life)
+* [The life calendar](https://waitbutwhy.com/2014/05/life-weeks.html)
 
 ## Related
 
