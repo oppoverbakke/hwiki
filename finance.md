@@ -28,6 +28,7 @@
 * [Money Stuff](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) - _\[blog\]_ Matt Levine, Bloomberg Opinion Columnist
 * [How The Economic Machine Works](https://www.youtube.com/watch?v=PHe0bXAIuk0) - _\[video, 31 min\]_ by Ray Dalio
 * [The Swedish Investor](https://www.youtube.com/channel/UCAeAB8ABXGoGMbXuYPmiu2A) - _\[YouTube\]_ Money & investing
+* [Bloomberg Wealth](https://www.bloomberg.com/wealth) - Your guide to a life well spent.
 
 ## Books
 
@@ -54,6 +55,8 @@
   * [Tid er penger](https://www.tiderpenger.no/) - nettside for podcasten, samt blogg fra Peter Warren og annet innhold.
     * Se herunder "[Finansopedia](https://www.tiderpenger.no/finansopedia/)".
 * [Jan Ludvig Andreassen](https://jansblogg.eika.no) - Blogg fra Jan / Eika
+* [Bankplassen - Norges Bank](https://bankplassen.norges-bank.no) - fagblogg av ansatte i Norges Bank
+  * Foredrag: [Hvordan virker renten?](https://www.norges-bank.no/aktuelt/nyheter-og-hendelser/Foredrag-og-taler/2018/2018-09-25-cme/)
 
 ## Norske økonomipodkaster 🇳🇴 
 
@@ -65,7 +68,7 @@
 * [E24-podden](https://e24.no/podcast/e24-podden/) - aktuelle økonomiske saker.
 * [Finanslunsj med Fåne og Staavi](https://www.finansnorge.no/aktuelt/nyheter/finanslunsj/) - fra Finans Norge.
 
-## FinTwit - \(Twitter\)
+## FinTwit - \(Twitter\) 🇳🇴 
 
 Finansprofiler på Twitter.   
 [\#FinTwit](https://twitter.com/hashtag/fintwit?src=hashtag_click)
@@ -84,7 +87,7 @@ Finansprofiler på Twitter.
 * [@Route2FI](https://twitter.com/Route2FI) - økonomisk frihet
 * [@halkva](https://twitter.com/halkva) - privatøkonomi
 
-## Eiendom
+## Eiendom 🇳🇴 
 
 * [Slik byr man best på bolig](https://www.samfunnsokonomisk-analyse.no/kronikker/2020/8/17/ny-forskning-knuser-myter-om-budrunder-slik-byr-man-best-p-bolig) - forskning \[2020\]
 
@@ -100,6 +103,9 @@ Finansprofiler på Twitter.
 > More fiction has been written in Microsoft Excel than in Microsoft Word. [\[Source\]](https://ofdollarsanddata.com/what-does-the-stock-market-do-around-election-day/)
 
 > Once-in-a-century events happen all the time because lots of unrelated things could go wrong. ****If, in any given year, there’s a 1% chance of a new disastrous pandemic, a 1% chance of a crippling depression, a 1% chance of a catastrophic flood, a 1% chance of political collapse, and on and on, then the odds that _something_ bad will happen next year – or any year – are … _pretty good_. It’s why Arnold Toynbee says history is “just one damn thing after another.” [\[Source\]](https://www.collaborativefund.com/blog/sure/)
+
+> "Spend extravagantly on things you love, and cut mercilessly on things you don’t."   
+> - Ramit Sethi
 
 ## Related
 
