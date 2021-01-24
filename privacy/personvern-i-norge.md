@@ -14,16 +14,7 @@ description: (Norwegian content)
 * [Sikkerhet.online](https://sikkerhet.online/) - personvern, teknologi.
 * [Jan Sandtrø](https://www.sandtro.no/) - blogg om teknologi og GDPR.
 
-## Tilpass dine kontoer
-
-| Tjeneste | Beskrivelse |
-| :--- | :--- |
-| [Facebook](https://www.facebook.com/ads/preferences/) | Tilpass hvordan Facebook bruker dine data. |
-| [Schibsted](https://payment.schibsted.no/account/privacy) | Tilpass hvilke innstillinger du ønsker for annonser eller benytt deg av dine personvernrettigheter. |
-| [Your Online Choices](http://www.youronlinechoices.com/nor/dine-valg) | Kontroller innstillinger for interessebasert markedsføring fra flere ulike annonseplattformer. |
-| [Google Annonseinnstillinger](https://myaccount.google.com/yourdata/maps) | Tilpass hvordan Google bruker dine data. |
-
-## Benytt dine rettigheter
+## Benytt dine rettigheter ved behov
 
 * _Rettigheter_: Du finner en oversikt over dine rettigheter og hvordan du kan benytte de [her](https://www.datatilsynet.no/rettigheter-og-plikter/den-registrertes-rettigheter/).
 * _Innsyn_: [Innsynsskjema ](https://www.datatilsynet.no/globalassets/global/skjema-maler/innsynsskjema_2018.pdf)fra Datatilsynet.
