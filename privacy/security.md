@@ -17,6 +17,10 @@
 * [Roar Thon](https://www.roarthon.no/) - Security professional.🇳🇴
 * [Nasjonal sikkerhetsmyndighet \(NSM\)](https://soundcloud.com/nasjonal-sikkerhetsmyndighet) - Podkast om sikkerhet fra NSM. 🇳🇴
 
+## Learning
+
+* [Security Education Companion \(EFF\)](https://sec.eff.org/) - A free resource for digital security educators.
+
 ## Organisations
 
 * 🇳🇴Offentlige instanser:[ Difi](https://www.difi.no/), [Datatilsynet](https://www.datatilsynet.no/) & [NSM](https://www.nsm.stat.no/)
