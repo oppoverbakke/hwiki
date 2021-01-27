@@ -96,4 +96,5 @@ _\(Last updated: 24.01.21\)_
 * [Storage for Photographers](https://paulstamatiou.com/storage-for-photographers-part-2/)
 * [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/) - How they work, but also how adjusting a few tunable parameters can produce fairly different results.
 * [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/) - Ultimately, it is the only thing we see.
+* [How do I safely store my files?](https://photostructure.com/faq/how-do-i-safely-store-files/) \[2020\]
 
