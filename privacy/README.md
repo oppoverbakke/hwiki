@@ -84,6 +84,7 @@ description: Privacy respecting tools and services. Inspiration for better priva
 | [Track THIS](https://trackthis.link/) | Open 100 tabs of pure madness to fool trackers. |
 | [Noiszy](https://noiszy.com/) | Make some noise for trackers. |
 | [Fawkes](https://sandlab.cs.uchicago.edu/fawkes/) | Algorithm and software tool to limit how images can be tracked by facial recognition. |
+| [Mullvad](https://mullvad.net) | VPN |
 
 ## Ideas for better privacy
 
