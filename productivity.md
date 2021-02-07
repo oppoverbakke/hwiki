@@ -25,6 +25,13 @@
 * [Good sleep, good learning, good life](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life)
 * [The life calendar](https://waitbutwhy.com/2014/05/life-weeks.html)
 
+## Quantified Self
+
+> Definiton: Self tracking and coming up with metrics in order to gain more insight and potentially improve various aspects of your life such as health \(physical or mental\) or performance.
+
+* [What data on myself I collect and why?](https://beepb00p.xyz/my-data.html) - How I am using 50+ sources of my personal data
+* [Awesome Quantified Self](https://github.com/woop/awesome-quantified-self) - Websites, Resources, Devices, Wearables, Applications, and Platforms for Self Tracking.
+
 ## Related
 
 *  [r/Productivity](https://www.reddit.com/r/productivity/) – Productivity subreddit.
