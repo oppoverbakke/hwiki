@@ -11,6 +11,12 @@
 
 ## Reading
 
+### Currently reading
+
+[Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think](https://www.goodreads.com/book/show/34890015-factfulness)
+
+▓░░░░░░░░░░░░░░░░░░░ Progress: 0 %
+
 ### Blogs
 
 * [Stratechery](https://stratechery.com/) - technology analysis.

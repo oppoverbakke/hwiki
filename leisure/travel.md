@@ -5,9 +5,9 @@
 {% hint style="info" %}
 **Stats \(all time\):**
 
-Logged: 323
+Logged: 330
 
-_\(Last updated: 16.01.2021\)_
+_\(Last updated: 07.02.2021\)_
 {% endhint %}
 
 ## World
@@ -27,9 +27,18 @@ _\(Last updated: 16.01.2021\)_
 {% hint style="info" %}
 **Stats**
 
-_Countries_  
+_Countries:_  
 21 of 198 countries visited.  
 10.6% of all countries.
+
+_Continents:_  
+Europe: ✅   
+North America: ✅   
+South America: ✅   
+Africa: ❌   
+Asia: ✅   
+Australia: ❌   
+Antarctica: ❌ 
 {% endhint %}
 
 ## Resources
