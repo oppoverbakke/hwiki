@@ -50,7 +50,7 @@
 * [Feedbin](https://feedbin.com/) - RSS reader.
 * [Hacker News \(Original\)](https://news.ycombinator.com/) and [alternative interface](https://hckrnews.com/) - user submitted content.
 * [Pocket](https://app.getpocket.com/)  - read later and recommendations.
-* [Pocket Casts](https://play.pocketcasts.com/) - [podcasts](../podcasts.md) _\(sound\)._
+* [Pocket Casts](https://play.pocketcasts.com/) - [podcasts](podcasts.md) _\(sound\)._
 
 ### YouTube subscriptions
 
@@ -70,7 +70,7 @@
 
 ## Related
 
-* [Podcasts](../podcasts.md) - _\[on this wiki\]_
+* [Podcasts](podcasts.md) - _\[on this wiki\]_
 * [Photography](photography.md) - _\[on this wiki\]_
 * [Patrick Collison: Bookshelf](https://patrickcollison.com/bookshelf)
 * [Goodreads](https://www.goodreads.com/) - book recommendations

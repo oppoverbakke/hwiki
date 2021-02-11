@@ -4,6 +4,10 @@
 >
 > Source: [https://medium.com/personal-growth/the-problem-with-hack-culture-b0ddf43784e9](https://medium.com/personal-growth/the-problem-with-hack-culture-b0ddf43784e9)
 
+## Software
+
+* [Notion](https://notion.so/) - workspace for your notes, tasks, wikis, and databases.
+
 ## Work
 
 * [No Hello](http://www.nohello.com/) - Don't start a chat with only "Hello".
