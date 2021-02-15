@@ -55,7 +55,8 @@ Antarctica: ❌
 {% endtab %}
 
 {% tab title="International" %}
-Geocaching
+* [Mapy.cz](https://en.mapy.cz) - map for hiking and skiing.
+* [Geocaching](https://www.geocaching.com) - outdoor sport activity based on GPS.
 {% endtab %}
 {% endtabs %}
 
