@@ -15,6 +15,8 @@
 * [Pinkbike](https://www.pinkbike.com/) - MTB _\[blog\]_
 * [E-mountainbike](https://ebike-mtb.com/en/) - E-mountainbike magazine.
 * [EMTB.no](https://emtb.no/) - eMTB _\(partly norwegian content, but videos in english\)_
+* [SYD and MACKY](https://www.youtube.com/c/SYDandMACKY/videos) _-_ bikes _\[Youtube\]_
+* [Berm Peak](https://www.youtube.com/c/SethsBikeHacks/videos) - bikes _\[Youtube\]_
 
 ## Norsk innhold 🇳🇴 
 
@@ -29,7 +31,7 @@ _Rides_: 0
 _Time_: 0h 0m  
 _Distance this year_: 0 km
 
-_\(Last updated: 24.01.2021\)_
+_\(Last updated: 21.02.2021\)_
 {% endhint %}
 
 \*\*\*\*

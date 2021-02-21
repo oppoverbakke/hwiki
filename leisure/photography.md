@@ -1,7 +1,7 @@
 # Photography
 
-{% hint style="warning" %}
-View \(and buy\) my photos: [https://foto.bakke.be](https://foto.bakke.be/)
+{% hint style="info" %}
+View my photos: [https://foto.bakke.be](https://foto.bakke.be/)
 {% endhint %}
 
 ## Gear
@@ -71,17 +71,13 @@ View \(and buy\) my photos: [https://foto.bakke.be](https://foto.bakke.be/)
 | [MeFoto Backpacker](https://www.mefoto.com/products/backpacker-classic) | Travel tripod. |
 | [Samsung T5 SSD 1 TB](https://www.samsung.com/semiconductor/minisite/ssd/product/portable/t5/) | External SSD for main storage. |
 
-## Resources
+## Related
 
-| Name | Description |
-| :--- | :--- |
-| [Lectures on Digital Photography](https://sites.google.com/site/marclevoylectures/schedule/lecture1-21mar16)  | How cameras work, and how to take good pictures using them, by Marc Levoy. Also available on [Youtube](https://www.youtube.com/playlist?list=PL7ddpXYvFXspUN0N-gObF1GXoCA-DA-7i). |
-| [35mmc](https://www.35mmc.com/category/impressions-and-reviews/changeable-lens-rangefinders-impressions-and-reviews/) | Reviews, thoughts & experiences with 35mm compact cameras, rangefinders & lenses |
-| [Dpreview](https://www.dpreview.com/) | Digital Photography Revie |
-| [Three Blind Men and An Elephant](https://www.youtube.com/channel/UCZb8uqR_73t8DlfpVfVbiEw) | Youtube channel about cameras. \(Youtube\) |
-| [David Thorpe](https://www.youtube.com/channel/UCZ-CbEVybw98KcQTWumzBow) | David Thorpe. Mostly MFT videos. \(Youtube\) |
-| [Gerand Undone](https://www.youtube.com/channel/UC09qASY4ixFS-KXIH6Nw0rg) | Quick and nerdy tech videos. \(Youtube\) |
-| [The Art of Photography](https://www.youtube.com/channel/UC7T8roVtC_3afWKTOGtLlBA) | Ted forbes. \(Youtube\) |
+* [Storage for Photographers](https://paulstamatiou.com/storage-for-photographers-part-2/)
+* [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/) - How they work, but also how adjusting a few tunable parameters can produce fairly different results.
+* [Lectures on Digital Photography](https://sites.google.com/site/marclevoylectures/schedule/lecture1-21mar16) - How cameras work, and how to take good pictures using them, by Marc Levoy. Also available on [Youtube](https://www.youtube.com/playlist?list=PL7ddpXYvFXspUN0N-gObF1GXoCA-DA-7i).
+* [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/) - Ultimately, it is the only thing we see.
+* [How do I safely store my files?](https://photostructure.com/faq/how-do-i-safely-store-files/) \[2020\]
 
 ## Stats
 
@@ -90,11 +86,4 @@ All photographs _\(in Lightroom catalog\):_ 57961
 
 _\(Last updated: 24.01.21\)_
 {% endhint %}
-
-## Related
-
-* [Storage for Photographers](https://paulstamatiou.com/storage-for-photographers-part-2/)
-* [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/) - How they work, but also how adjusting a few tunable parameters can produce fairly different results.
-* [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/) - Ultimately, it is the only thing we see.
-* [How do I safely store my files?](https://photostructure.com/faq/how-do-i-safely-store-files/) \[2020\]
 

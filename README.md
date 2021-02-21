@@ -1,11 +1,9 @@
 # Introduction
 
-**Welcome** to my personal public wiki.   
-This site is filled with content I have created, enjoy or want to save for later.   
-Hopefully will you also get some value from the content.
+**Welcome** to my personal \(_but public_\) wiki. 
 
 Norwegian content are marked with: 🇳🇴  
-Paid content are \(_when I remember\)_ marked with:💰
+Paid content are marked with:💰
 
 ## Found something wrong or outdated
 

@@ -14,7 +14,7 @@
 * [Litchi](https://flylitchi.com/) - autonomous flight app for your DJI drone.💰 
 * [Safetofly](https://www.safetofly.no/) - kart for dronepiloter i Norge. [Mobiltilpasset versjon her](https://www.safetofly.no/mobile).🇳🇴
 * [Luftfartstilsynet flydrone.no](https://flydrone.no/) - registrering, nettkurs, eksamen🇳🇴
-* [Ninox Drone](https://operatorportal.ninoxdrone.no/) - Unmanned Traffic Management \(UTM\) solution for professional drone operators in Norway.
+* [Ninox Drone](https://operatorportal.ninoxdrone.no/) - Unmanned Traffic Management \(UTM\) solution for professional drone operators in Norway. 🇳🇴 
 
 ## Related
 
