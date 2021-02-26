@@ -8,6 +8,7 @@
 * [Fear & Greed Index](https://money.cnn.com/data/fear-and-greed/) - What emotion is driving the market now?
 * [The Three Sides of Risk](https://www.collaborativefund.com/blog/the-three-sides-of-risk/) \[2020\] - article by Morgan Housel.
 * [Item 8](https://item8.neocities.org/) - All intelligent investing is value investing.
+* [Enombic](https://enombic.com/) - Design and invest in custom indexes with friends. Optimize your portfolio like it were code.
 
 ## Tools
 

@@ -2,15 +2,15 @@
 
 ## Geocaching
 
-{% hint style="info" %}
-**Stats \(all time\):**
+{% hint style="success" %}
+**Stats:**
 
-Logged: 334
+Logged: 336
 
-_\(Last updated: 21.02.2021\)_
+_\(Last updated: 26.02.2021\)_
 {% endhint %}
 
-## World
+## Tellus
 
 {% hint style="success" %}
 [Places I have visited](https://goo.gl/maps/92spBC7a76opmYhGA)
@@ -38,7 +38,8 @@ South America: ✅
 Africa: ❌   
 Asia: ✅   
 Australia: ❌   
-Antarctica: ❌ 
+Antarctica: ❌   
+\(Space: ❌\)
 {% endhint %}
 
 ## Resources
