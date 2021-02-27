@@ -1,5 +1,10 @@
 # Security
 
+## Guides
+
+* [Personal Security Check list](https://github.com/Lissy93/personal-security-checklist#readme)
+* [Getting started with security keys](https://paulstamatiou.com/getting-started-with-security-keys/) - How to stay safe online and prevent phishing with FIDO2, WebAuthn and security keys.
+
 ## Resources
 
 | Name | Description |
@@ -27,5 +32,4 @@
 
 ## Related
 
-* [Personal Security Check list](https://github.com/Lissy93/personal-security-checklist#readme)
-
+* 
