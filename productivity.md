@@ -23,6 +23,7 @@
 * [Building the Ultimate Home Office \(Again\)](https://www.troyhunt.com/building-the-ultimate-home-office-again/)
 * [Seeking the Productive Life: Some Details of My Personal Infrastructure](https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/) - Stephen Wolfram
 * [uses this ](https://usesthis.com)- A collection of nerdy interviews asking people from all walks of life what they use to get the job done.
+* [Stuff I use ](https://paulstamatiou.com/stuff-i-use/)- things [Stammy](https://twitter.com/Stammy/) use.
 
 ## Life
 
