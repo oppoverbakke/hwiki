@@ -1,8 +1,12 @@
 # Productivity
 
+## Quotes
+
 > Get back to the basics: Challenge yourself to grow. Rest and Recover. Find meaning and purpose in your endeavors. Set yourself up to perform. And above all, realize the journey is what it’s all about.
 >
 > Source: [https://medium.com/personal-growth/the-problem-with-hack-culture-b0ddf43784e9](https://medium.com/personal-growth/the-problem-with-hack-culture-b0ddf43784e9)
+
+> Can you make a better burger than McDonald's? Sure. Can you build a better burger-making system, though?
 
 ## Software
 
