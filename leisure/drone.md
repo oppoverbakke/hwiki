@@ -2,7 +2,7 @@
 
 ## Gear
 
-* DJI Mavic Mini
+* DJI Maciv Mini
 
 ## Certification
 

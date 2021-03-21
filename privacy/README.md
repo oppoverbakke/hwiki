@@ -55,11 +55,6 @@ description: Privacy respecting tools and services. Inspiration for better priva
       <td style="text-align:left">If you feel you are being watched, you change your behavior.</td>
     </tr>
     <tr>
-      <td style="text-align:left"><a href="https://teddit.net/">Teddit</a>
-      </td>
-      <td style="text-align:left">Reddit, but privacy respecting.</td>
-    </tr>
-    <tr>
       <td style="text-align:left"><a href="https://ssd.eff.org/">Surveillance Self-Defense (EFF)</a>
       </td>
       <td style="text-align:left">Tips, tools and how-tos for safer online communications.</td>
@@ -85,6 +80,7 @@ description: Privacy respecting tools and services. Inspiration for better priva
 | [Noiszy](https://noiszy.com/) | Make some noise for trackers. |
 | [Fawkes](https://sandlab.cs.uchicago.edu/fawkes/) | Algorithm and software tool to limit how images can be tracked by facial recognition. |
 | [Mullvad](https://mullvad.net) | VPN |
+| [Teddit](https://teddit.net/) | Reddit, but privacy respecting. |
 
 ## Ideas for better privacy
 
