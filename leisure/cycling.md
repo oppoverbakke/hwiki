@@ -27,11 +27,11 @@
 ## Stats \(2021\):
 
 {% hint style="info" %}
-_Rides_: 1  
-_Time_: 1h 8m  
-_Distance this year_: 16 km
+_Rides_: 3  
+_Time_: 3h 16m  
+_Distance this year_: 40 km
 
-_\(Last updated: 17.03.2021\)_
+_\(Last updated: 21.03.2021\)_
 {% endhint %}
 
 \*\*\*\*
