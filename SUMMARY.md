@@ -8,6 +8,7 @@
   * [Photography](leisure/photography.md)
   * [Drone](leisure/drone.md)
   * [Cycling](leisure/cycling.md)
+  * [Learning & reading](leisure/learning-and-reading.md)
   * [Podcasts](leisure/podcasts.md)
   * [Exploring](leisure/travel.md)
 * [Productivity](productivity.md)
