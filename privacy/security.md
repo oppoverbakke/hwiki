@@ -13,7 +13,7 @@
 | [Surveillance Self-Defense](https://ssd.eff.org/en) | Tips, tools and how-tos for safer online communications. |
 | [Two Factor Auth \(2FA\)](https://twofactorauth.org/) | List of websites and whether or not they support [2FA](https://en.wikipedia.org/wiki/Two-factor_authentication). |
 
-## Blogs
+## Media
 
 * [Malicious Life](https://malicious.life/) - Stories of the history of cybersecurity
 * [Schneier on Security](https://www.schneier.com/) - Security professional.
@@ -26,10 +26,3 @@
 
 * [Security Education Companion \(EFF\)](https://sec.eff.org/) - A free resource for digital security educators.
 
-## Organisations
-
-* 🇳🇴Offentlige instanser:[ Difi](https://www.difi.no/), [Datatilsynet](https://www.datatilsynet.no/) & [NSM](https://www.nsm.stat.no/)
-
-## Related
-
-* 

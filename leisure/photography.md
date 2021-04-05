@@ -23,8 +23,6 @@ View my photos: [https://foto.bakke.be](https://foto.bakke.be/)
         </p>
         <p>Panasonic 25 mm f/1.7</p>
         <p>Olympus 75 mm f/1.8</p>
-        <p>Olympus 17mm f/1.8
-          <br />Olympus 14-42 mm</p>
         <p>Olympus 60 mm f/2.8</p>
       </td>
     </tr>
@@ -75,10 +73,16 @@ View my photos: [https://foto.bakke.be](https://foto.bakke.be/)
 
 * [Storage for Photographers](https://paulstamatiou.com/storage-for-photographers-part-2/)
 * [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/) - How they work, but also how adjusting a few tunable parameters can produce fairly different results.
-* [Lectures on Digital Photography](https://sites.google.com/site/marclevoylectures/schedule/lecture1-21mar16) - How cameras work, and how to take good pictures using them, by Marc Levoy. Also available on [Youtube](https://www.youtube.com/playlist?list=PL7ddpXYvFXspUN0N-gObF1GXoCA-DA-7i).
 * [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/) - Ultimately, it is the only thing we see.
 * [How do I safely store my files?](https://photostructure.com/faq/how-do-i-safely-store-files/) \[2020\]
 * [Spredsheet Converter](https://makeanddo4d.com/spreadsheet/) - Turn a digital photo into an Excel spreadsheet.
+
+## Media
+
+* Ken Rockwell 
+* [Adobe Photoshop Lightroom](https://www.youtube.com/channel/UC7NyBKOKI6vdFDHYzDHlteg) - Youtube channel from Adobe with Lightroom tips
+* [Lectures on Digital Photography](https://sites.google.com/site/marclevoylectures/schedule/lecture1-21mar16) - How cameras work, and how to take good pictures using them, by Marc Levoy. Also available on [Youtube](https://www.youtube.com/playlist?list=PL7ddpXYvFXspUN0N-gObF1GXoCA-DA-7i).
+* [The Art of Photography](https://www.youtube.com/channel/UC7T8roVtC_3afWKTOGtLlBA)
 
 ## Stats
 

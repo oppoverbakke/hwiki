@@ -8,5 +8,12 @@
 * [Histography.io](https://histography.io/) - Visualized four hundred years of history.
 * [You're getting old!](https://you.regettingold.com/) - Report full of interesting stuff about your age.
 
-## 
+## Science & tech
+
+* [TheBackyardScientist](https://www.youtube.com/channel/UC06E4Y_-ybJgBUMtXx8uNNw) - Youtube channel.
+* [Adam Savage’s Tested](https://www.youtube.com/channel/UCiDJtJKMICpb9B1qf7qjEOA) - Youtube channel.
+* [Tom Scott ](https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A)- Youtube channel.
+* [Strange Parts ](https://www.youtube.com/channel/UCO8DQrSp5yEP937qNqTooOw)- Youtube channel.
+* [Dr Wasim Zahid](https://www.youtube.com/channel/UCCk8AwSV_gkRezI-LSvg4pQ) - Youtube channel 🇳🇴 
+* [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ) - Youtube channel.
 

@@ -31,6 +31,9 @@
 * [How The Economic Machine Works](https://www.youtube.com/watch?v=PHe0bXAIuk0) - _\[video, 31 min\]_ by Ray Dalio
 * [The Swedish Investor](https://www.youtube.com/channel/UCAeAB8ABXGoGMbXuYPmiu2A) - _\[YouTube\]_ Money & investing
 * [Bloomberg Wealth](https://www.bloomberg.com/wealth) - Your guide to a life well spent.
+* [Economics Explained](https://www.youtube.com/channel/UCZ4AMrDcNrfy3X6nsU8-rPg) - Youtube channel explaining econnomic concepts.
+* [Wall Street Journal](https://www.youtube.com/channel/UCK7tptUDHh-RYDsdxO1-5QQ) - Youtube channel.
+* [PolyMatter](https://www.youtube.com/channel/UCgNg3vwj3xt7QOrcIDaHdFg) - Youtube channel.
 
 ## Books
 
@@ -72,22 +75,22 @@
 
 ## FinTwit - \(Twitter\) 🇳🇴 
 
-Finansprofiler på Twitter.   
+Økonomidiskusjon på Twitter.   
 [\#FinTwit](https://twitter.com/hashtag/fintwit?src=hashtag_click)
 
 #### Noen anbefalte:
 
-* [@eivindab](https://twitter.com/eivindab) - privatøkonomi
-* [@EiendomsmeglerO](https://twitter.com/EiendomsmeglerO) - eiendom
-* [@aksjerogfond](https://twitter.com/aksjerogfond) - aksjer og fond
-* [@LocationLocati5](https://twitter.com/LocationLocati5) - eiendom
-* [@ArneUlland](https://twitter.com/ArneUlland) - aksjer
-* [@Th\_\_Nielsen](https://twitter.com/Th__Nielsen) - aksjer
-* [@Finansnerden](https://twitter.com/Finansnerden) - økonomisk frihet
-* [@JanOftedal3](https://twitter.com/JanOftedal3) - eiendom
-* [@palrestad](https://twitter.com/palrestad) - eiendom
-* [@Route2FI](https://twitter.com/Route2FI) - økonomisk frihet
-* [@halkva](https://twitter.com/halkva) - privatøkonomi
+* [@eivindab](https://twitter.com/eivindab) - privatøkonomi.
+* [@EiendomsmeglerO](https://twitter.com/EiendomsmeglerO) - eiendom.
+* [@aksjerogfond](https://twitter.com/aksjerogfond) - aksjer og fond.
+* [@LocationLocati5](https://twitter.com/LocationLocati5) - eiendom.
+* [@ArneUlland](https://twitter.com/ArneUlland) - aksjer.
+* [@Th\_\_Nielsen](https://twitter.com/Th__Nielsen) - aksjer.
+* [@Finansnerden](https://twitter.com/Finansnerden) - økonomisk frihet.
+* [@JanOftedal3](https://twitter.com/JanOftedal3) - eiendom.
+* [@palrestad](https://twitter.com/palrestad) - eiendom.
+* [@Route2FI](https://twitter.com/Route2FI) - økonomisk frihet.
+* [@halkva](https://twitter.com/halkva) - privatøkonomi.
 
 ## Eiendom 🇳🇴 
 
