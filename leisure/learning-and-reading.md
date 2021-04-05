@@ -8,6 +8,21 @@
 
 ▓░░░░░░░░░░░░░░░░░░░ Progress: 0 %
 
+## Podcasts
+
+*  [Learn anything](https://github.com/learn-anything/podcasts#readme) - curated list of podcasts
+
+### Stats
+
+{% hint style="info" %}
+* 62 podcasts currently subscribed to.
+* Listening since 21.02.2017:
+  * 142 days listened.
+  * 86 days saved _\(using variable speed\)_.
+
+_\(Last updated  02.04.21\)_
+{% endhint %}
+
 ## Reading
 
 ### Blogs
@@ -48,15 +63,5 @@
 * [Feedbin](https://feedbin.com/) - RSS reader.
 * [Hacker News \(Original\)](https://news.ycombinator.com/) and [alternative interface](https://hckrnews.com/) - user submitted content.
 * [Pocket](https://app.getpocket.com/)  - read later and recommendations.
-* [Pocket Casts](https://play.pocketcasts.com/) - [podcasts](podcasts.md) _\(sound\)._
-
-### YouTube subscriptions
-
-* [Strange Parts](https://www.youtube.com/channel/UCO8DQrSp5yEP937qNqTooOw) - technology, China, electronics.
-* [CaseyNeistat](https://www.youtube.com/channel/UCtinbF-Q-fVthA0qrFQTgXQ) - technology, vlog.
-* [Marques Brownlee](https://www.youtube.com/channel/UCBJycsmduvYEL83R_U4JriQ) - technology, gadgets.
-* [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ) - expert on shitty robots.
-* [The Verge](https://www.youtube.com/channel/UCddiUEpeqJcYeBxX1IVBKvQ) - technology, gadgets, reviews.
-* [Alex](https://www.youtube.com/channel/UCPzFLpOblZEaIx2lpym1l1A) - Inspiring food, Obsessional host.
-* [JerryRigEverything](https://www.youtube.com/channel/UCWFKCr40YwOZQx8FHU_ZqqQ) - Life is a do it yourself project.
+* [Pocket Casts](https://play.pocketcasts.com/) - podcasts _\(sound\)._
 
