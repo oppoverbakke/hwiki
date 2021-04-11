@@ -87,8 +87,8 @@ View my photos: [https://foto.bakke.be](https://foto.bakke.be/)
 ## Stats
 
 {% hint style="info" %}
-All photographs _\(in Lightroom catalog\):_ 57961
+All photographs _\(in Lightroom catalog\):_ 58334
 
-_\(Last updated: 24.01.21\)_
+_\(Last updated: 11.04.21\)_
 {% endhint %}
 
