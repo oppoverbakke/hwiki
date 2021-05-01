@@ -30,14 +30,20 @@
   * [Å sitte riktig - posisjonstråden](https://www.terrengsykkelforumet.no/ubbthreads.php?ubb=showflat&Number=2552342#Post2552342)
   * [Kjedeolje - hvilken?](https://www.terrengsykkelforumet.no/ubbthreads.php?ubb=showflat&Number=2412485&page=1)
 
+## Related
+
+* [Long Tiny Loop](https://longtinyloop.com/) - traverse the longest possible non-self-intersecting loop within the smallest possible region.
+
 ## Stats \(2021\):
 
 {% hint style="info" %}
-_Rides_: 9  
-_Time_: 11h 31m  
-_Distance this year: 185_ km
+Rides: 13  
+Time: 16h 56m  
+Distance this year: 273 km
 
-_\(Last updated: 22.04.2021\)_
+Longest ride \(all time\): 73 km
+
+_\(Last updated: 01.05.2021\)_
 {% endhint %}
 
 \*\*\*\*
