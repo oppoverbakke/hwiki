@@ -4,7 +4,7 @@
 
 * [99spokes](https://99spokes.com/) - Search and compare bikes.
 * [BikeCad](https://www.bikecad.ca/) - Bicycle design software.
-* [Sheldon Brown](https://www.sheldonbrown.com/articles.html) - maintenance and more.
+* [Sheldon Brown](https://www.sheldonbrown.com/articles.html) - 
 * [Bicycle bearing greases – explained](https://bike.bikegremlin.com/1985/bicycle-bearing-grease-explained/#7)
 
 ## Media
@@ -34,18 +34,16 @@
 
 * [Long Tiny Loop](https://longtinyloop.com/) - traverse the longest possible non-self-intersecting loop within the smallest possible region.
 
-## Stats:
+## Stats \(2021\):
 
 {% hint style="info" %}
-**This year**  
-Rides: 17  
-Time: 20h 24m  
-Distance this year: 324 km
+Rides: 13  
+Time: 16h 56m  
+Distance this year: 273 km
 
-**All time**  
-Longest ride: 73 km
+Longest ride \(all time\): 73 km
 
-_\(Last updated: 08.05.2021\)_
+_\(Last updated: 01.05.2021\)_
 {% endhint %}
 
 \*\*\*\*
