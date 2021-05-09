@@ -4,8 +4,10 @@
 
 I use this site to organise and track my interests.
 
-Norwegian content are marked with: 🇳🇴  
-Paid content are usually marked with:💰
+**Defintions:**
+
+* 🇳🇴   -   Norwegian content
+* 💰   -   Paid content
 
 ## Found something wrong or outdated
 

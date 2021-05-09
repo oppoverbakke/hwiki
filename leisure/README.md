@@ -5,7 +5,7 @@
 * [Photography](photography.md) and [drones](drone.md)
 * [Cycling](cycling.md)
 * Tennis
-* Skiing / snowboard
+* Skiing
 * Climbing
 * [Exploring](travel.md)
   * Hiking
