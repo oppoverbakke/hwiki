@@ -79,16 +79,20 @@ View my photos: [https://foto.bakke.be](https://foto.bakke.be/)
 
 ## Media
 
-* Ken Rockwell 
+* [Ken Rockwell ](https://www.kenrockwell.com/)
 * [Adobe Photoshop Lightroom](https://www.youtube.com/channel/UC7NyBKOKI6vdFDHYzDHlteg) - Youtube channel from Adobe with Lightroom tips
 * [Lectures on Digital Photography](https://sites.google.com/site/marclevoylectures/schedule/lecture1-21mar16) - How cameras work, and how to take good pictures using them, by Marc Levoy. Also available on [Youtube](https://www.youtube.com/playlist?list=PL7ddpXYvFXspUN0N-gObF1GXoCA-DA-7i).
 * [The Art of Photography](https://www.youtube.com/channel/UC7T8roVtC_3afWKTOGtLlBA)
 
+## Inspiration
+
+* [Ornitographies](http://www.xavibou.com/index.php/project/ornitographies/) 
+
 ## Stats
 
 {% hint style="info" %}
-All photographs _\(in Lightroom catalog\):_ 58334
+All photographs _\(in Lightroom catalog\):_ 58777
 
-_\(Last updated: 11.04.21\)_
+_\(Last updated: 15.05.21\)_
 {% endhint %}
 
