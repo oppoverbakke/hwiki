@@ -14,8 +14,6 @@
 
 * [Global Rich List](http://www.globalrichlist.com/) - See how you rank globally.
 * [Overview of many calculators](https://jlcollinsnh.com/calculators/) - by JL Collins.
-* [Firefly III](https://firefly-iii.org/) - A free and open source personal finance manager. \(Not tried\)
-* [Pocketsmith](https://www.pocketsmith.com/) - Personal finance software with cash flow forecasts. \(Not tried\)
 * [Utleiekalkulatoren](http://utleiekalkulatoren.trifektum.no/) - 🇳🇴Kalkulator for å beregne inntjening på potensielle kjøp av utleieobjekt.
 * [Koyfin](https://www.koyfin.com/) - financial data and analytics platform.
 
@@ -84,12 +82,10 @@
 * [@EiendomsmeglerO](https://twitter.com/EiendomsmeglerO) - eiendom.
 * [@aksjerogfond](https://twitter.com/aksjerogfond) - aksjer og fond.
 * [@LocationLocati5](https://twitter.com/LocationLocati5) - eiendom.
-* [@ArneUlland](https://twitter.com/ArneUlland) - aksjer.
 * [@Th\_\_Nielsen](https://twitter.com/Th__Nielsen) - aksjer.
 * [@Finansnerden](https://twitter.com/Finansnerden) - økonomisk frihet.
 * [@JanOftedal3](https://twitter.com/JanOftedal3) - eiendom.
 * [@palrestad](https://twitter.com/palrestad) - eiendom.
-* [@Route2FI](https://twitter.com/Route2FI) - økonomisk frihet.
 * [@halkva](https://twitter.com/halkva) - privatøkonomi.
 
 ## Eiendom 🇳🇴 

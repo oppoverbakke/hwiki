@@ -10,7 +10,7 @@
 
 [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 
-▓▓▓▓▓▓▓░░░░░░░░░░░░░   Progress: 33 %            \(15.05.21\)
+▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░   Progress: 49 %            \(29.05.21\)
 
 ## Podcasts
 
@@ -21,10 +21,10 @@
 {% hint style="info" %}
 * 63 podcasts currently subscribed to.
 * Listening since 21.02.2017:
-  * 146 days listened.
-  * 87 days saved _\(using variable speed\)_.
+  * 147 days listened.
+  * 88 days saved _\(using variable speed\)_.
 
-_\(Last updated  15.05.21\)_
+_\(Last updated  29.05.21\)_
 {% endhint %}
 
 ## Reading
@@ -68,4 +68,5 @@ _\(Last updated  15.05.21\)_
 * [Hacker News \(Original\)](https://news.ycombinator.com/) and [alternative interface](https://hckrnews.com/) - user submitted content.
 * [Pocket](https://app.getpocket.com/)  - read later and recommendations.
 * [Pocket Casts](https://play.pocketcasts.com/) - podcasts _\(sound\)._
+* [FindAReddit](https://www.findareddit.com) _-_ Categorised subreddits.
 

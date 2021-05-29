@@ -23,11 +23,11 @@
 ## Stats
 
 {% hint style="info" %}
-Flights: 99  
-Distance: 43,2 km  
-Hours: 9.83
+Flights: 103  
+Distance: 43,8 km  
+Hours: 10.2
 
-_\(Last updated: 15.05.2021\)_
+_\(Last updated: 29.05.2021\)_
 {% endhint %}
 
   
