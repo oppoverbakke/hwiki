@@ -5,7 +5,7 @@
 * [Photography](photography.md) and [drones](drone.md)
 * [Cycling](cycling.md)
 * Tennis
-* Skiing
+* Skiing / snowboard
 * Climbing
 * [Exploring](travel.md)
   * Hiking
@@ -20,7 +20,6 @@
 
 ## Related
 
-* [Podcasts]() - _\[on this wiki\]_
 * [Photography](photography.md) - _\[on this wiki\]_
 * [Patrick Collison: Bookshelf](https://patrickcollison.com/bookshelf)
 * [Goodreads](https://www.goodreads.com/) - book recommendations

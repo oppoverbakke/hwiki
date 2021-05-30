@@ -5,9 +5,9 @@
 {% hint style="success" %}
 **Stats:**
 
-Logged: 424
+Logged: 425
 
-_\(Last updated: 29.05.2021\)_
+_\(Last updated: 30.05.2021\)_
 {% endhint %}
 
 ## Tellus
@@ -53,6 +53,7 @@ Antarctica: ❌
 * [Varsom Regobs](https://www.varsom.no/en/news/download-the-varsom-regobs-app/) - Logg snøskred og værforhold.
 * [Friluftskurs](https://www.dnt.no/digitale-friluftskurs-/) - fra DNT.
 * [Trailguide](https://trailguide.net/) - kart for terrengsykling
+* [Pakking av ryggsekk](https://www.youtube.com/watch?v=JlhuiVsAEU0) \[Youtube, 16:06\] - Ville Gleder
 {% endtab %}
 
 {% tab title="International" %}
@@ -64,5 +65,5 @@ Antarctica: ❌
 
 ### Related
 
-{% page-ref page="./" %}
+{% page-ref page="leisure.md" %}
 

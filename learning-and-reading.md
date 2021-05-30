@@ -40,7 +40,7 @@ _\(Last updated  29.05.21\)_
 * [Chaffeys blogg](https://paulchaffey.blogspot.com/) - samfunn, politikk.
 * [Olav Torvund](https://blogg.torvund.net/) - juss, samfunn.
 * [bekkelund.net](https://www.bekkelund.net/) - teknologi, samfunn og politikk.
-* [NRKbeta](https://nrkbeta.no/) - teknologi, media, [personvern](../privacy/).
+* [NRKbeta](https://nrkbeta.no/) - teknologi, media, [personvern](privacy/).
 * [Eivind Berg](https://www.eivindberg.no/) - økonomi, investering og sparing.
 * [Bekkelund](https://www.bekkelund.net/) - teknologi, samfunn.
 * [Eirik Newth](http://newth.net/) - verdensrommet, [Mars](https://www.newth.net/mars/), personlig blogg.
