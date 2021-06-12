@@ -10,7 +10,7 @@
 
 [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 
-▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░   Progress: 49 %            \(29.05.21\)
+▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░   Progress: 64 %            \(Updated: 12.06.21\)
 
 ## Podcasts
 
@@ -21,10 +21,10 @@
 {% hint style="info" %}
 * 63 podcasts currently subscribed to.
 * Listening since 21.02.2017:
-  * 147 days listened.
+  * 149 days listened.
   * 88 days saved _\(using variable speed\)_.
 
-_\(Last updated  29.05.21\)_
+_\(Last updated  12.06.21\)_
 {% endhint %}
 
 ## Reading
@@ -53,6 +53,11 @@ _\(Last updated  29.05.21\)_
 * [Money Stuff](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) - finance, economy.
 * [No Mercy / No Malice](https://www.profgalloway.com/) - tech, digital economy \(Scott Galloway\)
 * [DuckDuckGo Privacy Weekly](https://spreadprivacy.com/privacy-weekly-newsletter/) - privacy
+
+### Books
+
+* [Patrick Collison: Bookshelf](https://patrickcollison.com/bookshelf)
+* [Goodreads](https://www.goodreads.com/) - book recommendations
 
 ## Recommended articles
 

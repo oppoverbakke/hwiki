@@ -5,9 +5,9 @@
 {% hint style="success" %}
 **Stats:**
 
-Logged: 425
+Logged: 433
 
-_\(Last updated: 30.05.2021\)_
+_\(Last updated: 12.06.2021\)_
 {% endhint %}
 
 ## Tellus
@@ -64,6 +64,4 @@ Antarctica: ❌
 {% endtabs %}
 
 ### Related
-
-{% page-ref page="leisure.md" %}
 

@@ -4,7 +4,6 @@
 * [Privacy](privacy/README.md)
   * [Security](privacy/security.md)
   * [Personvern i Norge](privacy/personvern-i-norge.md)
-* [Leisure](leisure.md)
 * [Learning & reading](learning-and-reading.md)
 * [Cycling](cycling.md)
 * [Exploring](travel.md)
