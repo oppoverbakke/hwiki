@@ -19,6 +19,7 @@
 * [100 Blocks a Day](https://waitbutwhy.com/2016/10/100-blocks-day.html):_`"Most people sleep about seven or eight hours a night. That leaves 16 or 17 hours awake each day. Or about 1,000 minutes. Let’s think about those 1,000 minutes as 100 10-minute blocks."`_
 * [Tools for better thinking](https://untools.co/) - Collection of thinking tools and frameworks to help you solve problems, make decisions and understand systems.
 * [Email resources](https://emailresourc.es/#) - Resources for Every Step of Your Email Workflow
+* [The Remote Manifesto](https://about.gitlab.com/company/culture/all-remote/guide/) -  GitLab's Guide to All-Remote
 
 ## Office
 
@@ -28,6 +29,7 @@
 * [Seeking the Productive Life: Some Details of My Personal Infrastructure](https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/) - Stephen Wolfram
 * [uses this ](https://usesthis.com)- A collection of nerdy interviews asking people from all walks of life what they use to get the job done.
 * [Stuff I use ](https://paulstamatiou.com/stuff-i-use/)- things [Stammy](https://twitter.com/Stammy/) use.
+* [Considerations for a Productive Home Office or Remote Workspace](https://about.gitlab.com/company/culture/all-remote/workspace/#ergonomic-considerations)
 
 ## Life
 
