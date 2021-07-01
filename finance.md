@@ -17,6 +17,10 @@
 * [Utleiekalkulatoren](http://utleiekalkulatoren.trifektum.no/) - 🇳🇴Kalkulator for å beregne inntjening på potensielle kjøp av utleieobjekt.
 * [Koyfin](https://www.koyfin.com/) - financial data and analytics platform.
 
+## Insurance
+
+* [Insurance is like gambling, don't overdo it](https://blog.viktomas.com/posts/insurance/)
+
 ## Blogs / Media
 
 * [Planet Money](https://www.npr.org/sections/money/) - _\[podcast\]_ The economy explained.
