@@ -74,4 +74,5 @@ _\(Last updated  23.06.21\)_
 * [Pocket](https://app.getpocket.com/)  - read later and recommendations.
 * [Pocket Casts](https://play.pocketcasts.com/) - podcasts _\(sound\)._
 * [FindAReddit](https://www.findareddit.com) _-_ Categorised subreddits.
+* [Kill The Newsletter](https://kill-the-newsletter.com/)
 
