@@ -5,9 +5,9 @@
 {% hint style="success" %}
 **Stats:**
 
-Logged: 461
+Logged: 471
 
-_\(Last updated: 15.07.2021\)_
+_\(Last updated: 23.07.2021\)_
 {% endhint %}
 
 ## Tellus
