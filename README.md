@@ -9,8 +9,6 @@ I use this site to organise and track my interests.
 * 🇳🇴   -   Norwegian content
 * 💰   -   Paid content
 
-
-
 ## 
 
 * [Photography](photography.md) and [drones](drone.md)

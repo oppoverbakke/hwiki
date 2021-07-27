@@ -112,6 +112,8 @@
 > "Spend extravagantly on things you love, and cut mercilessly on things you don’t."   
 > - Ramit Sethi
 
+> That $1 invested in 1950 would grow to $17 by the end of 1972 and subsequently drop to $10 by the fall of 1974. From there it would grow to $95 by the fall of 1987, only to drop to $62 over the course of a single week because of the Black Monday crash. That $62 would have turned into an unbelievable $604 by the spring of 2000. By the fall of 2002 that $604 would have been down to just $340. After slowly working its way all the way to $708 by the fall of 2007, over the next year-and-a-half it would be cut in half down to $347 by March 2009. By the end of December 2009 that initial $1 was worth $537, which is less than the $590 it was worth a decade earlier by the end of 1999. [\[Source\]](https://awealthofcommonsense.com/2021/07/how-the-stock-market-works-2/)
+
 ## Related
 
 * [r/personalfinance](https://www.reddit.com/r/personalfinance/) - Community for budgeting, saving, getting out of debt, credit, investing, and retirement planning.
