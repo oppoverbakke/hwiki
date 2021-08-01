@@ -10,7 +10,7 @@
 
 [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░   Progress: 81 %            \(Updated: 23.07.21\)
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░   Progress: 87 %            \(Updated: 01.08.21\)
 
 ## Podcasts
 
@@ -19,12 +19,12 @@
 ### Stats
 
 {% hint style="info" %}
-* 64 podcasts currently subscribed to.
+* 63 podcasts currently subscribed to.
 * Listening since 21.02.2017:
-  * 152 days listened.
+  * 153 days listened.
   * 89 days saved _\(using variable speed\)_.
 
-_\(Last updated  23.07.21\)_
+_\(Last updated  01.08.21\)_
 {% endhint %}
 
 ## Reading
