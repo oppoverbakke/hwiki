@@ -6,6 +6,7 @@
 * [BikeCad](https://www.bikecad.ca/) - Bicycle design software.
 * [Sheldon Brown](https://www.sheldonbrown.com/articles.html) - maintenance and more.
 * [Bicycle bearing greases – explained](https://bike.bikegremlin.com/1985/bicycle-bearing-grease-explained/#7)
+* [Dekktrykkalkulator](https://sykkelhjulet.no/dekktrykkalkulator/) 🇳🇴 
 
 ## Media
 
