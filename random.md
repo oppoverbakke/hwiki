@@ -17,3 +17,7 @@
 * [Dr Wasim Zahid](https://www.youtube.com/channel/UCCk8AwSV_gkRezI-LSvg4pQ) - Youtube channel 🇳🇴 
 * [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ) - Youtube channel.
 
+## Fun
+
+* [Extreme ironing](https://en.wikipedia.org/wiki/Extreme_ironing)
+
