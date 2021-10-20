@@ -5,9 +5,9 @@
 {% hint style="success" %}
 **Stats:**
 
-Logged: 494
+Logged: 500
 
-_\(Last updated: 04.10.2021\)_
+_(Last updated: 20.10.2021)_
 {% endhint %}
 
 ## Tellus
@@ -27,41 +27,44 @@ _\(Last updated: 04.10.2021\)_
 {% hint style="info" %}
 **Stats**
 
-_Countries:_  
-21 of 198 countries visited.  
+_Countries:_\
+21 of 198 countries visited.\
 10.6% of all countries.
 
-_Continents:_  
-Europe: ✅   
-North America: ✅   
-South America: ✅   
-Africa: ❌   
-Asia: ✅   
-Australia: ❌   
-Antarctica: ❌   
-\(Space: ❌\)
+_Continents:_\
+__Europe: :white\_check\_mark: \
+North America: :white\_check\_mark: \
+South America: :white\_check\_mark: \
+Africa: :x: \
+Asia: :white\_check\_mark: \
+Australia: :x: \
+Antarctica: :x: \
+(Space: :x:)
 {% endhint %}
 
 ## Resources
 
 {% tabs %}
 {% tab title="Norwegian" %}
-* [UT.no](https://ut.no/) - Turforslag.
+* [UT.no](https://ut.no) - Turforslag.
 * [Bratt](https://itunes.apple.com/no/app/bratt/id1121510874) - App som indikerer grafisk på kart hvor bratt terrenget er.
-* [Lommekjent](http://www.lommekjent.no/) - Turforslag.
-* [iSikte Norge](http://appbibliotek.no/isikte-norge/) - Utvidet virkelighet \(AR\) for å visualisere stedsnavn, f.eks. fjelltopper.
+* [Lommekjent](http://www.lommekjent.no) - Turforslag.
+* [iSikte Norge](http://appbibliotek.no/isikte-norge/) - Utvidet virkelighet (AR) for å visualisere stedsnavn, f.eks. fjelltopper.
 * [Varsom Regobs](https://www.varsom.no/en/news/download-the-varsom-regobs-app/) - Logg snøskred og værforhold.
 * [Friluftskurs](https://www.dnt.no/digitale-friluftskurs-/) - fra DNT.
-* [Trailguide](https://trailguide.net/) - kart for terrengsykling
-* [Pakking av ryggsekk](https://www.youtube.com/watch?v=JlhuiVsAEU0) \[Youtube, 16:06\] - Ville Gleder
+* [Trailguide](https://trailguide.net) - kart for terrengsykling
+* [Pakking av ryggsekk](https://www.youtube.com/watch?v=JlhuiVsAEU0) \[Youtube, 16:06] - Ville Gleder
 {% endtab %}
 
 {% tab title="International" %}
 * [Mapy.cz](https://en.mapy.cz) - map for hiking and skiing.
 * [Geocaching](https://www.geocaching.com) - outdoor sport activity based on GPS.
-* [Atlas Obscura](https://www.atlasobscura.com/) - The definitive guide to the world’s hidden wonders.
+* [Atlas Obscura](https://www.atlasobscura.com) - The definitive guide to the world’s hidden wonders.
 {% endtab %}
 {% endtabs %}
 
 ### Related
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
