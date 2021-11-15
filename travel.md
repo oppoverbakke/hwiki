@@ -5,9 +5,9 @@
 {% hint style="success" %}
 **Stats:**
 
-Logged: 500
+Logged: 503
 
-_(Last updated: 20.10.2021)_
+_(Last updated: 06.11.2021)_
 {% endhint %}
 
 ## Tellus
@@ -62,9 +62,3 @@ Antarctica: :x: \
 * [Atlas Obscura](https://www.atlasobscura.com) - The definitive guide to the world’s hidden wonders.
 {% endtab %}
 {% endtabs %}
-
-### Related
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
