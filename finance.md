@@ -30,12 +30,18 @@
 * [Of Dollars and Data](https://ofdollarsanddata.com) - _\[blog] _Personal Finance using Data Analysis.
 * [Mr. Money Mustache](https://www.mrmoneymustache.com) - _\[blog] _Financial Freedom Through Badassisty
 * [Money Stuff](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) -_ \[blog] _Matt Levine, Bloomberg Opinion Columnist
-* [How The Economic Machine Works](https://www.youtube.com/watch?v=PHe0bXAIuk0) -_ \[video, 31 min]_ by Ray Dalio
-* [The Swedish Investor](https://www.youtube.com/channel/UCAeAB8ABXGoGMbXuYPmiu2A) - _\[YouTube] _Money & investing
-* [Bloomberg Wealth](https://www.bloomberg.com/wealth) - Your guide to a life well spent.
+* [Bloomberg Wealth](https://www.bloomberg.com/wealth) - \[news] Your guide to a life well spent.
+
+
+
+## Videoes
+
 * [Economics Explained](https://www.youtube.com/channel/UCZ4AMrDcNrfy3X6nsU8-rPg) - Youtube channel explaining econnomic concepts.
-* [Wall Street Journal](https://www.youtube.com/channel/UCK7tptUDHh-RYDsdxO1-5QQ) - Youtube channel.
+* [The Swedish Investor](https://www.youtube.com/channel/UCAeAB8ABXGoGMbXuYPmiu2A) - _\[YouTube] _Money & investing
+* [How The Economic Machine Works](https://www.youtube.com/watch?v=PHe0bXAIuk0) -_ \[video, 31 min]_ by Ray Dalio
 * [PolyMatter](https://www.youtube.com/channel/UCgNg3vwj3xt7QOrcIDaHdFg) - Youtube channel.
+* [Wall Street Journal](https://www.youtube.com/channel/UCK7tptUDHh-RYDsdxO1-5QQ) - Youtube channel.
+* [Deja vú all over again: Thinking thorough law & code, again](https://vimeo.com/148665401) - \[video, 53 min] by Lawrance Lessig.
 
 ## Books
 

@@ -39,14 +39,14 @@
 
 {% hint style="info" %}
 **This year**\
-Rides: 240\
-Time: 103h 14m\
-Distance this year: 1688 km
+Rides: 267\
+Time: 110h 37m\
+Distance this year: 1801 km
 
 **All time**\
 Longest ride: 73 km
 
-_(Last updated: 06.11.2021)_
+_(Last updated: 21.11.2021)_
 {% endhint %}
 
 ****
