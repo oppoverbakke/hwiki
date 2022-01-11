@@ -13,10 +13,10 @@
 * [Berm Peak](https://www.youtube.com/channel/UCu8YylsPiu9XfaQC74Hr\_Gw) - MTB, trails. _\[Youtube]_
 * [Berm Peak Express](https://www.youtube.com/channel/UCOpP5PqrzODWpFU961acUbg/videos) - trails and mostly biking related stuff. _\[Youtube]_
 * [Gran Fondo](https://granfondo-cycling.com) - Cycling magazine.
-* [Pinkbike](https://www.pinkbike.com) - MTB _\[blog] _and [Youtube channel](https://www.youtube.com/channel/UC2GIHZpQiJy-8286f4lj\_cg).
+* [Pinkbike](https://www.pinkbike.com) - MTB _\[blog]_ and [Youtube channel](https://www.youtube.com/channel/UC2GIHZpQiJy-8286f4lj\_cg).
 * [E-mountainbike](https://ebike-mtb.com/en/) - E-mountainbike magazine.
 * [EMTB.no](https://emtb.no) - eMTB _(partly norwegian content, but videos in english)_
-* [SYD and MACKY](https://www.youtube.com/c/SYDandMACKY/videos)_ - _riding mountain bikes.
+* [SYD and MACKY](https://www.youtube.com/c/SYDandMACKY/videos) _-_ riding mountain bikes.
 * [Syd Fixes Bikes](https://www.youtube.com/channel/UCTRprXaBda35s4j1I1Td5bA) - bike maintenance.
 * [Berm Peak](https://www.youtube.com/c/SethsBikeHacks/videos) - riding bikes and builing paths.
 * [Cycling Weekly](https://www.youtube.com/channel/UC2zZkTwX2DtWeBCMdhk6AQQ) - bike reviews and tips.
@@ -39,14 +39,14 @@
 
 {% hint style="info" %}
 **This year**\
-Rides: 267\
-Time: 110h 37m\
-Distance this year: 1801 km
+Rides: 3\
+Time: 1h 20m\
+Distance this year: 16 km
 
 **All time**\
 Longest ride: 73 km
 
-_(Last updated: 21.11.2021)_
+_(Last updated: 11.01.2022)_
 {% endhint %}
 
 ****

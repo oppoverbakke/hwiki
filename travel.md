@@ -5,9 +5,9 @@
 {% hint style="success" %}
 **Stats:**
 
-Logged: 504
+Logged: 515
 
-_(Last updated: 21.11.2021)_
+_(Last updated: 11.01.2022)_
 {% endhint %}
 
 ## Tellus
@@ -28,8 +28,8 @@ _(Last updated: 21.11.2021)_
 **Stats**
 
 _Countries:_\
-21 of 198 countries visited.\
-10.6% of all countries.
+22 of 198 countries visited.\
+11.1% of all countries.
 
 _Continents:_\
 __Europe: :white\_check\_mark: \
