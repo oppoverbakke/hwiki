@@ -10,11 +10,11 @@
 
 ## Resources
 
-* [UAV Forecast](https://www.uavforecast.com/) - also available as app for [iOS](https://apps.apple.com/us/app/uav-forecast/id1050023752) and [Android](https://play.google.com/store/apps/details?id=com.uavforecast&hl=en_US)
-* [Litchi](https://flylitchi.com/) - autonomous flight app for your DJI drone.💰 
-* [Safetofly](https://www.safetofly.no/) - kart for dronepiloter i Norge. [Mobiltilpasset versjon her](https://www.safetofly.no/mobile).🇳🇴
-* [Luftfartstilsynet flydrone.no](https://flydrone.no/) - registrering, nettkurs, eksamen🇳🇴
-* [Ninox Drone](https://operatorportal.ninoxdrone.no/) - Unmanned Traffic Management \(UTM\) solution for professional drone operators in Norway. 🇳🇴 
+* [UAV Forecast](https://www.uavforecast.com) - also available as app for [iOS](https://apps.apple.com/us/app/uav-forecast/id1050023752) and [Android](https://play.google.com/store/apps/details?id=com.uavforecast\&hl=en\_US)
+* [Litchi](https://flylitchi.com) - autonomous flight app for your DJI drone.:moneybag:&#x20;
+* [Safetofly](https://www.safetofly.no) - kart for dronepiloter i Norge. [Mobiltilpasset versjon her](https://www.safetofly.no/mobile).:flag\_no:
+* [Luftfartstilsynet flydrone.no](https://flydrone.no) - registrering, nettkurs, eksamen:flag\_no:
+* [Ninox Drone](https://operatorportal.ninoxdrone.no) - Unmanned Traffic Management (UTM) solution for professional drone operators in Norway. :flag\_no:&#x20;
 
 ## Related
 
@@ -23,13 +23,11 @@
 ## Stats
 
 {% hint style="info" %}
-Flights: 103  
-Distance: 43,8 km  
-Hours: 10.2
+Flights: 112\
+Distance: 45,5 km\
+Hours: 11.2
 
-_\(Last updated: 29.05.2021\)_
+_(Last updated: 29.01.22)_
 {% endhint %}
 
-  
-
-
+\

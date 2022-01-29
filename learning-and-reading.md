@@ -6,73 +6,72 @@
 
 [Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think](https://www.goodreads.com/book/show/34890015-factfulness)
 
-▓░░░░░░░░░░░░░░░░░░░   Progress: 0 %                \(Updated: 23.07.21\)
+▓▓▓▓░░░░░░░░░░░░░░░░   Progress: 21 %                (Updated: 29.01.22)
 
-[How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
+[How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How\_to\_Win\_Friends\_and\_Influence\_People)
 
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░   Progress: 87 %            \(Updated: 01.08.21\)
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░   Progress: 87 %            (Updated: 29.01.22)
 
 ## Podcasts
 
-*  [Learn anything](https://github.com/learn-anything/podcasts#readme) - curated list of podcasts
+* &#x20;[Learn anything](https://github.com/learn-anything/podcasts#readme) - curated list of podcasts
 
 ### Stats
 
 {% hint style="info" %}
-* 61 podcasts currently subscribed to.
+* 56 podcasts currently subscribed to.
 * Listening since 21.02.2017:
-  * 159 days listened.
-  * 90 days saved _\(using variable speed\)_.
+  * 168 days listened.
+  * 92 days saved _(using variable speed)_.
 
-_\(Last updated  04.10.21\)_
+_(Last updated  29.01.22)_
 {% endhint %}
 
 ## Reading
 
 ### Blogs
 
-* [Stratechery](https://stratechery.com/) - technology analysis.
-* [Marco Arment](https://marco.org/) - technology.
-* [Roy Solberg](https://blog.roysolberg.com/) - technology, security.
+* [Stratechery](https://stratechery.com) - technology analysis.
+* [Marco Arment](https://marco.org) - technology.
+* [Roy Solberg](https://blog.roysolberg.com) - technology, security.
 
-### Norske medier🇳🇴 
+### Norske medier:flag\_no:&#x20;
 
-* [Chaffeys blogg](https://paulchaffey.blogspot.com/) - samfunn, politikk.
-* [Olav Torvund](https://blogg.torvund.net/) - juss, samfunn.
-* [bekkelund.net](https://www.bekkelund.net/) - teknologi, samfunn og politikk.
-* [NRKbeta](https://nrkbeta.no/) - teknologi, media, [personvern](privacy/).
-* [Eivind Berg](https://www.eivindberg.no/) - økonomi, investering og sparing.
-* [Bekkelund](https://www.bekkelund.net/) - teknologi, samfunn.
-* [Eirik Newth](http://newth.net/) - verdensrommet, [Mars](https://www.newth.net/mars/), personlig blogg.
-* [Kode24](https://www.kode24.no/)  - teknologi, programmering.
+* [Chaffeys blogg](https://paulchaffey.blogspot.com) - samfunn, politikk.
+* [Olav Torvund](https://blogg.torvund.net) - juss, samfunn.
+* [bekkelund.net](https://www.bekkelund.net) - teknologi, samfunn og politikk.
+* [NRKbeta](https://nrkbeta.no) - teknologi, media, [personvern](privacy/).
+* [Eivind Berg](https://www.eivindberg.no) - økonomi, investering og sparing.
+* [Bekkelund](https://www.bekkelund.net) - teknologi, samfunn.
+* [Eirik Newth](http://newth.net) - verdensrommet, [Mars](https://www.newth.net/mars/), personlig blogg.
+* [Kode24](https://www.kode24.no)  - teknologi, programmering.
 
 ### Newsletters
 
 * [Pocket Hits](https://getpocket.com/explore/pocket-hits) - personalised recommendations of articles.
-* [hackernewsletter](https://hackernewsletter.com/) - startups, technology, programming, and more.
+* [hackernewsletter](https://hackernewsletter.com) - startups, technology, programming, and more.
 * [Money Stuff](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) - finance, economy.
-* [No Mercy / No Malice](https://www.profgalloway.com/) - tech, digital economy \(Scott Galloway\)
+* [No Mercy / No Malice](https://www.profgalloway.com) - tech, digital economy (Scott Galloway)
 * [DuckDuckGo Privacy Weekly](https://spreadprivacy.com/privacy-weekly-newsletter/) - privacy
 
 ### Books
 
 * [Patrick Collison: Bookshelf](https://patrickcollison.com/bookshelf)
-* [Goodreads](https://www.goodreads.com/) - book recommendations
+* [Goodreads](https://www.goodreads.com) - book recommendations
 
 ## Recommended articles
 
-* \*\*\*\*[Signaling as a Service](https://julian.digital/2020/03/28/signaling-as-a-service/) - signaling to show off and increase our social status.
+* ****[Signaling as a Service](https://julian.digital/2020/03/28/signaling-as-a-service/) - signaling to show off and increase our social status.
 * [Why I’ve tracked every single piece of clothing I’ve worn for three years](https://www.reaktor.com/blog/why-ive-tracked-every-single-piece-of-clothing-ive-worn-for-three-years/) - data about a persons usage of his clothes.
 
 ## Browsing
 
 ### Content aggregators
 
-* [Feedly](https://feedly.com/) - RSS reader.
-* [Feedbin](https://feedbin.com/) - RSS reader.
-* [Hacker News \(Original\)](https://news.ycombinator.com/) and [alternative interface](https://hckrnews.com/) - user submitted content.
-* [Pocket](https://app.getpocket.com/)  - read later and recommendations.
-* [Pocket Casts](https://play.pocketcasts.com/) - podcasts _\(sound\)._
+* [Feedly](https://feedly.com) - RSS reader.
+* [Feedbin](https://feedbin.com) - RSS reader.
+* [Hacker News (Original)](https://news.ycombinator.com) and [alternative interface](https://hckrnews.com) - user submitted content.
+* [Pocket](https://app.getpocket.com)  - read later and recommendations.
+* [Pocket Casts](https://play.pocketcasts.com) - podcasts _(sound)._
 * [FindAReddit](https://www.findareddit.com) _-_ Categorised subreddits.
-* [Kill The Newsletter](https://kill-the-newsletter.com/)
-
+* [Kill The Newsletter](https://kill-the-newsletter.com)
