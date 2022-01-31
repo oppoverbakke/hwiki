@@ -23,13 +23,13 @@
 
 ## Blogs / Media
 
-* [Planet Money](https://www.npr.org/sections/money/) - _\[podcast] _The economy explained.
-* [The Finanser](https://blogg.nordnet.no) -_ \[blog]_ by Chris Skinner.
-* [JL Collins](https://jlcollinsnh.com) -_ \[blog] _The Simple Path to Wealth
-  * _Recommended article: _[_How I failed my daughter and a simple path to wealth_](https://jlcollinsnh.com/2011/06/08/how-i-failed-my-daughter-and-a-simple-path-to-wealth/)__
-* [Of Dollars and Data](https://ofdollarsanddata.com) - _\[blog] _Personal Finance using Data Analysis.
-* [Mr. Money Mustache](https://www.mrmoneymustache.com) - _\[blog] _Financial Freedom Through Badassisty
-* [Money Stuff](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) -_ \[blog] _Matt Levine, Bloomberg Opinion Columnist
+* [Planet Money](https://www.npr.org/sections/money/) - _\[podcast]_ The economy explained.
+* [The Finanser](https://blogg.nordnet.no) - _\[blog]_ by Chris Skinner.
+* [JL Collins](https://jlcollinsnh.com) - _\[blog]_ The Simple Path to Wealth
+  * _Recommended article:_ [_How I failed my daughter and a simple path to wealth_](https://jlcollinsnh.com/2011/06/08/how-i-failed-my-daughter-and-a-simple-path-to-wealth/)__
+* [Of Dollars and Data](https://ofdollarsanddata.com) - _\[blog]_ Personal Finance using Data Analysis.
+* [Mr. Money Mustache](https://www.mrmoneymustache.com) - _\[blog]_ Financial Freedom Through Badassisty
+* [Money Stuff](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) - _\[blog]_ Matt Levine, Bloomberg Opinion Columnist
 * [Bloomberg Wealth](https://www.bloomberg.com/wealth) - \[news] Your guide to a life well spent.
 
 
@@ -37,15 +37,16 @@
 ## Videoes
 
 * [Economics Explained](https://www.youtube.com/channel/UCZ4AMrDcNrfy3X6nsU8-rPg) - Youtube channel explaining econnomic concepts.
-* [The Swedish Investor](https://www.youtube.com/channel/UCAeAB8ABXGoGMbXuYPmiu2A) - _\[YouTube] _Money & investing
-* [How The Economic Machine Works](https://www.youtube.com/watch?v=PHe0bXAIuk0) -_ \[video, 31 min]_ by Ray Dalio
+* [The Swedish Investor](https://www.youtube.com/channel/UCAeAB8ABXGoGMbXuYPmiu2A) - _\[YouTube]_ Money & investing
+* [How The Economic Machine Works](https://www.youtube.com/watch?v=PHe0bXAIuk0) - _\[video, 31 min]_ by Ray Dalio
 * [PolyMatter](https://www.youtube.com/channel/UCgNg3vwj3xt7QOrcIDaHdFg) - Youtube channel.
 * [Wall Street Journal](https://www.youtube.com/channel/UCK7tptUDHh-RYDsdxO1-5QQ) - Youtube channel.
-* [Deja vú all over again: Thinking thorough law & code, again](https://vimeo.com/148665401) - \[video, 53 min] by Lawrance Lessig.
+* [Deja vú all over again: Thinking thorough law & code, again](https://vimeo.com/148665401) - \[video, 53 min] by Lawrance Lessig
+* [The Lemkuhl Lecture 2021: Nicolai Tangen](https://www.youtube.com/watch?v=ggUAisQ5IpM)
 
 ## Books
 
-* [The Intelligent Investor](https://www.goodreads.com/book/show/106835.The\_Intelligent\_Investor) -_ _by Benjamin Graham
+* [The Intelligent Investor](https://www.goodreads.com/book/show/106835.The\_Intelligent\_Investor) - __ by Benjamin Graham
 
 ## Excel / Sheets
 
@@ -75,7 +76,7 @@
 
 ## Norske økonomipodkaster :flag\_no:&#x20;
 
-* [Tid er penger](https://podcasts.apple.com/no/podcast/tid-er-penger-en-podcast-med-peter-warren/id1229260798) -_ _Peter Warren. Forvalter, trader og investor.
+* [Tid er penger](https://podcasts.apple.com/no/podcast/tid-er-penger-en-podcast-med-peter-warren/id1229260798) - __ Peter Warren. Forvalter, trader og investor.
 * [Pengesnakk](https://www.pengesnakk.no)- økonomitips, sparing.
 * [Pengepodden](https://www.nordnet.no/blogg/pengepodden/) - Podcast fra Nordnet.
 * [BYNN](https://bynorthernnorway.com/category/podcast/) - start-ups, companies, people, societies and culture.
@@ -115,7 +116,7 @@
 
 > More fiction has been written in Microsoft Excel than in Microsoft Word. [\[Source\]](https://ofdollarsanddata.com/what-does-the-stock-market-do-around-election-day/)
 
-> Once-in-a-century events happen all the time because lots of unrelated things could go wrong.** **If, in any given year, there’s a 1% chance of a new disastrous pandemic, a 1% chance of a crippling depression, a 1% chance of a catastrophic flood, a 1% chance of political collapse, and on and on, then the odds that _something_ bad will happen next year – or any year – are … _pretty good_. It’s why Arnold Toynbee says history is “just one damn thing after another.” [\[Source\]](https://www.collaborativefund.com/blog/sure/)
+> Once-in-a-century events happen all the time because lots of unrelated things could go wrong. **** If, in any given year, there’s a 1% chance of a new disastrous pandemic, a 1% chance of a crippling depression, a 1% chance of a catastrophic flood, a 1% chance of political collapse, and on and on, then the odds that _something_ bad will happen next year – or any year – are … _pretty good_. It’s why Arnold Toynbee says history is “just one damn thing after another.” [\[Source\]](https://www.collaborativefund.com/blog/sure/)
 
 > "Spend extravagantly on things you love, and cut mercilessly on things you don’t." \
 > \- Ramit Sethi
