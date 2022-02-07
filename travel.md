@@ -60,5 +60,6 @@ Antarctica: :x: \
 * [Mapy.cz](https://en.mapy.cz) - map for hiking and skiing.
 * [Geocaching](https://www.geocaching.com) - outdoor sport activity based on GPS.
 * [Atlas Obscura](https://www.atlasobscura.com) - The definitive guide to the world’s hidden wonders.
+* [Wandrer](https://wandrer.earth) - Explore all roads in an area.
 {% endtab %}
 {% endtabs %}
