@@ -21,4 +21,4 @@
 
 ## Related
 
-* [The Boke of Cokery](https://en.wikipedia.org/wiki/The\_Boke\_of\_Cokery) - first cookery book printed.
+* [The Book of Cokery](https://en.wikipedia.org/wiki/The\_Boke\_of\_Cokery) - first cookery book printed.
