@@ -6,7 +6,7 @@
 
 [Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think](https://www.goodreads.com/book/show/34890015-factfulness)
 
-▓▓▓▓░░░░░░░░░░░░░░░░   Progress: 21 %                (Updated: 29.01.22)
+▓▓▓▓▓░░░░░░░░░░░░░░░   Progress: 29 %                (Updated: 19.03.22)
 
 [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How\_to\_Win\_Friends\_and\_Influence\_People)
 
@@ -21,10 +21,10 @@
 {% hint style="info" %}
 * 56 podcasts currently subscribed to.
 * Listening since 21.02.2017:
-  * 168 days listened.
-  * 92 days saved _(using variable speed)_.
+  * 171 days listened.
+  * 93 days saved _(using variable speed)_.
 
-_(Last updated  29.01.22)_
+_(Last updated  19.03.22)_
 {% endhint %}
 
 ## Reading
