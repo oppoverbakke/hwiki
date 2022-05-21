@@ -34,6 +34,7 @@
 * [Terrengsykkelforumet](https://www.terrengsykkelforumet.no/) - Forum for terreng og landeveisykling
   * [Å sitte riktig - posisjonstråden](https://www.terrengsykkelforumet.no/ubbthreads.php?ubb=showflat\&Number=2552342#Post2552342)
   * [Kjedeolje - hvilken?](https://www.terrengsykkelforumet.no/ubbthreads.php?ubb=showflat\&Number=2412485\&page=1)
+* [Frikart.no ](http://frikart.no) &#x20;
 
 ## Related
 
