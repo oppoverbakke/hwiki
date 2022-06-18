@@ -7,16 +7,17 @@
 * [The basics of portfolio diversification](https://twitter.com/10kdiver/status/1281968727089573889)
 * [Fear & Greed Index](https://money.cnn.com/data/fear-and-greed/) - What emotion is driving the market now?
 * [The Three Sides of Risk](https://www.collaborativefund.com/blog/the-three-sides-of-risk/) \[2020] - article by Morgan Housel.
-* [Item 8](https://item8.neocities.org) - All intelligent investing is value investing.
-* [Enombic](https://enombic.com) - Design and invest in custom indexes with friends. Optimize your portfolio like it were code.
+* [Item 8](https://item8.neocities.org/) - All intelligent investing is value investing.
+* [Enombic](https://enombic.com/) - Design and invest in custom indexes with friends. Optimize your portfolio like it were code.
 * [Personal Finance Flowchart](https://ukpersonal.finance/flowchart/) - Made for UK, but also relevant for other countries
 
 ## Tools
 
-* [Global Rich List](http://www.globalrichlist.com) - See how you rank globally.
+* [Global Rich List](http://www.globalrichlist.com/) - See how you rank globally.
 * [Overview of many calculators](https://jlcollinsnh.com/calculators/) - by JL Collins.
-* [Utleiekalkulatoren](http://utleiekalkulatoren.trifektum.no) - :flag\_no:Kalkulator for å beregne inntjening på potensielle kjøp av utleieobjekt.
-* [Koyfin](https://www.koyfin.com) - financial data and analytics platform.
+* [Utleiekalkulatoren](http://utleiekalkulatoren.trifektum.no/) - :flag\_no:Kalkulator for å beregne inntjening på potensielle kjøp av utleieobjekt.
+* [Koyfin](https://www.koyfin.com/) - financial data and analytics platform.
+* [Simulated Central Bank](https://benoitessiambre.com/macro.html) - maximize economic potential by putting the right amount of money in circulation.
 
 ## Insurance
 
@@ -25,11 +26,11 @@
 ## Blogs / Media
 
 * [Planet Money](https://www.npr.org/sections/money/) - _\[podcast]_ The economy explained.
-* [The Finanser](https://blogg.nordnet.no) - _\[blog]_ by Chris Skinner.
-* [JL Collins](https://jlcollinsnh.com) - _\[blog]_ The Simple Path to Wealth
+* [The Finanser](https://blogg.nordnet.no/) - _\[blog]_ by Chris Skinner.
+* [JL Collins](https://jlcollinsnh.com/) - _\[blog]_ The Simple Path to Wealth
   * _Recommended article:_ [_How I failed my daughter and a simple path to wealth_](https://jlcollinsnh.com/2011/06/08/how-i-failed-my-daughter-and-a-simple-path-to-wealth/)__
-* [Of Dollars and Data](https://ofdollarsanddata.com) - _\[blog]_ Personal Finance using Data Analysis.
-* [Mr. Money Mustache](https://www.mrmoneymustache.com) - _\[blog]_ Financial Freedom Through Badassisty
+* [Of Dollars and Data](https://ofdollarsanddata.com/) - _\[blog]_ Personal Finance using Data Analysis.
+* [Mr. Money Mustache](https://www.mrmoneymustache.com/) - _\[blog]_ Financial Freedom Through Badassisty
 * [Money Stuff](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) - _\[blog]_ Matt Levine, Bloomberg Opinion Columnist
 * [Bloomberg Wealth](https://www.bloomberg.com/wealth) - \[news] Your guide to a life well spent.
 
@@ -53,23 +54,23 @@
 
 * [Function: Sparkline](https://support.google.com/docs/answer/3093289?hl=en\&ref\_topic=3105411) - Creates a miniature chart contained within a single cell.
 * [Function: GOOGLEFINANCE](https://support.google.com/docs/answer/3093281?hl=en) - Fetches current or historical securities information from Google Finance.
-* [Vertex42](https://www.vertex42.com) - The guide to excel in everything.
+* [Vertex42](https://www.vertex42.com/) - The guide to excel in everything.
 * [Personalfinance / tools](https://www.reddit.com/r/personalfinance/wiki/tools) - Spreadsheets templates and other finance tools.
 * [The Office Lab](https://www.youtube.com/channel/UCKsfJnvC-HCoEQEEIKZIzQQ) - Youtube channel
-* [Excel Guru](https://www.excelguru.no) :flag\_no:&#x20;
+* [Excel Guru](https://www.excelguru.no/) :flag\_no:&#x20;
 * [How to create a hex tile grid map in excel](https://simplexct.com/how-to-create-a-hex-tile-grid-map-in-excel)
 
 ## Norske blogger :flag\_no:&#x20;
 
-* [Eivind Berg](https://www.eivindberg.no) - økonomi, investering og sparing.&#x20;
-* [Nordnetbloggen](https://blogg.nordnet.no) - En blogg om sparing, investering og finans.
-* [Finansnerden](https://www.finansnerden.no) - Jakten på økonomisk frihet.
-* [Formuebygging](https://www.formuebygging.com) - Fondssparing og Privatøkonomi.
-* [Pengebingen](https://pengebingen.blogspot.com) - Snusfornuftige privatøkonomiske betraktnigner.
-* [Pengeblogg](https://pengeblogg.bloggnorge.com) - Blogg om personlig økonomi.
-* [Pengeverkstedet](https://pengeverkstedet.no) - Sparing, privatøkonomi. Hallgeir Kvadsheim.
-* [Peter Warrens finansblogg](http://www.peterwarren.no) - Blogg fra Peter Warren.
-  * [Tid er penger](https://www.tiderpenger.no) - nettside for podcasten, samt blogg fra Peter Warren og annet innhold.
+* [Eivind Berg](https://www.eivindberg.no/) - økonomi, investering og sparing.&#x20;
+* [Nordnetbloggen](https://blogg.nordnet.no/) - En blogg om sparing, investering og finans.
+* [Finansnerden](https://www.finansnerden.no/) - Jakten på økonomisk frihet.
+* [Formuebygging](https://www.formuebygging.com/) - Fondssparing og Privatøkonomi.
+* [Pengebingen](https://pengebingen.blogspot.com/) - Snusfornuftige privatøkonomiske betraktnigner.
+* [Pengeblogg](https://pengeblogg.bloggnorge.com/) - Blogg om personlig økonomi.
+* [Pengeverkstedet](https://pengeverkstedet.no/) - Sparing, privatøkonomi. Hallgeir Kvadsheim.
+* [Peter Warrens finansblogg](http://www.peterwarren.no/) - Blogg fra Peter Warren.
+  * [Tid er penger](https://www.tiderpenger.no/) - nettside for podcasten, samt blogg fra Peter Warren og annet innhold.
     * Se herunder "[Finansopedia](https://www.tiderpenger.no/finansopedia/)".
 * [Jan Ludvig Andreassen](https://jansblogg.eika.no) - Blogg fra Jan / Eika
 * [Bankplassen - Norges Bank](https://bankplassen.norges-bank.no) - fagblogg av ansatte i Norges Bank

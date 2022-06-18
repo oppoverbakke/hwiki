@@ -1,13 +1,23 @@
 # Exploring
 
+## All roads project
+
+Goal to explore all roads in Oslo.
+
+▓▓░░░░░░░░░░░░░░░░░░   Progress: 11.04%
+
+**555.6** unique Oslo kilometers (out of **5031.1** total kilometers).
+
+Tracked with [wandrer.earth](https://wandrer.earth/).
+
 ## Geocaching
 
 {% hint style="success" %}
 **Stats:**
 
-Logged: 536
+Logged: 552
 
-_(Last updated: 10.04.2022)_
+_(Last updated: 18.06.2022)_
 {% endhint %}
 
 ## Tellus
@@ -28,8 +38,8 @@ _(Last updated: 10.04.2022)_
 **Stats**
 
 _Countries:_\
-22 of 198 countries visited.\
-11.1% of all countries.
+23 of 198 countries visited.\
+11.6% of all countries.&#x20;
 
 _Continents:_\
 __Europe: :white\_check\_mark: \
@@ -46,20 +56,20 @@ Antarctica: :x: \
 
 {% tabs %}
 {% tab title="Norwegian" %}
-* [UT.no](https://ut.no) - Turforslag.
+* [UT.no](https://ut.no/) - Turforslag.
 * [Bratt](https://itunes.apple.com/no/app/bratt/id1121510874) - App som indikerer grafisk på kart hvor bratt terrenget er.
-* [Lommekjent](http://www.lommekjent.no) - Turforslag.
+* [Lommekjent](http://www.lommekjent.no/) - Turforslag.
 * [iSikte Norge](http://appbibliotek.no/isikte-norge/) - Utvidet virkelighet (AR) for å visualisere stedsnavn, f.eks. fjelltopper.
 * [Varsom Regobs](https://www.varsom.no/en/news/download-the-varsom-regobs-app/) - Logg snøskred og værforhold.
 * [Friluftskurs](https://www.dnt.no/digitale-friluftskurs-/) - fra DNT.
-* [Trailguide](https://trailguide.net) - kart for terrengsykling
+* [Trailguide](https://trailguide.net/) - kart for terrengsykling
 * [Pakking av ryggsekk](https://www.youtube.com/watch?v=JlhuiVsAEU0) \[Youtube, 16:06] - Ville Gleder
 {% endtab %}
 
 {% tab title="International" %}
 * [Mapy.cz](https://en.mapy.cz) - map for hiking and skiing.
 * [Geocaching](https://www.geocaching.com) - outdoor sport activity based on GPS.
-* [Atlas Obscura](https://www.atlasobscura.com) - The definitive guide to the world’s hidden wonders.
+* [Atlas Obscura](https://www.atlasobscura.com/) - The definitive guide to the world’s hidden wonders.
 * [Wandrer](https://wandrer.earth) - Explore all roads in an area.
 {% endtab %}
 {% endtabs %}
