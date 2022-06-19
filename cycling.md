@@ -39,6 +39,7 @@
 ## Related
 
 * [Long Tiny Loop](https://longtinyloop.com/) - traverse the longest possible non-self-intersecting loop within the smallest possible region.
+* [How to Not Get Hit by Cars](https://bicyclesafe.com/)
 
 ## Stats:
 
