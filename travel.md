@@ -4,9 +4,9 @@
 
 Goal to explore all roads in Oslo.
 
-▓▓░░░░░░░░░░░░░░░░░░   Progress: 11.04%
+▓▓░░░░░░░░░░░░░░░░░░   Progress: 11.51%
 
-**555.6** unique Oslo kilometers (out of **5031.1** total kilometers).
+**579.4** unique Oslo kilometers (out of **5031.1** total kilometers).
 
 Tracked with [wandrer.earth](https://wandrer.earth/).
 
@@ -38,8 +38,8 @@ _(Last updated: 18.06.2022)_
 **Stats**
 
 _Countries:_\
-23 of 198 countries visited.\
-11.6% of all countries.&#x20;
+20 of 197 countries visited.\
+10.15% of all countries.&#x20;
 
 _Continents:_\
 __Europe: :white\_check\_mark: \
