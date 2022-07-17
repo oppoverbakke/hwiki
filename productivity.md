@@ -24,6 +24,7 @@
 * [The Remote Manifesto](https://about.gitlab.com/company/culture/all-remote/guide/) -  GitLab's Guide to All-Remote
 * [Business Model Canvas](https://en.wikipedia.org/wiki/Business\_Model\_Canvas) - Template used for developing new business models and documenting existing ones.
 * [The Manager's Handbook](https://themanagershandbook.com/)
+* [How to profesionally say](https://howtoprofessionallysay.akashrajpurohit.com/)
 
 ## Office
 
