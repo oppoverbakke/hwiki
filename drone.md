@@ -28,11 +28,11 @@
 ## Stats
 
 {% hint style="info" %}
-Flights: 120\
-Distance: 49,7 km\
-Hours: 12.2
+Flights: 129\
+Distance: 54,2 km\
+Hours: 14.3
 
-_(Last updated: 17.07.22)_
+_(Last updated: 07.09.22)_
 {% endhint %}
 
 \

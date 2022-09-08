@@ -1,7 +1,7 @@
 # Photography
 
 {% hint style="info" %}
-View my photos: [https://foto.bakke.be](https://foto.bakke.be)
+View my photos: [https://foto.bakke.be](https://foto.bakke.be/)
 {% endhint %}
 
 ## Gear
@@ -18,7 +18,7 @@ View my photos: [https://foto.bakke.be](https://foto.bakke.be)
 
 | Name                                                                                                   | Description                                                 |
 | ------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------- |
-| [Loupedeck+](https://loupedeck.com)                                                                    | Editing keyboard for Lightroom (and other editing software) |
+| [Loupedeck+](https://loupedeck.com/)                                                                   | Editing keyboard for Lightroom (and other editing software) |
 | [Everyday Backpack (20L)](https://www.peakdesign.com/products/everyday-backpack?variant=9783969284140) | Backpack (Peak Design)                                      |
 | [Travel Backpack (45L)](https://www.peakdesign.com/products/travel-backpack/)                          | Backpack (Peak Design)                                      |
 | [Cube Pack (21L)](https://www.nomatic.com/products/cube-pack)                                          | Camera cube with integrated backpack (Nomatic)              |
@@ -49,7 +49,7 @@ View my photos: [https://foto.bakke.be](https://foto.bakke.be)
 ## Stats
 
 {% hint style="info" %}
-All photographs _(in Lightroom catalog):_ 58777
+All photographs _(in Lightroom catalog):_ 65982
 
-_(Last updated: 15.05.21)_
+_(Last updated: 07.09.22)_
 {% endhint %}
