@@ -6,13 +6,13 @@ View my photos: [https://foto.bakke.be](https://foto.bakke.be/)
 
 ## Gear
 
-| Camera                                                                                                                          | Lenses / _Comments_                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| [Olympus OM-D E-M 5 Mk II](https://www.olympus.co.uk/site/en/c/cameras/om\_d\_system\_cameras/om\_d/e\_m5\_mark\_ii/index.html) | <p><em>Micro Four Thirds-system</em></p><p>Panasonic 25 mm f/1.7</p><p>Olympus 75 mm f/1.8</p><p>Olympus 60 mm f/2.8</p> |
-| [Nikon D300](https://www.dpreview.com/reviews/nikond300)                                                                        | <p><em>DSLR-system</em></p><p>Nikkor 18-70 mm</p><p>Nikkor 50 mm f/1.8</p>                                               |
-| [Nikon W300](https://www.nikon.co.uk/en\_GB/product/digital-cameras/coolpix/waterproof-shockproof/coolpix-w300-orange)          | _Waterproof compact camera_                                                                                              |
-| [Polaroid Z340](https://www.amazon.com/Polaroid-Instant-Digital-Printing-Technology/dp/B005O08KH6)                              | _Digital Polaroid camera_                                                                                                |
-| [DJI Mavic Mini](https://www.dji.com/no/mavic-mini)                                                                             | __[_Drone_](drone.md)__                                                                                                  |
+| Camera                                                                                                                          | Lenses / _Comments_                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Olympus OM-D E-M 5 Mk II](https://www.olympus.co.uk/site/en/c/cameras/om\_d\_system\_cameras/om\_d/e\_m5\_mark\_ii/index.html) | <p><em>Micro Four Thirds-system</em></p><p>Olympus 14-42 mm f/3.5-5.6</p><p>Panasonic 25 mm f/1.7</p><p>Olympus 75 mm f/1.8</p><p>Olympus 60 mm f/2.8</p> |
+| [Nikon D300](https://www.dpreview.com/reviews/nikond300)                                                                        | <p><em>DSLR-system</em></p><p>Nikkor 18-70 mm</p><p>Nikkor 50 mm f/1.8</p>                                                                                |
+| [Nikon W300](https://www.nikon.co.uk/en\_GB/product/digital-cameras/coolpix/waterproof-shockproof/coolpix-w300-orange)          | _Waterproof compact camera_                                                                                                                               |
+| [Polaroid Z340](https://www.amazon.com/Polaroid-Instant-Digital-Printing-Technology/dp/B005O08KH6)                              | _Digital Polaroid camera_                                                                                                                                 |
+| [_Drone_](drone.md)__                                                                                                           |                                                                                                                                                           |
 
 ## Accessories
 
