@@ -3,6 +3,7 @@
 ## Investing
 
 * [Bogleheads (forum)](https://www.bogleheads.org/forum/index.php) - Investing advice inspired by John Bogle.
+  * [Investing start-up kit for non-US investors](https://www.bogleheads.org/wiki/Bogleheads%C2%AE\_investing\_start-up\_kit\_for\_non-US\_investors)
 * [Stock Series](https://jlcollinsnh.com/stock-series/) - Investing in stocks (_JL Collins_).
 * [The basics of portfolio diversification](https://twitter.com/10kdiver/status/1281968727089573889)
 * [Fear & Greed Index](https://money.cnn.com/data/fear-and-greed/) - What emotion is driving the market now?
@@ -18,6 +19,7 @@
 * [Utleiekalkulatoren](http://utleiekalkulatoren.trifektum.no/) - :flag\_no:Kalkulator for å beregne inntjening på potensielle kjøp av utleieobjekt.
 * [Koyfin](https://www.koyfin.com/) - financial data and analytics platform.
 * [Simulated Central Bank](https://benoitessiambre.com/macro.html) - maximize economic potential by putting the right amount of money in circulation.
+* [Morningstar: Instant X-ray](https://tools.morningstar.no/no/xray/editholdings.aspx?LanguageId=nb-NO\&values=) -&#x20;
 
 ## Insurance
 
