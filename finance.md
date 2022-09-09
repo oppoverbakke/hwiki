@@ -20,6 +20,7 @@
 * [Koyfin](https://www.koyfin.com/) - financial data and analytics platform.
 * [Simulated Central Bank](https://benoitessiambre.com/macro.html) - maximize economic potential by putting the right amount of money in circulation.
 * [Morningstar: Instant X-ray](https://tools.morningstar.no/no/xray/editholdings.aspx?LanguageId=nb-NO\&values=)
+* [OpenBB](https://www.openbb.co/) - open-source investment research platform.
 
 ## Insurance
 
