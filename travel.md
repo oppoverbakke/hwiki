@@ -15,9 +15,9 @@ Tracked with [wandrer.earth](https://wandrer.earth/).
 {% hint style="success" %}
 **Stats:**
 
-Logged: 580
+Logged: 596
 
-_(Last updated: 07.09.2022)_
+_(Last updated: 30.09.2022)_
 {% endhint %}
 
 ## Tellus

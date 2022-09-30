@@ -6,11 +6,15 @@
 
 [Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think](https://www.goodreads.com/book/show/34890015-factfulness)
 
-▓▓▓▓▓░░░░░░░░░░░░░░░   Progress: 29 %                (Updated: 19.03.22)
+▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░   Progress: 59 %                (Updated: 30.09.22)
 
 [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How\_to\_Win\_Friends\_and\_Influence\_People)
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░   Progress: 87 %            (Updated: 29.01.22)
+
+Why we sleep
+
+▓▓░░░░░░░░░░░░░░░░░░   Progress: 12 %            (Updated: 30.09.22)
 
 ## Podcasts
 
@@ -19,45 +23,45 @@
 ### Stats
 
 {% hint style="info" %}
-* 56 podcasts currently subscribed to.
+* 55 podcasts currently subscribed to.
 * Listening since 21.02.2017:
-  * 171 days listened.
-  * 93 days saved _(using variable speed)_.
+  * 183 days listened.
+  * 97 days saved _(using variable speed)_.
 
-_(Last updated  19.03.22)_
+_(Last updated  30.09.22)_
 {% endhint %}
 
 ## Reading
 
 ### Blogs
 
-* [Stratechery](https://stratechery.com) - technology analysis.
-* [Marco Arment](https://marco.org) - technology.
-* [Roy Solberg](https://blog.roysolberg.com) - technology, security.
+* [Stratechery](https://stratechery.com/) - technology analysis.
+* [Marco Arment](https://marco.org/) - technology.
+* [Roy Solberg](https://blog.roysolberg.com/) - technology, security.
 
 ### Norske medier:flag\_no:&#x20;
 
-* [Chaffeys blogg](https://paulchaffey.blogspot.com) - samfunn, politikk.
-* [Olav Torvund](https://blogg.torvund.net) - juss, samfunn.
-* [bekkelund.net](https://www.bekkelund.net) - teknologi, samfunn og politikk.
-* [NRKbeta](https://nrkbeta.no) - teknologi, media, [personvern](privacy/).
-* [Eivind Berg](https://www.eivindberg.no) - økonomi, investering og sparing.
-* [Bekkelund](https://www.bekkelund.net) - teknologi, samfunn.
-* [Eirik Newth](http://newth.net) - verdensrommet, [Mars](https://www.newth.net/mars/), personlig blogg.
-* [Kode24](https://www.kode24.no)  - teknologi, programmering.
+* [Chaffeys blogg](https://paulchaffey.blogspot.com/) - samfunn, politikk.
+* [Olav Torvund](https://blogg.torvund.net/) - juss, samfunn.
+* [bekkelund.net](https://www.bekkelund.net/) - teknologi, samfunn og politikk.
+* [NRKbeta](https://nrkbeta.no/) - teknologi, media, [personvern](privacy/).
+* [Eivind Berg](https://www.eivindberg.no/) - økonomi, investering og sparing.
+* [Bekkelund](https://www.bekkelund.net/) - teknologi, samfunn.
+* [Eirik Newth](http://newth.net/) - verdensrommet, [Mars](https://www.newth.net/mars/), personlig blogg.
+* [Kode24](https://www.kode24.no/)  - teknologi, programmering.
 
 ### Newsletters
 
 * [Pocket Hits](https://getpocket.com/explore/pocket-hits) - personalised recommendations of articles.
-* [hackernewsletter](https://hackernewsletter.com) - startups, technology, programming, and more.
+* [hackernewsletter](https://hackernewsletter.com/) - startups, technology, programming, and more.
 * [Money Stuff](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) - finance, economy.
-* [No Mercy / No Malice](https://www.profgalloway.com) - tech, digital economy (Scott Galloway)
+* [No Mercy / No Malice](https://www.profgalloway.com/) - tech, digital economy (Scott Galloway)
 * [DuckDuckGo Privacy Weekly](https://spreadprivacy.com/privacy-weekly-newsletter/) - privacy
 
 ### Books
 
 * [Patrick Collison: Bookshelf](https://patrickcollison.com/bookshelf)
-* [Goodreads](https://www.goodreads.com) - book recommendations
+* [Goodreads](https://www.goodreads.com/) - book recommendations
 
 ## Recommended articles
 
@@ -68,10 +72,10 @@ _(Last updated  19.03.22)_
 
 ### Content aggregators
 
-* [Feedly](https://feedly.com) - RSS reader.
-* [Feedbin](https://feedbin.com) - RSS reader.
-* [Hacker News (Original)](https://news.ycombinator.com) and [alternative interface](https://hckrnews.com) - user submitted content.
-* [Pocket](https://app.getpocket.com)  - read later and recommendations.
-* [Pocket Casts](https://play.pocketcasts.com) - podcasts _(sound)._
+* [Feedly](https://feedly.com/) - RSS reader.
+* [Feedbin](https://feedbin.com/) - RSS reader.
+* [Hacker News (Original)](https://news.ycombinator.com/) and [alternative interface](https://hckrnews.com/) - user submitted content.
+* [Pocket](https://app.getpocket.com/)  - read later and recommendations.
+* [Pocket Casts](https://play.pocketcasts.com/) - podcasts _(sound)._
 * [FindAReddit](https://www.findareddit.com) _-_ Categorised subreddits.
-* [Kill The Newsletter](https://kill-the-newsletter.com)
+* [Kill The Newsletter](https://kill-the-newsletter.com/)
