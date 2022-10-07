@@ -23,3 +23,4 @@
 ## Fun
 
 * [Extreme ironing](https://en.wikipedia.org/wiki/Extreme\_ironing)
+* [Good Old Games](https://www.gog.com/en/good-old-games) - classic games.
