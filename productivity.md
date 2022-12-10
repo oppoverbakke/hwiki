@@ -10,9 +10,8 @@
 
 * [Notion](https://notion.so/) - workspace for your notes, tasks, wikis, and databases.
 * aText
-* Alfred
-* Flux
 * 1Password
+* Bartender
 
 ## Work
 

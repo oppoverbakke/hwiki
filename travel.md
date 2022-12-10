@@ -4,9 +4,9 @@
 
 Goal to explore all roads in Oslo.
 
-▓▓░░░░░░░░░░░░░░░░░░   Progress: 13.78%
+▓▓░░░░░░░░░░░░░░░░░░   Progress: 15.79%
 
-**693.6** unique Oslo kilometers (out of **5031.1** total kilometers).
+**794.4** unique Oslo kilometers (out of **5031.1** total kilometers).
 
 Tracked with [wandrer.earth](https://wandrer.earth/).
 
@@ -15,9 +15,9 @@ Tracked with [wandrer.earth](https://wandrer.earth/).
 {% hint style="success" %}
 **Stats:**
 
-Logged: 596
+Logged: 612
 
-_(Last updated: 30.09.2022)_
+_(Last updated: 10.12.2022)_
 {% endhint %}
 
 ## Tellus
@@ -64,6 +64,7 @@ Antarctica: :x: \
 * [Friluftskurs](https://www.dnt.no/digitale-friluftskurs-/) - fra DNT.
 * [Trailguide](https://trailguide.net/) - kart for terrengsykling
 * [Pakking av ryggsekk](https://www.youtube.com/watch?v=JlhuiVsAEU0) \[Youtube, 16:06] - Ville Gleder
+* [Iskart](https://iskart.no/)
 {% endtab %}
 
 {% tab title="International" %}

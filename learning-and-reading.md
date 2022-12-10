@@ -4,10 +4,6 @@
 
 **Currently reading:**
 
-[Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think](https://www.goodreads.com/book/show/34890015-factfulness)
-
-▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░   Progress: 59 %                (Updated: 30.09.22)
-
 [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How\_to\_Win\_Friends\_and\_Influence\_People)
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░   Progress: 87 %            (Updated: 29.01.22)
