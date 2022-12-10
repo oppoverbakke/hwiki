@@ -64,7 +64,6 @@ Antarctica: :x: \
 * [Friluftskurs](https://www.dnt.no/digitale-friluftskurs-/) - fra DNT.
 * [Trailguide](https://trailguide.net/) - kart for terrengsykling
 * [Pakking av ryggsekk](https://www.youtube.com/watch?v=JlhuiVsAEU0) \[Youtube, 16:06] - Ville Gleder
-* [Iskart](https://iskart.no/)
 {% endtab %}
 
 {% tab title="International" %}
