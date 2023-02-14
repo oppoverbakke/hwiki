@@ -10,7 +10,7 @@
 
 Why we sleep
 
-▓▓░░░░░░░░░░░░░░░░░░   Progress: 12 %            (Updated: 30.09.22)
+▓▓░░░░░░░░░░░░░░░░░░   Progress: 14 %            (Updated: 21.01.23)
 
 ## Podcasts
 
@@ -21,10 +21,10 @@ Why we sleep
 {% hint style="info" %}
 * 55 podcasts currently subscribed to.
 * Listening since 21.02.2017:
-  * 183 days listened.
-  * 97 days saved _(using variable speed)_.
+  * 192 days listened.
+  * 99 days saved _(using variable speed)_.
 
-_(Last updated  30.09.22)_
+_(Last updated  21.01.23)_
 {% endhint %}
 
 ## Reading
@@ -39,7 +39,6 @@ _(Last updated  30.09.22)_
 
 * [Chaffeys blogg](https://paulchaffey.blogspot.com/) - samfunn, politikk.
 * [Olav Torvund](https://blogg.torvund.net/) - juss, samfunn.
-* [bekkelund.net](https://www.bekkelund.net/) - teknologi, samfunn og politikk.
 * [NRKbeta](https://nrkbeta.no/) - teknologi, media, [personvern](privacy/).
 * [Eivind Berg](https://www.eivindberg.no/) - økonomi, investering og sparing.
 * [Bekkelund](https://www.bekkelund.net/) - teknologi, samfunn.
@@ -63,6 +62,7 @@ _(Last updated  30.09.22)_
 
 * ****[Signaling as a Service](https://julian.digital/2020/03/28/signaling-as-a-service/) - signaling to show off and increase our social status.
 * [Why I’ve tracked every single piece of clothing I’ve worn for three years](https://www.reaktor.com/blog/why-ive-tracked-every-single-piece-of-clothing-ive-worn-for-three-years/) - data about a persons usage of his clothes.
+* [Why are there so many tech layoffs, and why should we be worried?](https://news.stanford.edu/2022/12/05/explains-recent-tech-layoffs-worried/) - Stanford Graduate School of Business Professor Jeffrey Pfeffer
 
 ## Browsing
 

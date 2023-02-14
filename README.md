@@ -1,15 +1,10 @@
 # Introduction
 
-**Welcome** to my personal wiki. 
+**Welcome** to my personal wiki.&#x20;
 
 I use this site to organise and track my interests.
 
-**Defintions:**
-
-* 🇳🇴   -   Norwegian content
-* 💰   -   Paid content
-
-## 
+## Interests
 
 * [Photography](photography.md) and [drones](drone.md)
 * [Cycling](cycling.md)
@@ -27,7 +22,5 @@ I use this site to organise and track my interests.
 
 Great, I would really appreciate if you added the issue [here](https://github.com/bakke92/hwiki/issues) so I can fix it.
 
-## 
-
-
+##
 
