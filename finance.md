@@ -11,6 +11,7 @@
 * [Item 8](https://item8.neocities.org/) - All intelligent investing is value investing.
 * [Enombic](https://enombic.com/) - Design and invest in custom indexes with friends. Optimize your portfolio like it were code.
 * [Personal Finance Flowchart](https://ukpersonal.finance/flowchart/) - Made for UK, but also relevant for other countries
+* [Things important, and unimportant](https://jlcollinsnh.com/2023/02/28/things-important-and-unimportant/) \[2023] - (_JL Collins_)
 
 ## Tools
 

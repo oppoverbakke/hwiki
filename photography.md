@@ -25,7 +25,7 @@ View my photos: [https://foto.bakke.be](https://foto.bakke.be/)
 | [Leash](https://www.peakdesign.com/products/leash)                                                     | Quick-connecting camera strap (Peak Design)                 |
 | [Capture](https://www.peakdesign.com/products/capture/)                                                | Clips the camera to the backpack (Peak Design)              |
 | [MeFoto Backpacker](https://www.mefoto.com/products/backpacker-classic)                                | Travel tripod.                                              |
-| [Samsung T5 SSD 1 TB](https://www.samsung.com/semiconductor/minisite/ssd/product/portable/t5/)         | External SSD for main storage.                              |
+| [Samsung T5 SSD 1 TB](https://www.samsung.com/semiconductor/minisite/ssd/product/portable/t5/)         | External SSD for storage.                                   |
 
 ## Related
 
