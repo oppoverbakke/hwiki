@@ -10,6 +10,7 @@
 * [Submarine cables](https://globe.gl/example/submarine-cables/)
 * [Short URLs](https://sive.rs/su)
 * [Apollo in real time](https://apolloinrealtime.org/)
+* [Wikienigma](https://wikenigma.org/start) - Known unknowns
 
 ## Science & tech
 
