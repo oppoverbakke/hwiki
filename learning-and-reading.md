@@ -6,11 +6,11 @@
 
 [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How\_to\_Win\_Friends\_and\_Influence\_People)
 
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░   Progress: 87 %            (Updated: 29.01.22)
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░   Progress: 87 %            (Updated: 24.04.23)
 
 Why we sleep
 
-▓▓░░░░░░░░░░░░░░░░░░   Progress: 14 %            (Updated: 21.01.23)
+▓▓▓▓▓▓░░░░░░░░░░░░░░   Progress: 32 %            (Updated: 24.04.23)
 
 ## Podcasts
 
@@ -19,12 +19,12 @@ Why we sleep
 ### Stats
 
 {% hint style="info" %}
-* 55 podcasts currently subscribed to.
+* 58 podcasts currently subscribed to.
 * Listening since 21.02.2017:
-  * 192 days listened.
-  * 99 days saved _(using variable speed)_.
+  * 198 days listened.
+  * 101 days saved _(using variable speed)_.
 
-_(Last updated  21.01.23)_
+_(Last updated  24.04.2023)_
 {% endhint %}
 
 ## Reading
@@ -60,7 +60,7 @@ _(Last updated  21.01.23)_
 
 ## Recommended articles
 
-* ****[Signaling as a Service](https://julian.digital/2020/03/28/signaling-as-a-service/) - signaling to show off and increase our social status.
+* [Signaling as a Service](https://julian.digital/2020/03/28/signaling-as-a-service/) - signaling to show off and increase our social status.
 * [Why I’ve tracked every single piece of clothing I’ve worn for three years](https://www.reaktor.com/blog/why-ive-tracked-every-single-piece-of-clothing-ive-worn-for-three-years/) - data about a persons usage of his clothes.
 * [Why are there so many tech layoffs, and why should we be worried?](https://news.stanford.edu/2022/12/05/explains-recent-tech-layoffs-worried/) - Stanford Graduate School of Business Professor Jeffrey Pfeffer
 
