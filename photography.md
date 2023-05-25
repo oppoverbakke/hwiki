@@ -12,7 +12,7 @@ View my photos: [https://foto.bakke.be](https://foto.bakke.be/)
 | [Nikon D300](https://www.dpreview.com/reviews/nikond300)                                                                        | <p><em>DSLR-system</em></p><p>Nikkor 18-70 mm</p><p>Nikkor 50 mm f/1.8</p>                                                                                |
 | [Nikon W300](https://www.nikon.co.uk/en\_GB/product/digital-cameras/coolpix/waterproof-shockproof/coolpix-w300-orange)          | _Waterproof compact camera_                                                                                                                               |
 | [Polaroid Z340](https://www.amazon.com/Polaroid-Instant-Digital-Printing-Technology/dp/B005O08KH6)                              | _Digital Polaroid camera_                                                                                                                                 |
-| [_Drone_](drone.md)__                                                                                                           |                                                                                                                                                           |
+| [_Drone_](drone.md)                                                                                                             |                                                                                                                                                           |
 
 ## Accessories
 
@@ -49,7 +49,7 @@ View my photos: [https://foto.bakke.be](https://foto.bakke.be/)
 ## Stats
 
 {% hint style="info" %}
-All photographs _(in Lightroom catalog):_ 67734
+All photographs _(in Lightroom catalog):_ 69580
 
-_(Last updated: 10.12.22)_
+_(Last updated: 25.05.23)_
 {% endhint %}
