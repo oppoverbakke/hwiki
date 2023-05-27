@@ -35,4 +35,5 @@
 ## Communities
 
 * [Less Cars, More Money: My Visit to the City of the Future](https://www.mrmoneymustache.com/2023/04/07/car-free-cities/)
-* [Serenbe](https://www.serenbe.com/about) - biophilic community
+* [Serenbe](https://www.serenbe.com/about) - biophilic community.
+* [QUQUQ](https://ququq.info/usa/) - mini mobile home in a box.
