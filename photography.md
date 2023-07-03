@@ -34,6 +34,7 @@ View my photos: [https://foto.bakke.be](https://foto.bakke.be/)
 * [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/) - Ultimately, it is the only thing we see.
 * [How do I safely store my files?](https://photostructure.com/faq/how-do-i-safely-store-files/) \[2020]
 * [Spredsheet Converter](https://makeanddo4d.com/spreadsheet/) - Turn a digital photo into an Excel spreadsheet.
+* [Post Processing](https://bythom.com/technique/bythom-101/post-processing-qad.html)
 
 ## Media
 
