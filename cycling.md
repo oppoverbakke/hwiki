@@ -4,6 +4,8 @@
 
 * [Wandrer](https://wandrer.earth) - Explore all roads in an area.
 * [OpenCycle](https://www.opencyclemap.org/) - open source map for cycling.
+* [Map of Norwegian tunnels](https://www.cycletourer.co.uk/maps/tunnelmap.shtml)
+* [SykkelNorge](https://sykkelnorge.no/) :flag\_no:
 
 ## Resources
 
