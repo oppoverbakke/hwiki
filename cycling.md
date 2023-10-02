@@ -6,6 +6,7 @@
 * [OpenCycle](https://www.opencyclemap.org/) - open source map for cycling.
 * [Map of Norwegian tunnels](https://www.cycletourer.co.uk/maps/tunnelmap.shtml)
 * [SykkelNorge](https://sykkelnorge.no/) :flag\_no:
+* [Sherpa Map](https://sherpa-map.com/)
 
 ## Resources
 
@@ -41,13 +42,13 @@
 
 {% hint style="info" %}
 **This year**\
-Rides: 106\
-Time: 75h 45m\
-Distance this year: 1229 km
+Rides: 185\
+Time: 127h 16m\
+Distance this year: 1997 km
 
 **All time**\
 Longest ride: 115 km
 
-_(Last updated: 26.07.2023)_
+_(Last updated: 01.10.2023)_
 {% endhint %}
 
