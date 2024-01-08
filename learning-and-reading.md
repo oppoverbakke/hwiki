@@ -4,10 +4,6 @@
 
 **Currently reading:**
 
-[How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How\_to\_Win\_Friends\_and\_Influence\_People)
-
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░   Progress: 87 %            (Updated: 24.04.23)
-
 Why we sleep
 
 ▓▓▓▓▓▓░░░░░░░░░░░░░░   Progress: 29 %            (Updated: 26.07.23)

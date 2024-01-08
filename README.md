@@ -2,15 +2,14 @@
 
 **Welcome** to my personal wiki.&#x20;
 
-I use this site to organise and track my interests.
+I use this site to save stuff I would like to revisit for later and track my interests.
 
 ## Interests
 
 * [Photography](photography.md) and [drones](drone.md)
 * [Cycling](cycling.md)
 * Tennis
-* Skiing / snowboard
-* Climbing
+* Snowboard / splitboard / skiing
 * [Exploring](travel.md)
   * Hiking
   * Geocaching

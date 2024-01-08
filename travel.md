@@ -4,9 +4,9 @@
 
 Goal to explore all roads in Oslo.
 
-▓▓▓▓░░░░░░░░░░░░░░░░   Progress: 19.88%
+▓▓▓▓░░░░░░░░░░░░░░░░   Progress: 21.28%
 
-**1000.4** unique Oslo kilometers (out of **5031.1** total kilometers).
+**1070.6** unique Oslo kilometers (out of **5031.0** total kilometers).
 
 Tracked with [wandrer.earth](https://wandrer.earth/).
 
@@ -17,7 +17,7 @@ Tracked with [wandrer.earth](https://wandrer.earth/).
 
 Logged: 696
 
-_(Last updated: 01.10.2023)_
+_(Last updated: 26.12.2023)_
 {% endhint %}
 
 ## Tellus
@@ -72,5 +72,7 @@ Antarctica: :x: \
 * [Geocaching](https://www.geocaching.com) - outdoor sport activity based on GPS.
 * [Atlas Obscura](https://www.atlasobscura.com/) - The definitive guide to the world’s hidden wonders.
 * [Wandrer](https://wandrer.earth) - Explore all roads in an area.
+* [Seat61](https://www.seat61.com/) - train travel in Europe.
+* [WikiTravel](https://wikitravel.org/en/Main\_Page) - The free travel guide.
 {% endtab %}
 {% endtabs %}
