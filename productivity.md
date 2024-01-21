@@ -42,6 +42,7 @@
 
 * [Good sleep, good learning, good life](https://supermemo.guru/wiki/Good\_sleep,\_good\_learning,\_good\_life)
 * [The life calendar](https://waitbutwhy.com/2014/05/life-weeks.html)
+* [Weeks of your life](https://www.weeksofyour.life)
 
 ## Quantified Self
 
