@@ -14,7 +14,7 @@
 * [BikeCad](https://www.bikecad.ca/) - Bicycle design software.
 * [Sheldon Brown](https://www.sheldonbrown.com/articles.html) - maintenance and more.
 * [Bicycle bearing greases – explained](https://bike.bikegremlin.com/1985/bicycle-bearing-grease-explained/#7)
-* [Dekktrykkalkulator](https://sykkelhjulet.no/dekktrykkalkulator/) :flag\_no:&#x20;
+* [Tire pressure calculator](https://silca.cc/pages/app-tire-pressure-calculator)
 
 ## Media
 
@@ -42,13 +42,13 @@
 
 {% hint style="info" %}
 **This year**\
-Rides: 17\
-Time: 12h 19m\
-Distance this year: 134 km
+Rides: 64\
+Time: 43h 4m\
+Distance this year: 537 km
 
 **All time**\
 Longest ride: 115 km
 
-_(Last updated: 21.01.2024)_
+_(Last updated: 16.03.2024)_
 {% endhint %}
 
