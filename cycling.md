@@ -7,6 +7,7 @@
 * [Map of Norwegian tunnels](https://www.cycletourer.co.uk/maps/tunnelmap.shtml)
 * [SykkelNorge](https://sykkelnorge.no/) :flag\_no:
 * [Sherpa Map](https://sherpa-map.com/)
+* [Cycle travel](https://cycle.travel/)
 
 ## Resources
 
