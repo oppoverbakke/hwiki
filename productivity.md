@@ -56,3 +56,4 @@
 * &#x20;[r/Productivity](https://www.reddit.com/r/productivity/) – Productivity subreddit.
 * [r/Battlestations](https://www.reddit.com/r/battlestations/) - A subreddit for pictures of computer setups.
 * [DPI / PPI Calculator](https://www.sven.de/dpi/) - for displays with square pixels.
+* [Instead of very](https://insteadofvery.com/)
