@@ -6,13 +6,6 @@
 
 > Can you make a better burger than McDonald's? Sure. Can you build a better burger-making system, though?
 
-## Software
-
-* [Notion](https://notion.so/) - workspace for your notes, tasks, wikis, and databases.
-* aText
-* 1Password
-* Bartender
-
 ## Work
 
 * [No Hello](http://www.nohello.com/) - Don't start a chat with only "Hello".
