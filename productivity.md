@@ -20,6 +20,7 @@
 * [Netflix culture: "Freedom & Responsibility Culture"](https://igormroz.com/documents/netflix\_culture.pdf)
 * [Valve](https://cdn.cloudflare.steamstatic.com/apps/valve/Valve\_NewEmployeeHandbook.pdf) - Handbook
 * [Company handbooks](https://publish.obsidian.md/davidgasquez/Company+Handbooks)
+* [PARA](https://fortelabs.com/blog/para/) - Organizing Your Digital Life
 
 ## Office
 
