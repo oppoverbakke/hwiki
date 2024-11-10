@@ -11,6 +11,7 @@
 * [Short URLs](https://sive.rs/su)
 * [Apollo in real time](https://apolloinrealtime.org/)
 * [Wikienigma](https://wikenigma.org/start) - Known unknowns
+* [Mushroom Color Atlas](https://www.mushroomcoloratlas.com/)
 
 ## Science & tech
 
