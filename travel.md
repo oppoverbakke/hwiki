@@ -15,9 +15,9 @@ Tracked with [wandrer.earth](https://wandrer.earth/).
 {% hint style="success" %}
 **Stats:**
 
-Logged: 718
+Logged: 947
 
-_(Last updated: 16.03.2024)_
+_(Last updated: 13.12.2024)_
 {% endhint %}
 
 ## Tellus
@@ -38,8 +38,8 @@ _(Last updated: 16.03.2024)_
 **Stats**
 
 _Countries:_\
-20 of 197 countries visited.\
-10.15% of all countries.&#x20;
+24 of 193 countries visited.\
+12.44 % of all countries.&#x20;
 
 _Continents:_\
 Europe: :white\_check\_mark: \
@@ -73,6 +73,7 @@ Antarctica: :x: \
 * [Atlas Obscura](https://www.atlasobscura.com/) - The definitive guide to the world’s hidden wonders.
 * [Wandrer](https://wandrer.earth) - Explore all roads in an area.
 * [Seat61](https://www.seat61.com/) - train travel in Europe.
-* [WikiTravel](https://wikitravel.org/en/Main\_Page) - The free travel guide.
+* [WikiTravel](https://wikitravel.org/en/Main_Page) - The free travel guide.
+* [Backpackingchef](https://www.backpackingchef.com/) - Recipes for adventure.
 {% endtab %}
 {% endtabs %}

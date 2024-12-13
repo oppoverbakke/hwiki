@@ -19,10 +19,10 @@
 
 ## Media
 
-* [Berm Peak](https://www.youtube.com/channel/UCu8YylsPiu9XfaQC74Hr\_Gw) - MTB, trails. _\[Youtube]_
+* [Berm Peak](https://www.youtube.com/channel/UCu8YylsPiu9XfaQC74Hr_Gw) - MTB, trails. _\[Youtube]_
 * [Berm Peak Express](https://www.youtube.com/channel/UCOpP5PqrzODWpFU961acUbg/videos) - trails and mostly biking related stuff. _\[Youtube]_
 * [Gran Fondo](https://granfondo-cycling.com/) - Cycling magazine.
-* [Pinkbike](https://www.pinkbike.com/) - MTB _\[blog]_ and [Youtube channel](https://www.youtube.com/channel/UC2GIHZpQiJy-8286f4lj\_cg).
+* [Pinkbike](https://www.pinkbike.com/) - MTB _\[blog]_ and [Youtube channel](https://www.youtube.com/channel/UC2GIHZpQiJy-8286f4lj_cg).
 * [E-mountainbike](https://ebike-mtb.com/en/) - E-mountainbike magazine.
 * [EMTB.no](https://emtb.no/) - eMTB _(partly norwegian content, but videos in english)_
 * [SYD and MACKY](https://www.youtube.com/c/SYDandMACKY/videos) _-_ riding mountain bikes.
@@ -43,13 +43,13 @@
 
 {% hint style="info" %}
 **This year**\
-Rides: 64\
-Time: 43h 4m\
-Distance this year: 537 km
+Rides: 368\
+Time: 268h 36m\
+Distance this year: 3556 km
 
 **All time**\
 Longest ride: 115 km
 
-_(Last updated: 16.03.2024)_
+_(Last updated: 13.12.2024)_
 {% endhint %}
 
