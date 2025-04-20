@@ -4,9 +4,9 @@
 
 Goal to explore all roads in Oslo.
 
-▓▓▓▓░░░░░░░░░░░░░░░░   Progress: 22.34%
+▓▓▓▓▓░░░░░░░░░░░░░░░   Progress: 26.66 %
 
-**1124.0** unique Oslo kilometers (out of **5031.0** total kilometers).
+**1393.16** unique kilometers out of **5225.49** total kilometers in **Oslo**.
 
 Tracked with [wandrer.earth](https://wandrer.earth/).
 
@@ -15,9 +15,9 @@ Tracked with [wandrer.earth](https://wandrer.earth/).
 {% hint style="success" %}
 **Stats:**
 
-Logged: 947
+Logged: 1048
 
-_(Last updated: 13.12.2024)_
+_(Last updated: 20.04.2025)_
 {% endhint %}
 
 ## Tellus
