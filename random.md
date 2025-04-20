@@ -15,16 +15,16 @@
 
 ## Science & tech
 
-* [TheBackyardScientist](https://www.youtube.com/channel/UC06E4Y\_-ybJgBUMtXx8uNNw) - Youtube channel.
+* [TheBackyardScientist](https://www.youtube.com/channel/UC06E4Y_-ybJgBUMtXx8uNNw) - Youtube channel.
 * [Adam Savage’s Tested](https://www.youtube.com/channel/UCiDJtJKMICpb9B1qf7qjEOA) - Youtube channel.
 * [Tom Scott ](https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A)- Youtube channel.
 * [Strange Parts ](https://www.youtube.com/channel/UCO8DQrSp5yEP937qNqTooOw)- Youtube channel.
-* [Dr Wasim Zahid](https://www.youtube.com/channel/UCCk8AwSV\_gkRezI-LSvg4pQ) - Youtube channel :flag\_no:&#x20;
+* [Dr Wasim Zahid](https://www.youtube.com/channel/UCCk8AwSV_gkRezI-LSvg4pQ) - Youtube channel :flag\_no:&#x20;
 * [Simone Giertz](https://www.youtube.com/channel/UC3KEoMzNz8eYnwBC34RaKCQ) - Youtube channel.
 
 ## Fun
 
-* [Extreme ironing](https://en.wikipedia.org/wiki/Extreme\_ironing)
+* [Extreme ironing](https://en.wikipedia.org/wiki/Extreme_ironing)
 * [Good Old Games](https://www.gog.com/en/good-old-games) - classic games.
 * [Build a moc](https://buildamoc.com/) - lego.
 
@@ -40,3 +40,4 @@
 * [Serenbe](https://www.serenbe.com/about) - biophilic community.
 * [QUQUQ](https://ququq.info/usa/) - mini mobile home in a box.
 * [Pretty good house](https://www.prettygoodhouse.org/) - Guidelines for Designing and Building a Pretty Good House.
+* [Stoop Coffee: How a Simple Idea Transformed My Neighborhood](https://supernuclear.substack.com/p/stoop-coffee-how-a-simple-idea-transformed)
