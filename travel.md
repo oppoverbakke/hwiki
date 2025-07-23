@@ -38,14 +38,14 @@ _(Last updated: 20.04.2025)_
 **Stats**
 
 _Countries:_\
-24 of 193 countries visited.\
-12.44 % of all countries.&#x20;
+25 of 193 countries visited.\
+12.95 % of all countries.&#x20;
 
 _Continents:_\
 Europe: :white\_check\_mark: \
 North America: :white\_check\_mark: \
 South America: :white\_check\_mark: \
-Africa: :x: \
+Africa: :white\_check\_mark: \
 Asia: :white\_check\_mark: \
 Australia: :x: \
 Antarctica: :x: \
