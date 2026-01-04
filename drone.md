@@ -1,6 +1,6 @@
 # Drone
 
-## Gear
+## Gear I use
 
 * DJI Mini 3 Pro
 * DJI Mavic Mini
@@ -11,7 +11,7 @@
 
 ## Resources
 
-* [UAV Forecast](https://www.uavforecast.com/) - also available as app for [iOS](https://apps.apple.com/us/app/uav-forecast/id1050023752) and [Android](https://play.google.com/store/apps/details?id=com.uavforecast\&hl=en\_US)
+* [UAV Forecast](https://www.uavforecast.com/) - also available as app for [iOS](https://apps.apple.com/us/app/uav-forecast/id1050023752) and [Android](https://play.google.com/store/apps/details?id=com.uavforecast\&hl=en_US)
 * [Litchi](https://flylitchi.com/) - autonomous flight app for your DJI drone.:moneybag:&#x20;
 * [Safetofly](https://www.safetofly.no/) - kart for dronepiloter i Norge. [Mobiltilpasset versjon her](https://www.safetofly.no/mobile).:flag\_no:
 * [Luftfartstilsynet flydrone.no](https://flydrone.no/) - registrering, nettkurs, eksamen:flag\_no:
@@ -25,14 +25,4 @@
 
 * [The mystery of the Gatwick drone](https://www.theguardian.com/uk-news/2020/dec/01/the-mystery-of-the-gatwick-drone)
 
-## Stats
-
-{% hint style="info" %}
-Flights: 129\
-Distance: 54,2 km\
-Hours: 14.3
-
-_(Last updated: 07.09.22)_
-{% endhint %}
-
-\
+<br>

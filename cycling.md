@@ -17,18 +17,6 @@
 * [Bicycle bearing greases – explained](https://bike.bikegremlin.com/1985/bicycle-bearing-grease-explained/#7)
 * [Tire pressure calculator](https://silca.cc/pages/app-tire-pressure-calculator)
 
-## Media
-
-* [Berm Peak](https://www.youtube.com/channel/UCu8YylsPiu9XfaQC74Hr_Gw) - MTB, trails. _\[Youtube]_
-* [Berm Peak Express](https://www.youtube.com/channel/UCOpP5PqrzODWpFU961acUbg/videos) - trails and mostly biking related stuff. _\[Youtube]_
-* [Gran Fondo](https://granfondo-cycling.com/) - Cycling magazine.
-* [Pinkbike](https://www.pinkbike.com/) - MTB _\[blog]_ and [Youtube channel](https://www.youtube.com/channel/UC2GIHZpQiJy-8286f4lj_cg).
-* [E-mountainbike](https://ebike-mtb.com/en/) - E-mountainbike magazine.
-* [EMTB.no](https://emtb.no/) - eMTB _(partly norwegian content, but videos in english)_
-* [SYD and MACKY](https://www.youtube.com/c/SYDandMACKY/videos) _-_ riding mountain bikes.
-* [Syd Fixes Bikes](https://www.youtube.com/channel/UCTRprXaBda35s4j1I1Td5bA) - bike maintenance.
-* [Cycling Weekly](https://www.youtube.com/channel/UC2zZkTwX2DtWeBCMdhk6AQQ) - bike reviews and tips.
-
 ## Norsk innhold :flag\_no:&#x20;
 
 * [Frikart.no ](http://frikart.no) &#x20;

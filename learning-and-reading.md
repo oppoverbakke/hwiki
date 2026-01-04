@@ -1,45 +1,10 @@
 # Learning & reading
 
-## Books
-
-**Currently reading:**
-
-Why we sleep
-
-▓▓▓▓▓▓░░░░░░░░░░░░░░   Progress: 29 %            (Updated: 26.07.23)
-
 ## Podcasts
 
 * &#x20;[Learn anything](https://github.com/learn-anything/podcasts#readme) - curated list of podcasts
 
-### Stats
-
-{% hint style="info" %}
-* 58 podcasts currently subscribed to.
-* Listening since 21.02.2017:
-  * 198 days listened.
-  * 101 days saved _(using variable speed)_.
-
-_(Last updated  24.04.2023)_
-{% endhint %}
-
 ## Reading
-
-### Blogs
-
-* [Stratechery](https://stratechery.com/) - technology analysis.
-* [Marco Arment](https://marco.org/) - technology.
-* [Roy Solberg](https://blog.roysolberg.com/) - technology, security.
-
-### Norske medier:flag\_no:&#x20;
-
-* [Chaffeys blogg](https://paulchaffey.blogspot.com/) - samfunn, politikk.
-* [Olav Torvund](https://blogg.torvund.net/) - juss, samfunn.
-* [NRKbeta](https://nrkbeta.no/) - teknologi, media, [personvern](privacy/).
-* [Eivind Berg](https://www.eivindberg.no/) - økonomi, investering og sparing.
-* [Bekkelund](https://www.bekkelund.net/) - teknologi, samfunn.
-* [Eirik Newth](http://newth.net/) - verdensrommet, [Mars](https://www.newth.net/mars/), personlig blogg.
-* [Kode24](https://www.kode24.no/)  - teknologi, programmering.
 
 ### Newsletters
 
@@ -52,7 +17,6 @@ _(Last updated  24.04.2023)_
 ### Books
 
 * [Patrick Collison: Bookshelf](https://patrickcollison.com/bookshelf)
-* [Goodreads](https://www.goodreads.com/) - book recommendations
 
 ## Recommended articles
 

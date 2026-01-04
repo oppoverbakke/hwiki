@@ -3,7 +3,7 @@
 ## Investing
 
 * [Bogleheads (forum)](https://www.bogleheads.org/forum/index.php) - Investing advice inspired by John Bogle.
-  * [Investing start-up kit for non-US investors](https://www.bogleheads.org/wiki/Bogleheads%C2%AE\_investing\_start-up\_kit\_for\_non-US\_investors)
+  * [Investing start-up kit for non-US investors](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investing_start-up_kit_for_non-US_investors)
 * [Stock Series](https://jlcollinsnh.com/stock-series/) - Investing in stocks (_JL Collins_).
 * [The basics of portfolio diversification](https://twitter.com/10kdiver/status/1281968727089573889)
 * [Fear & Greed Index](https://money.cnn.com/data/fear-and-greed/) - What emotion is driving the market now?
@@ -32,7 +32,7 @@
 * [Planet Money](https://www.npr.org/sections/money/) - _\[podcast]_ The economy explained.
 * [The Finanser](https://blogg.nordnet.no/) - _\[blog]_ by Chris Skinner.
 * [JL Collins](https://jlcollinsnh.com/) - _\[blog]_ The Simple Path to Wealth
-  * _Recommended article:_ [_How I failed my daughter and a simple path to wealth_](https://jlcollinsnh.com/2011/06/08/how-i-failed-my-daughter-and-a-simple-path-to-wealth/)__
+  * _Recommended article:_ [_How I failed my daughter and a simple path to wealth_](https://jlcollinsnh.com/2011/06/08/how-i-failed-my-daughter-and-a-simple-path-to-wealth/)
 * [Of Dollars and Data](https://ofdollarsanddata.com/) - _\[blog]_ Personal Finance using Data Analysis.
 * [Mr. Money Mustache](https://www.mrmoneymustache.com/) - _\[blog]_ Financial Freedom Through Badassisty
 * [Money Stuff](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) - _\[blog]_ Matt Levine, Bloomberg Opinion Columnist
@@ -52,11 +52,11 @@
 
 ## Books
 
-* [The Intelligent Investor](https://www.goodreads.com/book/show/106835.The\_Intelligent\_Investor) - __ by Benjamin Graham
+* [The Intelligent Investor](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor) - by Benjamin Graham
 
 ## Excel / Sheets
 
-* [Function: Sparkline](https://support.google.com/docs/answer/3093289?hl=en\&ref\_topic=3105411) - Creates a miniature chart contained within a single cell.
+* [Function: Sparkline](https://support.google.com/docs/answer/3093289?hl=en\&ref_topic=3105411) - Creates a miniature chart contained within a single cell.
 * [Function: GOOGLEFINANCE](https://support.google.com/docs/answer/3093281?hl=en) - Fetches current or historical securities information from Google Finance.
 * [Vertex42](https://www.vertex42.com/) - The guide to excel in everything.
 * [Personalfinance / tools](https://www.reddit.com/r/personalfinance/wiki/tools) - Spreadsheets templates and other finance tools.
@@ -82,7 +82,7 @@
 
 ## Norske økonomipodkaster :flag\_no:&#x20;
 
-* [Tid er penger](https://podcasts.apple.com/no/podcast/tid-er-penger-en-podcast-med-peter-warren/id1229260798) - __ Peter Warren. Forvalter, trader og investor.
+* [Tid er penger](https://podcasts.apple.com/no/podcast/tid-er-penger-en-podcast-med-peter-warren/id1229260798) - Peter Warren. Forvalter, trader og investor.
 * [Pengesnakk](https://www.pengesnakk.no)- økonomitips, sparing.
 * [Pengepodden](https://www.nordnet.no/blogg/pengepodden/) - Podcast fra Nordnet.
 * [BYNN](https://bynorthernnorway.com/category/podcast/) - start-ups, companies, people, societies and culture.
@@ -93,7 +93,7 @@
 ## FinTwit - (Twitter) :flag\_no:&#x20;
 
 Økonomidiskusjon på Twitter. \
-[#FinTwit](https://twitter.com/hashtag/fintwit?src=hashtag\_click)
+[#FinTwit](https://twitter.com/hashtag/fintwit?src=hashtag_click)
 
 #### Noen anbefalte:
 
@@ -101,7 +101,7 @@
 * [@EiendomsmeglerO](https://twitter.com/EiendomsmeglerO) - eiendom.
 * [@aksjerogfond](https://twitter.com/aksjerogfond) - aksjer og fond.
 * [@LocationLocati5](https://twitter.com/LocationLocati5) - eiendom.
-* [@Th\_\_Nielsen](https://twitter.com/Th\_\_Nielsen) - aksjer.
+* [@Th\_\_Nielsen](https://twitter.com/Th__Nielsen) - aksjer.
 * [@Finansnerden](https://twitter.com/Finansnerden) - økonomisk frihet.
 * [@JanOftedal3](https://twitter.com/JanOftedal3) - eiendom.
 * [@palrestad](https://twitter.com/palrestad) - eiendom.
@@ -118,11 +118,11 @@
 > The highest dividend money pays is providing the ability to control your time. [\[Source\]](https://www.collaborativefund.com/blog/financial-advice-for-my-new-daughter/)
 
 > Any money you spend that does not make you happier is wasted.\*\
-> (\* Research shows this ends up being most of our money).[ \[Source @ 9:39\]](https://www.youtube.com/watch?v=8-Li\_sFNc4Q)
+> (\* Research shows this ends up being most of our money).[ \[Source @ 9:39\]](https://www.youtube.com/watch?v=8-Li_sFNc4Q)
 
 > More fiction has been written in Microsoft Excel than in Microsoft Word. [\[Source\]](https://ofdollarsanddata.com/what-does-the-stock-market-do-around-election-day/)
 
-> Once-in-a-century events happen all the time because lots of unrelated things could go wrong. **** If, in any given year, there’s a 1% chance of a new disastrous pandemic, a 1% chance of a crippling depression, a 1% chance of a catastrophic flood, a 1% chance of political collapse, and on and on, then the odds that _something_ bad will happen next year – or any year – are … _pretty good_. It’s why Arnold Toynbee says history is “just one damn thing after another.” [\[Source\]](https://www.collaborativefund.com/blog/sure/)
+> Once-in-a-century events happen all the time because lots of unrelated things could go wrong. If, in any given year, there’s a 1% chance of a new disastrous pandemic, a 1% chance of a crippling depression, a 1% chance of a catastrophic flood, a 1% chance of political collapse, and on and on, then the odds that _something_ bad will happen next year – or any year – are … _pretty good_. It’s why Arnold Toynbee says history is “just one damn thing after another.” [\[Source\]](https://www.collaborativefund.com/blog/sure/)
 
 > "Spend extravagantly on things you love, and cut mercilessly on things you don’t." \
 > \- Ramit Sethi

@@ -1,6 +1,6 @@
 # Introduction
 
-**Welcome** to my personal wiki.&#x20;
+**Welcome** to my wiki page.&#x20;
 
 I use this site to save stuff I would like to revisit for later and track my interests.
 
@@ -16,10 +16,9 @@ I use this site to save stuff I would like to revisit for later and track my int
 * [Learning](learning-and-reading.md)
 * [Economy](finance.md)
 * [Food](food.md)
+* Freediving
 
 ## Found something wrong or outdated
 
 Great, I would really appreciate if you added the issue [here](https://github.com/bakke92/hwiki/issues) so I can fix it.
-
-##
 

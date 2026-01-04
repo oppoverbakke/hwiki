@@ -30,12 +30,8 @@ description: Privacy respecting tools and services. Inspiration for better priva
 | [10 Minute Mail](https://10minutemail.net/)                                                        | E-mail address lasting for 10 min.                                                                                           |
 | [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/?src=search)          | Ad-block. Can also be used to remove Cookie Pop-ups, go to: Settings > Filters list > Annoyances, turn on "EasyList Cookie". |
 | [DuckDuckGo](https://duck.com)                                                                     | Online search.                                                                                                               |
-| [Qwant](https://www.qwant.com)                                                                     | Online search.                                                                                                               |
-| [Track THIS](https://trackthis.link/)                                                              | Open 100 tabs of pure madness to fool trackers.                                                                              |
 | [Noiszy](https://noiszy.com/)                                                                      | Make some noise for trackers.                                                                                                |
 | [Fawkes](https://sandlab.cs.uchicago.edu/fawkes/)                                                  | Algorithm and software tool to limit how images can be tracked by facial recognition.                                        |
-| [Mullvad](https://mullvad.net)                                                                     | VPN                                                                                                                          |
-| [Teddit](https://teddit.net/)                                                                      | Reddit, but privacy respecting.                                                                                              |
 
 ## Ideas for better privacy
 
@@ -44,7 +40,7 @@ description: Privacy respecting tools and services. Inspiration for better priva
   * My view on current situation: Cookie notices should be standardised and implented non-intrusive.
   * A better solution: [Inrupt: Solid](https://inrupt.com/).
 * [Pretty Good Privacy (PGP)](https://www.openpgp.org/) - encryption for email
-* [Differential privacy](https://en.wikipedia.org/wiki/Differential\_privacy)
+* [Differential privacy](https://en.wikipedia.org/wiki/Differential_privacy)
 
 |          |                                                     |
 | -------- | --------------------------------------------------- |
@@ -59,7 +55,7 @@ description: Privacy respecting tools and services. Inspiration for better priva
 
 > ‘ambient privacy’—the understanding that there is value in having our everyday interactions with one another remain outside the reach of monitoring, and that the small details of our daily lives should pass by unremembered. What we do at home, work, church, school, or in our leisure time does not belong in a permanent record. Not every conversation needs to be a deposition.
 >
-> _Source:_ [_https://idlewords.com/2019/06/the\_new\_wilderness.htm_](https://idlewords.com/2019/06/the\_new\_wilderness.htm)
+> _Source:_ [_https://idlewords.com/2019/06/the\_new\_wilderness.htm_](https://idlewords.com/2019/06/the_new_wilderness.htm)
 >
 > Privacy matters because the lack of it gives others power over you. \[...] You have your attention, your presence of mind – everyone is fighting for it. They want to know more about you so they can know how best to distract you, even if that means luring you away from quality time with your loved ones or basic human needs such as sleep.
 >
