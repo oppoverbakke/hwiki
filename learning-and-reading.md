@@ -4,7 +4,9 @@
 
 * &#x20;[Learn anything](https://github.com/learn-anything/podcasts#readme) - curated list of podcasts
 
-## Reading
+## Video
+
+* [High-signal YouTube channels for learning, explanation, and insight](https://roundible.com/ZzWMbrBN)
 
 ### Newsletters
 
