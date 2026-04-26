@@ -16,6 +16,7 @@
 * [Sheldon Brown](https://www.sheldonbrown.com/articles.html) - maintenance and more.
 * [Bicycle bearing greases – explained](https://bike.bikegremlin.com/1985/bicycle-bearing-grease-explained/#7)
 * [Tire pressure calculator](https://silca.cc/pages/app-tire-pressure-calculator)
+* [Two Wheel Tools](https://2wheeltools.com/gear-calculator) - gear calculator and more.
 
 ## Norsk innhold :flag\_no:&#x20;
 

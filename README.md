@@ -6,7 +6,7 @@ I use this site to save stuff I would like to revisit for later and track my int
 
 ## Interests
 
-* [Photography](photography.md) and [drones](drone.md)
+* [Photography](photography.md)
 * [Cycling](cycling.md)
 * Tennis
 * Snowboard / splitboard / skiing
